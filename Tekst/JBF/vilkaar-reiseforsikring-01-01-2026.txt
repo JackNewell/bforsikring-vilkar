@@ -1,0 +1,687 @@
+Vilkår for reiseforsikring — JBF
+Kilde: https://www.jbf.no/-/media/banker/js/dokumenter/vilkaar/2026/vilkaar-reiseforsikring-01-01-2026.pdf
+Sist endret: 2026-08-26T14:44:10Z
+============================================================
+
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 1 av 14 
+ 
+Gjelder fra 01.01.2026 
+Erstatter vilkår av 01.01.2025 
+I tillegg til disse vilkårene gjelder 
+• forsikringsbeviset med ansvarsbegrensninger og sikkerhetsforskrifter 
+• generelle vilkår 
+• forsikringsavtaleloven (FAL) 
+ 
+1 HVEM FORSIKRINGEN GJELDER FOR 3 
+2 HVOR FORSIKRINGEN GJELDER 3 
+3 HVILKE REISER FORSIKRINGEN OMFATTER 3 
+3.1 REISENS VARIGHET 3 
+3.2 REISER SOM IKKE ER OMFATTET 3 
+4 AVBESTILLINGSFORSIKRING 4 
+4.1 UTGIFTER SOM OMFATTES 4 
+4.2 UTGIFTER SOM IKKE OMFATTES 4 
+4.3 FORSIKRINGSSUM 4 
+4.4 HVILKE HENDELSER FORSIKRINGEN DEKKER 4 
+4.5 HVILKE HENDELSER FORSIKRINGEN IKKE DEKKER 5 
+4.6 EGENANDEL 5 
+5 REISEFORSINKELSER 5 
+5.1 FORSINKET AVGANG 5 
+5.2 FORSINKET ANKOMST 5 
+5.3 FORSINKET BAGASJE 6 
+6 REISEGODS 6 
+6.1 FORSIKRINGEN OMFATTER 6 
+6.2 FORSIKRINGEN OMFATTER IKKE 6 
+6.3 HVILKE SKADER OG TAP FORSIKRINGEN DEKKER 6 
+6.4 BEGRENSNINGER FOR ENKELTGJENSTANDER 7 
+6.5 HVILKE SKADER OG TAP FORSIKRINGEN IKKE DEKKER 7 
+6.6 BRUKS- OG ALDERSFRADRAG 7 
+6.7 EGENANDEL 7 
+6.8 MELDEPLIKT 8 
+7 UHELLSFORSIKRING 8 
+7.1 HVA FORSIKRINGEN DEKKER 8 
+7.2 HVA FORSIKRINGEN IKKE DEKKER 8 
+8 REISESYKE/HJEMTRANSPORT/REISEAVBRUDD 8 
+8.1 REISESYKE 8 
+8.2 REISELEDSAGERS ULYKKE/SYKDOM 9 
+8.3 HJEMTRANSPORT 9 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 2 av 14 
+8.4 REISEAVBRUDD 9 
+8.5 UTGIFTER SOM IKKE ER OMFATTET 9 
+9 REISEULYKKE 10 
+9.1 HVA FORSIKRINGEN OMFATTER 10 
+9.2 FORSIKRINGSSUMMER 11 
+9.3 SPESIELLE BEGRENSNINGER FOR DELTAKELSE I SPORT OG FRITIDSAKTIVITETER 11 
+9.4 BEGUNSTIGELSESREGLER ETTER DØDSFALL 11 
+9.5 EGENANDEL 11 
+10 EVAKUERING VED KRIG, URO OG NATURKATASTROFE 11 
+11 STREIK – LOCKOUT - KONKURS 12 
+12 TAPT ARBEIDSFORTJENESTE 12 
+13 ANSVARSFORSIKRING 12 
+13.1 HVA FORSIKRINGEN OMFATTER 12 
+13.2 HVA FORSIKRINGEN IKKE OMFATTER 12 
+13.3 DINE PLIKTER VED SKADETILFELLE 12 
+13.4 JBF SINE PLIKTER VED SKADETILFELLE 12 
+14 RETTSHJELP 13 
+14.1 HVA FORSIKRINGEN DEKKER 13 
+14.2 TVISTER SOM IKKE DEKKES 13 
+14.3 SKADEOPPGJØRSREGLER 13 
+15 EGENANDEL LEIEBIL PÅ FERIEREISE 14 
+15.1 HVA FORSIKRINGEN DEKKER 14 
+15.2 HVA FORSIKRINGEN IKKE DEKKER 14 
+15.3 DOKUMENTASJONSKRAV 14 
+16 DOBBELFORSIKRING/REGRESS 14 
+ 
+ 
+ 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 3 av 14 
+1 HVEM FORSIKRINGEN GJELDER FOR 
+Forsikringen kan gjelde kun for deg som forsikringstaker alene eller for deg og din familie. 
+Det kommer frem av forsikringsbeviset hvilket av disse to alternativene du har. 
+Ved familieforsikring gjelder forsikringen også for 
+• din ektefelle/samboer som har samme folkeregistrerte adresse som deg 
+• dine eller din ektefelles/samboers barn. Barn født ved surrogati blir medforsikret fra det tidspunkt det har fått norsk 
+pass og personnummer, tidligst etter at det er utskrevet fra sykehuset. Sykdom og skade som er medfødt eller påvist før 
+dette omfattes ikke av reiseforsikringen. 
+• fosterbarn når de har samme bostedsadresse som deg 
+• adoptivbarn fra det tidspunkt den faktiske omsorgen overtas 
+• dine barnebarn og oldebarn når de reiser sammen med deg og/eller din ektefelle/ samboer og de ikke er omfattet av en 
+annen reiseforsikring. 
+Ved familieforsikring gjelder bestemmelsene i forsikringsvilkåret hvor det kun er henvist til deg, også for de øvrige medforsikrede 
+familiemedlemmene. 
+Det er en forutsetning for forsikringen at de forsikrede har registrert bostedsadresse i Norge, samt at de har fulle rettigheter i 
+norsk folketrygd. 
+Forsikringen opphører for medforsikret ektefelle/samboer fra det tidspunkt dere faktisk flytter fra hverandre. 
+Forsikringen omfatter kun barn, adoptivbarn, fosterbarn, barnebarn og oldebarn som ikke har fylt 21 år ved reisens begynnelse. 
+2 HVOR FORSIKRINGEN GJELDER 
+Forsikringen gjelder på reiser i hele verden. 
+Forsikringen gjelder ikke i hjemmet, på arbeids-/undervisningssted eller barnehage i arbeids-/undervisnings-/barnehagetiden, i 
+Norge. 
+3 HVILKE REISER FORSIKRINGEN OMFATTER 
+3.1 REISENS VARIGHET 
+JBF har to forskjellige reiseforsikringer å velge mellom, Standard og Super. Det fremgår av forsikringsbeviset hvilket av disse to 
+alternativene du har. 
+3.1.1 Standard 
+Forsikringen gjelder for reiser med varighet inntil 45 dager. 
+3.1.2 Super 
+Forsikringen gjelder for reiser med varighet inntil 90 dager 
+En reises varighet regnes fra den dag man reiser fra bostedsadressen og til man er tilbake på samme adresse. 
+3.2 REISER SOM IKKE ER OMFATTET 
+Forsikringen gjelder ikke på reiser til områder som Utenriksdepartementet fraråder å reise til. 
+Forsikringen gjelder ikke på ekspedisjoner, det vil si spesielt risikofylte turer til steder hvor det er dårlig infrastruktur, langt til 
+nærmeste sykehus eller vanskelig å få tak i helsepersonell eller transport. 
+Eksempel på ekspedisjoner er: 
+• turer til Arktis (med unntak av Svalbard), Antarktis Sibir, Amazonas, Himalaya, Andesfjellene og Nord-Canadas villmark 
+• skiturer på Grønland, sykling gjennom Sahara og toppturer i Alpene 
+• turer på fjell over 5 000 meter 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 4 av 14 
+4 AVBESTILLINGSFORSIKRING 
+Forsikringen må være kjøpt før første innbetaling av reisekostnadene er foretatt. 
+ 
+Forsikringen gjelder ved avbestilling av reiser som er omfattet av forsikringen og som foretas før reisens planlagte 
+begynnelsesdato. 
+Forsikringen gjelder kun for private reiser/reisearrangementer. Forsikringen gjelder ikke for tjenestereiser. 
+Avbestilling må foretas før reisens/leieforholdets planlagte begynnelsesdato. Årsaken til avbestillingen må inntreffe i 
+forsikringstiden, og være dekket under punkt 4.4. Den forsikrede reise/leieavtale må være betalt før utreisedato. 
+Inngått kontrakt med betalingsforpliktelse anses som forhåndsbetalt reiseomkostning. 
+4.1 UTGIFTER SOM OMFATTES 
+3Forsikringen omfatter det du, ifølge kvittering, har betalt for den avbestilte reise, overnatting, leieforhold og arrangementer, for 
+personer nevnt i punkt 1 og som dere ikke får refundert i henhold til de aktuelle avbestillingsbestemmelser. 
+4.2 UTGIFTER SOM IKKE OMFATTES 
+Forsikringen omfatter ikke 
+• skatter og offentlige avgifter 
+• tapte/utgåtte bonuspoeng 
+• gebyrer ved refusjon av skatter og avgifter 
+• reiser som er overdratt til andre 
+• egen timeshareandel, inkl. årlige kostander og tapte leieinntekter 
+• arrangementer som avlyses av arrangør eller som ikke er en del av en reise med overnatting. 
+4.3 FORSIKRINGSSUM 
+Forsikringssummen er inntil kr 80.000 pr person, begrenset til kr 160.000 pr familie. 
+4.4 HVILKE HENDELSER FORSIKRINGEN DEKKER 
+4.4.1 Forsikringen dekker avbestillingsutgifter som nevnt i punkt 4.1 når reisen ikke kan gjennomføres på grunn av 
+• uventet akutt og behandlingskrevende sykdom, akutt forverring av kronisk lidelse, ulykkesskade eller dødsfall som 
+rammer deg, din nærmeste familie, din eneste reiseledsager eller noen i dennes nærmeste familie. Forverring av 
+sykdom eller lidelse som er kjent før reisen, er ikke å anse som uventet og akutt sykdom. 
+• at en i ditt reisefølge (inntil 6 personer) blir uventet og akutt syk, alvorlig skadet i en ulykke eller dør. 
+• at en nøkkelperson i ditt reisefølge ikke kan gjennomføre reisen på grunn at vedkommende blir uventet og akutt syk, 
+alvorlig skadet i en ulykke eller dør mindre enn 14 dager før planlagt avreisedato. 
+• at du, din ektefelle/samboer, barn eller eneste reiseledsager får endringsmelding om en fastsatt dato for operasjon, 
+medisinsk behandling eller undersøkelse mindre enn 14 dager før avreise 
+• brann, innbrudd eller vannledningsskade i din bopel, forretning eller kontor som medfører at du må være til stede 
+• at du eller din eneste reiseledsager blir innkalt som jurymedlem, meddommer eller vitne i en rettssak mindre enn 14 
+dager før planlagt avreisedato 
+• at det på reisemålet – mindre enn 72 timer (3 døgn) før planlagt avreise – inntreffer en alvorlig hendelse som epidemi, 
+naturkatastrofe, terrorhandling eller annen krigslignende handling som umuliggjør innreise til området når 
+Utenriksdepartementet fraråder alle reiser til området 
+• samlivsbrudd mellom deg og din ektefelle/samboer når dere skal på felles reise 
+4.4.2 Definisjoner 
+• Med nærmeste familie menes ektefelle, samboer, barn, barnebarn, oldebarn, foreldre, besteforeldre, oldeforeldre, 
+søsken, svogere, svigerinner, svigerforeldre og svigerdatter/sønn bosatt i et EØS-land. 
+• Med eneste reiseledsager menes den person som enten er påført samme reisebevis eller billett som deg eller har 
+inntegnet seg til reisen sammen med deg i den hensikt at dere skal foreta reisen i fellesskap. Det samme gjelder for 
+person som må følge deg på reisen av medisinske årsaker. 
+• Med reisefølge menes personer som har kjøpt en reise sammen, med avreise samtidig og med samme reisemål. 
+• Med en nøkkelperson menes en person de øvrige reisende er avhengig av på en slik måte at reisen ikke kan 
+gjennomføres uten denne personens deltakelse (sjåfør, båtfører, dirigent, m.fl.). 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 5 av 14 
+4.5 HVILKE HENDELSER FORSIKRINGEN IKKE DEKKER 
+Forsikringen dekker ikke avbestillingsutgifter som skyldes 
+• svangerskap, svangerskapsplager eller frivillig abort. Avbestilling som følge av alvorlige, uventede komplikasjoner som 
+inntreffer før den 36. svangerskapsuke er likevel omfattet. 
+• fødsel fra og med den 36. svangerskapsuke 
+• at reisen er bestilt i strid med legens råd 
+• at sykehusopphold/utredning/undersøkelse /behandling tar lengre tid enn planlagt 
+• at behandling/undersøkelse/operasjon/ rekreasjons-/kuropphold fremskyndes eller utsettes. Se dog punkt 4.4 
+underpunkt 4. 
+• at hensikten med reisen bortfaller 
+• frykt for sykdom/smitte i andre tilfeller enn hva som er beskrevet i punkt 4.44 underpunkt 7 
+• pålagt karantene og andre forebyggende smitteverntiltak 
+• innkalling til behandling, utredning eller operasjon når du sto på venteliste før reisen ble betalt 
+4.6 EGENANDEL 
+I erstatningsoppgjøret fratrekkes en egenandel på kr 200 pr. person. For Super reiseforsikring er det ingen egenandel. 
+5 REISEFORSINKELSER 
+5.1 FORSINKET AVGANG 
+Dersom det forhåndsbetalte offentlige transportmiddelet sikrede skal reise med ikke går til avtalt tidspunkt, erstatter JBF 
+nødvendige og dokumenterte merutgifter til innhenting av den fastlagte reiseruten eller overnatting. 
+5.1.1 Krav til forsinkelsen 
+Forsinkelsen må direkte skyldes 
+• ekstremvær som forsinker det offentlige transportmiddelet sikrede skal reise med 
+• teknisk feil og/eller trafikkuhell som rammer det transportmiddelet sikrede reiser med/skal reise med og som oppstår 
+etter at reisen er påbegynt 
+Forsinkelsen må ha oppstått etter at reisen er påbegynt og det forutsettes at forsinkelsen og årsaken er bekreftet skriftlig av 
+reisearrangør, trafikkselskap eller bergingsselskap. 
+5.1.2 Sumbegrensninger 
+Erstatningen er begrenset til kr 1.500 pr. person og kr 4.000 pr. familie. Med Super reiseforsikring er erstatningen begrenset til kr 
+3.000 pr person og kr 6.000 pr. familie. 
+5.2 FORSINKET ANKOMST 
+Dersom sikrede uforskyldt møter forsinket til reisearrangørens transportmiddel, erstatter JBF nødvendige og dokumenterte 
+merutgifter til reise for å innhente den fastlagte og forhåndsbetalte reiseruten. 
+5.2.1 Krav til forsinkelsen 
+Forsinkelsen må direkte skyldes 
+• ekstremvær, teknisk feil, trafikkuhell eller annen plutselig og uforutsett hendelse som fører til ekstraordinære 
+trafikkforhold som forsinker det offentlige transportmiddelet sikrede har billett med og reiser med eller skal reise med 
+• ekstremvær, teknisk feil eller trafikkuhell som krever berging av det private kjøretøyet sikrede reiser med. 
+Forsinkelsen må ha oppstått etter at reisen er påbegynt og det forutsettes at forsinkelsen og årsaken er bekreftet skriftlig av 
+reisearrangør, trafikkselskap eller bergingsselskap. 
+5.2.2 Utgifter som omfattes 
+JBF erstatter 
+• reiseutgifter med inntil kr 10.000 pr. person, inntil kr 30.000 pr. familie. Med Super reiseforsikring erstattes inntil kr 
+20.000 pr. person og kr 50.000 pr. familie 
+• overnattingsutgifter med inntil kr 1.500 pr. person, inntil kr 4.000 pr. familie. Med Super reiseforsikring erstattes inntil kr 
+2.500 pr. person, inntil kr 6.000 pr. familie. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 6 av 14 
+5.2.3 Utgifter som ikke omfattes 
+JBF erstatter ikke utgifter ved flyforsinkelse, kansellering eller overbooking som omfattes av EU direktiv 261/2004 og som 
+flyselskapene selv har erstatningsansvaret for. 
+5.3 FORSINKET BAGASJE 
+Dersom innsjekket bagasje ankommer forsinket til reisemålet og forsinkelsen er bekreftet av transportør (PIR-rapport), refunderes 
+nødvendige og dokumenterte merutgifter for innkjøpte klær og toalett saker i den tiden bagasjen er savnet. Slike utgifter 
+refunderes også dersom innsjekket bagasje blir forbyttet og ikke kommer til rette. 
+Forsikringen gjelder ikke ved forsinkelse på hjemreisen. 
+5.3.1 Forsikringssummer 
+• Standard 
+Inntil kr 4.000 pr. person og kr 10.000 pr. familie. 
+• Super 
+Inntil kr 5.000 pr. person og kr 20.000 pr. familie. 
+ 
+Dersom innsjekket bagasje er ikke er tilgjengelig på grunn av flyforsinkelse som medfører ufrivillig transitt med overnatting, 
+refunderes inntil kr 500 per person, inntil 2.000 pr. familie for nødvendige innkjøp av klær og toalettsaker. 
+6 REISEGODS 
+6.1 FORSIKRINGEN OMFATTER 
+• dine personlige eiendeler som du har med deg under reisen og oppholdet, for ditt personlige bruk 
+• innsjekket/ekspedert reisegods hvis du reiser sammen med transportmiddelet. En atskillelse som skyldes 
+transportørens disponering, har ingen betydning for din rett til erstatning. 
+• gjenstander du har leid/lånt før avreisen og påtatt deg ansvaret for, med mindre dette dekkes av eiers forsikring. 
+• erstatningen er begrenset til kr 50.000 pr person og totalt kr 150.000 for alle forsikrede. Med super reiseforsikring er det 
+ingen begrensning. 
+Utover forsikringssummen omfatter dekningen 
+• rimelige og nødvendige utgifter til gjenanskaffelse av pass og innhenting av den fastlagte reiseruten dersom tapet ikke 
+dekkes på annen måte 
+• penger med inntil kr 3.000 pr skadetilfelle. 
+6.2 FORSIKRINGEN OMFATTER IKKE 
+• motorkjøretøy og campingvogner med tilbehør. Med tilbehør menes reservedeler og fastmontert utstyr som for 
+eksempel musikkanlegg og ski-/bagasjeboks. Kjøredress, hjelm, hansker og støvler anses også som tilbehør når dette er i 
+bruk eller når det oppbevares sammen med motorkjøretøyet. 
+• båter med tilbehør. Kajakk/kano regnes ikke som båt i denne sammenheng. 
+• basehopperutstyr 
+• flyttegods, innbo og møbler 
+• varer, vareprøver, maskiner og verktøy 
+• tegninger, manuskripter, dokumenter, datafiler, verdipapirer, medlems-/ID-/adgangskort, sertifikater/bevis av ethvert 
+slag 
+• samlinger. Med samlinger menes gjenstander/ting med samlerinteresse/samleverdi som for eksempel kunstverk, mynt-, 
+seddel- og frimerkesamling 
+• dyr 
+• økonomisk tap som følge av tapte eller skadede eiendeler 
+• gjenstander som er kjøpt eller mottatt som gave utenfor Norge og som ikke er deklarert ved innførsel i henhold til 
+gjeldende regelverk. Se Tolloven/Merverdiavgiftsloven med forskrifter. 
+6.3 HVILKE SKADER OG TAP FORSIKRINGEN DEKKER 
+JBF erstatter tap av eller skade på forsikret reisegods ved 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 7 av 14 
+• tyveri. Med tyveri menes at eiendeler du har i din besittelse tas fra deg, jf. straffelovens §§ 321, 322 og 323. Eiendeler 
+som glemmes/mistes/bortkommer og senere beholdes av finneren anses ikke som tyveri, jf. straffeloven § 345 
+• ran og overfall, jf. straffelovens §§ 327, 328 og 329 
+• naturuhell. Med naturuhell menes plutselige, uventede skader av ekstraordinær karakter der naturens voldsomhet og 
+krefter er det særegne. 
+• brann/nedsoting, eksplosjon 
+• vannskade. Med vannskade menes utstrømming fra bygnings rørledning eller vann som plutselig trenger inn i 
+bygningen fra terreng eller grunn. 
+• kollisjon, utforkjøring, grunnstøting, velt og kantring med motorkjøretøy, båt, campingvogn eller sykkel 
+• transportskade sendt som innsjekket bagasje. 
+6.4 BEGRENSNINGER FOR ENKELTGJENSTANDER 
+Tap av/skade på følgende gjenstander erstattes samlet med inntil kr 20.000 pr skadetilfelle. For Super reiseforsikring erstattes 
+gjenstander samlet med inntil kr 40.000 pr skadetilfelle. 
+• Smykker, ur, perler, edelstener, edelt metall 
+• Antikviteter, kunstgjenstander, tepper 
+• Pelsverk 
+• Mobiltelefon, foto-/video-/og optisk utstyr, utstyr for lyd og bilde med tilbehør, PC/datautstyr og musikkinstrumenter 
+• Våpen 
+• Sportsutstyr; herunder utstyr/ tilbehør for fiske, ski, golf, klatring, luftsport og dykking 
+• Kjøreutstyr til motorkjøretøy, som for eksempel kjøredress, hjelm, hansker og støvler 
+• Tap av / skade på cd, dvd, Blu-ray og dataspill erstattes med inntil kr 2.500 samlet pr skadetilfelle. 
+• Tap av / skade på sykkel med påmontert tilbehør som du har med deg på reise utenfor Norden med inntil kr. 30.000 
+• Tap av nøkler erstattes med inntil kr 4.000. 
+Enkeltgjenstander som ikke er nevnt ovenfor erstattes med inntil kr 15.000 pr skadetilfelle og for Super reiseforsikring med inntil 
+kr. 25.000. 
+6.5 HVILKE SKADER OG TAP FORSIKRINGEN IKKE DEKKER 
+JBF erstatter ikke skade eller tap 
+• som skyldes mangelfull emballasje 
+• som følge av at vann/væske renner ut 
+• som følge av bedervede varer 
+• som skyldes gjenstandens vanlige bruk eller slitasje 
+• på koffert, bag o.l. i form av riper, skrubb, flekker og lignende 
+• på innsjekket koffert, bag o.l. 
+• på sykkel/sykkeltilhenger i Norden 
+• på sykkel oppstått under konkurranse 
+• på gjenstander som er anskaffet av arbeidsgiver eller er anskaffet i forbindelse med yrke, næringsvirksomhet eller annet 
+inntektsgivende arbeid 
+• på luftsportsutstyr og droner i bruk. 
+ 
+6.6 BRUKS- OG ALDERSFRADRAG 
+Erstatningen beregnes etter prisene på skadedagen på grunnlag av utgiftene til reparasjon til samme - eller i det vesentlige samme 
+- stand som umiddelbart før skaden, eller gjenanskaffelse av tilsvarende - eller i det vesentlige tilsvarende - ting (gjenanskaffelses-
+prisen) og er begrenset til det laveste av de to alternativene. Når JBF har betalt erstatning, tilhører de erstattede gjenstander 
+foretaket. Dersom en gjenstand uten vesentlig verdiforringelse kan repareres, beholder du gjenstanden og JBF betaler 
+reparasjonen. Kommer ting til rette etter at erstatning er betalt, har du rett til å beholde tingen mot å betale erstatningen tilbake. I 
+motsatt fall tilfaller tingen JBF. 
+ 
+Se fellestabell for bruks- og aldersfradrag i Generelle vilkår punkt 17. 
+6.7 EGENANDEL 
+I erstatningsoppgjøret fratrekkes en egenandel på kr 1.000. For Super reiseforsikring er det ingen egenandel. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 8 av 14 
+6.8 MELDEPLIKT 
+Tyveri/ran/innbrudd og andre tap/skader skal straks meldes til lokalt politi, hotell eller reiseleder på stedet. Tap/skade under 
+transport skal straks meldes transportøren og bekreftes med PIR rapport. 
+7 UHELLSFORSIKRING 
+Gjelder bare for Super reiseforsikring 
+7.1 HVA FORSIKRINGEN DEKKER 
+I tillegg til skader nevnt i punkt 6.3 dekkes: 
+ 
+• annen plutselig fysisk skade på forsikret reisegods som skyldes en tilfeldig og plutselig ytre påvirkning. 
+Skadeårsak må være kjent og knyttet til ett bestemt tidspunkt og det er en forutsetning at den skadede gjenstanden kan fremvises 
+på forespørsel. 
+ 
+Skade dekkes med inntil kr. 5 000 per skadetilfelle. 
+ 
+7.2 HVA FORSIKRINGEN IKKE DEKKER 
+Forsikringen dekker ikke tap av de forsikrede gjenstandene. 
+Samtlige unntak og begrensninger som beskrevet i punkt 6.2, 6.4 og 6.5 gjelder også her. 
+8 REISESYKE/HJEMTRANSPORT/REISEAVBRUDD 
+Forsikringen omfatter nødvendige og dokumenterte utgifter som er en følge av uventet akutt sykdom eller personskade som 
+oppstår under reisen. Forverring av, eller komplikasjoner som har sammenheng med sykdom eller lidelse som er kjent før avreise 
+er ikke å anse som uventet og akutt sykdom inntruffet på reisen. Forsikringen omfatter likevel uventet akutt forverring av kronisk 
+lidelse. 
+ 
+8.1 REISESYKE 
+Ved uventet akutt sykdom, uventet akutt forverring av kronisk lidelse eller personskade som rammer deg under reisen, erstattes: 
+• legehonorar 
+• utgifter til forbindingssaker og medisin 
+• fysikalsk behandling foreskrevet av lege 
+• nødvendige transportutgifter for å få utført medisinsk behandling 
+• utgifter til tannlege med inntil kr 4.000 ved akutt tannsykdom eller tannskade som følge av spising 
+• sykehusopphold. Ved sykehusopphold utover 30 dager på andre enn statlige, kommunale eller fylkeskommunale 
+sykehus eller tilsvarende nordiske sykehus, ytes bare erstatning dersom det på forhånd er godkjent av JBF 
+• rimelige og nødvendige dokumenterte merutgifter til reise og overnatting når du av medisinske årsaker og etter legens 
+ordre må utsette fastsatt hjemreise eller ikke kan reise videre som planlagt. Slike merutgifter erstattes også når det 
+inntreffer uventet akutt og alvorlig sykdom/personskade eller dødsfall i din nærmeste familie bosatt på reisemålet. 
+• utgifter med inntil kr 3.000 for nødvendige telefonsamtaler med oss, sykehus/lege, SOS International 
+• rimelige og nødvendige reise- og overnattingsutgifter ved tilkallelse av inntil 3 nærstående personer i Norden på grunn 
+av forsikredes akutte og alvorlige sykdom/personskade eller dødsfall. Tilkallelse erstattes ikke når det allerede er truffet 
+bestemmelse om snarlig hjemtransport av forsikrede. 
+• utgifter til ledsagelse av hjemtransport av kiste/urne ved forsikredes dødsfall. Maksimum erstatning er kr 35.000 pr 
+skadetilfelle. 
+Tilkallelse skal godkjennes på forhånd av JBF eller SOS. 
+Ved reiser til EØS-land er det en fordel for dekning av utgifter til medisinsk behandling i oppholdslandet at Europeisk 
+helsetrygdkort medbringes på reisen 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 9 av 14 
+8.2 REISELEDSAGERS ULYKKE/SYKDOM 
+Ved uventet akutt sykdom, uventet akutt forverring av kronisk lidelse, personskade, hjemkallelse eller dødsfall som rammer din 
+reiseledsager erstatter JBF dine ekstra utgifter med inntil kr 25.000 pr skadetilfelle til 
+• hotellopphold 
+• innhenting av fastsatt reiserute 
+• hjemreise når reisen avbrytes 
+• forsinket hjemreise. 
+Med reiseledsager menes person som foretar hele reisen sammen med deg. 
+8.3 HJEMTRANSPORT 
+JBF erstatter dine nødvendige ekstrautgifter til transport til egnet behandlingssted eller hjemsted i Norge 
+• når lege på stedet har gitt skriftlig bekreftelse på at det er medisinsk nødvendig som følge av uventet akutt sykdom, 
+uventet akutt forverring av kronisk lidelse eller personskade som rammer deg under reisen 
+• når noen i din nærmeste familie blir akutt og alvorlig syk, utsatt for en alvorlig personskade eller uventet dør etter at 
+reisen er startet. Med nærmeste familie menes ektefelle, samboer, barn, barnebarn, oldebarn, foreldre, besteforeldre, 
+oldeforeldre, søsken, svogere, svigerinner, svigerforeldre og svigerdatter/sønn. 
+• hvis det er nødvendig for deg å reise hjem som følge av at det etter avreisedato har inntruffet brann, innbrudd, 
+vannledningsskade eller naturskade i din bopel eller på ditt arbeidssted 
+Hvis det er nødvendig med reisefølge, betales merutgiftene dette medfører for en person. Ved dødsfall erstatter JBF merutgifter 
+ved transport av kiste eller urne til hjemsted i Norge. 
+Alle ovennevnte tilfeller skal godkjennes på forhånd av JBF eller SOS. 
+8.4 REISEAVBRUDD 
+JBF erstatter dine forhåndsbetalte utgifter til reise og overnatting, hvis din reise blir avbrutt som følge av at 
+• du blir transportert hjem som følge av forhold nevnt i punkt 8.3 
+• du blir innlagt på sykehus, som følge av uventet akutt sykdom, uventet akutt forverring av kronisk lidelse eller 
+personskade 
+• din eneste reiseledsager rammes av et forsikringstilfelle som beskrevet ovenfor i dette punkt 
+• din medreisende og medforsikrede ektefelle/samboer/barn rammes av et forsikringstilfelle som beskrevet ovenfor i 
+dette punkt 
+Erstatning utbetales for deg som ble syk og en medforsikret medreisende. 
+Erstatningens størrelse betales ut fra antall ubenyttede dager i forhold til antall planlagte dager innenfor forsikringstiden. Har du 
+tegnet tilleggsforsikring for lengre reiser, betales likevel ikke kompensasjon for den del av reisen som er lengre enn 90 dager. 
+• Hvis du reiser med egen bil beregnes kr 3,50 pr km tur/retur hjemsted i Norge som reisens pris. 
+• Inngått kontrakt med betalingsforpliktelse anses som forhåndsbetalt reiseomkostning. 
+• Erstatningen er begrenset til kr 2.000 pr person pr reisedøgn, likevel ikke utover kr 40.000 pr person eller kr 100.000 pr 
+familie. 
+• I tillegg erstattes betalte utflukter, arrangementer og billetter som du ikke får benyttet fordi reisen blir avbrutt med inntil 
+kr 3.000 pr skadetilfelle. 
+• Egen andel til timeshare eller annen eiendom, inkludert årlige kostnader og leieinntekter erstattes ikke. 
+8.5 UTGIFTER SOM IKKE ER OMFATTET 
+Forsikringen gir ikke erstatning for utgifter som 
+• påløper etter at du har kommet tilbake til ditt hjemsted i Norge 
+• skyldes svangerskapsplager eller fødsel fra og med uke 36 
+• skyldes frivillig abort 
+• er en følge av opphold/behandling ved private klinikker i Norge og øvrige nordiske land 
+• skyldes fortsatt behandling i utlandet når det er medisinsk forsvarlig med hjemtransport til Norge 
+• skyldes bruk av alkohol, medisiner eller narkotiske stoffer 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 10 av 14 
+• skyldes selvmord eller forsøk på selvmord med mindre det kan sannsynliggjøres at dette skyldes en akutt sinnsforvirring 
+som ikke har sin årsak i bruk av alkohol, medisiner eller narkotiske stoffer 
+• skyldes utøvelse av aktiviteter nevnt punkt Feil! Fant ikke referansekilden. i reiseulykke 
+• skyldes lete-/redningsaksjoner 
+• skyldes sengeliggende utenom sykehus 
+Unntakene nevnt ovenfor gjelder også ved dødsfall. 
+9 REISEULYKKE 
+Forsikringen gjelder når en ulykkesskade rammer deg på en reise som omfattes av forsikringen, se punkt 3. 
+Med ulykkesskade menes plutselig fysisk skade på kroppen forårsaket av en plutselig og uventet ytre begivenhet som inntreffer i 
+forsikringstiden. Likeledes omfattes skade på sinnet f.eks. sjokk hvis du ved samme ulykkestilfelle er blitt påført en varig fysisk 
+skade eller har vært direkte involvert i en alvorlig ulykkeshendelse, som har medført livstruende personskade eller tap av 
+menneskeliv. Skade på kroppen som følge av anstrengelse, ensformige bevegelser, vridninger ved aktivitet eller slitasje anses ikke 
+som ulykke. 
+Retten til erstatning for varig medisinsk invaliditet og dødsfallerstatning opphører ved utløpet av det forsikringsår du fyller 80 år. 
+Dødsfallserstatning etter fylte 70 år er begrenset til kr 100.000. Aldersbegrensningen gjelder ikke for behandlingsutgifter. 
+9.1 HVA FORSIKRINGEN OMFATTER 
+• behandlingsutgifter i Norge 
+• erstatning for varig medisinsk invaliditet 
+• dødsfallserstatning 
+9.1.1 Behandlingsutgifter 
+JBF erstatter utgifter til 
+• lege eller tannlege. Tannskade som følge av tygging eller biting er unntatt. 
+• forbindingssaker og medisiner foreskrevet av lege eller tannlege. 
+• behandling og forpleining i sykehus, samt fysikalsk og kiropraktisk behandling foreskrevet av behandlende lege, se 
+punkt 9.5 
+• proteser. Briller/linser er unntatt. 
+• reise til og fra behandling som omfattes av forsikringen. Utgifter ytes med rimeligste transportmiddel når det tas hensyn 
+til skadedes tilstand. 
+Forsikringstilfellet inntreffer på det tidspunktet forsikrede er påført den utgiften som kreves erstattet. Behandlingsutgiften må 
+være påført innen 2 år etter ulykken. 
+JBF erstatter ikke behandlingsutgifter 
+• i private sykehus eller hos privatpraktiserende leger uten offentlig driftstilskudd med mindre det er avtalt med JBF på 
+forhånd 
+• påløpt mer enn 2 år etter skadedagen 
+• som kan kreves dekket gjennom trygdeordninger 
+• som dekkes av forsikringsordningene for idrettslisens. 
+9.1.2 Erstatning for varig medisinsk invaliditet 
+Retten til erstatning for varig medisinsk invaliditet inntrer dersom du innen 3 år etter at ulykkesskaden inntraff er bedømt som 
+varig medisinsk invalid. Erstatningen fastsettes forholdsmessig etter den medisinske invaliditetsgrad. 
+Forsikringstilfellet inntreffer på det tidspunktet lege-/ legespesialist har fastsatt varig medisinsk invaliditet som følge av 
+ulykkesskaden. 
+Graden av invaliditet som erstattes i henhold til forsikringsvilkårene fastsettes på grunnlag av Arbeids- og sosialdepartementets 
+forskrift av 21. april 1997 om menerstatning ved yrkesskade og de retningslinjene som gjelder ved anvendelsen av denne. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 11 av 14 
+9.1.3 Dødsfallserstatning 
+Erstatning utbetales hvis ulykken medfører at den forsikrede dør før invaliditetsgraden er varig fastsatt og før 1 års dagen for da 
+ulykken inntraff. 
+Forsikringstilfellet inntreffer på dødsfallstidspunktet 
+9.2 FORSIKRINGSSUMMER 
+For forsikringen gjelder følgende forsikringssummer pr person: 
+Forsikringssum per person 
+Kr 250.000 ved 100 % livsvarig medisinsk invaliditet for voksne 
+Kr 250.000 ved død for voksne 
+Kr 500.000 ved 100 % livsvarig medisinsk invaliditet for barn 
+Kr 50.000 ved død for barn 
+Kr 10.000 ved behandlingsutgifter for barn 
+Kr 5.000 ved behandlingsutgifter for voksne 
+ 
+Med barn menes her medforsikret barn, adoptivbarn, fosterbarn, barnebarn og oldebarn som ikke har fylt 18 år på 
+ulykkestidspunktet. 
+9.3 SPESIELLE BEGRENSNINGER FOR DELTAKELSE I SPORT OG FRITIDSAKTIVITETER 
+Forsikringen dekker ikke skader som oppstår i forbindelse med deltakelse i, aktiviteter og trening til 
+• kampsportutøvelse (unntaket gjelder ikke for barn under 16 år). 
+• utøvelse av luftsportsaktiviteter 
+• utøvelse av stuntaktiviteter og sport, idrett og ekspedisjoner som gir inntekt eller sponsormidler på mer enn 1 G pr. år. 
+• dykking dypere enn 40 meter 
+• andre aktiviteter som kan betraktes som ekstremsport 
+• trening til eller deltakelse i hastighetsløp med motorkjøretøy eller motorbåt 
+• frivillig deltakelse i slagsmål eller ved utførelse av en forbrytelse- 
+9.4 BEGUNSTIGELSESREGLER ETTER DØDSFALL 
+Dødsfallserstatning tilfaller ektefelle/samboer, arvinger etter lov eller testament i samsvar med arvelovens bestemmelser. Disse er 
+begunstiget i den rekkefølge de her er nevnt. En person regnes ikke som ektefelle lenger enn til det økonomiske fellesskapet er 
+opphørt. Som samboer forstås person som på dødsfallstidspunktet levde sammen med avdøde i ekteskapslignende forhold og 
+med samme folkeregistrerte adresse. Hvis de ikke har felles barn må samboerforholdet i tillegg, ifølge folkeregisteret, ha vedvart 
+de siste 2 årene. 
+9.5 EGENANDEL 
+Egenandelen ved behandlingsutgifter etter avsluttet reise er kr 500. For Super reiseforsikring er det ingen egenandel. 
+10 EVAKUERING VED KRIG, URO OG NATURKATASTROFE 
+JBF erstatter merutgifter til reise og overnatting ved evakuering til nærmeste sikre destinasjon eller hjemsted i Norge på grunn av 
+• krig, krigsrisiko, terror, opprør eller lignende alvorlige forstyrrelser av den offentlige orden, når du er på reise i et 
+område som før du reiste dit ble ansett som fredelig. Evakuering skal skje i henhold til Utenriksdepartementets 
+evakueringsråd for det aktuelle området. 
+• naturkatastrofe på reise utenfor Norge. Med naturkatastrofe menes jordskjelv, vulkanutbrudd eller annen 
+naturkatastrofe. Evakuering skal skje i henhold til stedlig myndigheter, Utenriksdepartementets anbefaling. 
+Kompensasjon for tapte feriedager etter evakuering til Norge erstattes etter reglene for reiseavbrudd, se punkt 8.4. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 12 av 14 
+11 STREIK – LOCKOUT - KONKURS 
+Forsikringen omfatter ikke tap/skade/utgifter som direkte eller indirekte har sammenheng med forhold utenfor foretakets kontroll 
+(force majeure). Som for eksempel streik, lockout eller annen form for arbeidskonflikt eller politiske demonstrasjoner som 
+inntreffer i forbindelse med reise. Det erstattes heller ikke merutgifter som følge av konkurs. 
+12 TAPT ARBEIDSFORTJENESTE 
+Forsikringen dekker ikke tapt arbeidsfortjeneste uansett årsak. 
+13 ANSVARSFORSIKRING 
+Forsikringen gjelder bare på reiser utenfor Norden. 
+13.1 HVA FORSIKRINGEN OMFATTER 
+Forsikringen omfatter det erstatningsansvar du som privatperson etter gjeldende lands rett blir holdt erstatningsansvarlig for. Med 
+skade menes både personskade og skade på ting, dyr og fast eiendom. Likeledes økonomisk tap ved slik skade. Skaden må være 
+konstatert i løpet av forsikringstiden av deg eller den som er påført skaden. Alle skader som skyldes samme hendelse regnes som 
+en skade og legges til det tidspunkt da første skade ble konstatert. Vår samlede erstatningsplikt er kr 10.000.000 for hvert 
+skadetilfelle. 
+13.2 HVA FORSIKRINGEN IKKE OMFATTER 
+Forsikringen dekker ikke erstatningsansvar 
+• som alene bygger på tilsagn, avtale, kontrakt eller garanti 
+• for skade av ikke økonomisk art, så som tort og svie, oppreising eller annet erstatningsansvar som utmåles i tillegg til 
+erstatning for skadelidtes økonomiske tap 
+• overfor din familie. Med familie menes ektefelle/samboer, foreldre, søsken, barn, samt ektefelle/samboer av disse. 
+• overfor medeiere, for skade på ting som eies i fellesskap 
+• for det objektive foreldreansvaret for barns skadeforvoldelse, jf. skadeserstatningslovens § 1-2, nr. 2 
+• som eier, fører eller bruker av motorvogn, arbeidsmaskin med eget fremdriftsmaskineri, båt, luftfartøy, registrert trav- 
+eller galopphest. Kano, kajakk og seilbrett anses i denne sammenheng ikke som båt. Hangglider og paraglider uten 
+motor anses i denne sammenheng ikke som luftfartøy. Rullestoler med motor, gressklippere og snøfresere som ikke er 
+registreringspliktige, anses ikke som arbeidsmaskin/motorvogn. 
+• for skade på ting du leier, låner, bruker eller oppbevarer. Ditt ansvar for skade på leid bolig omfattes likevel av 
+forsikringen hvis skade oppstår ved brann, eksplosjon eller utstrømming av vann/væske fra bygnings rørledning. 
+• for skade på ting oppstått ved maskingravings-, sprengnings-, pelings- eller rivningsarbeid 
+• under utøvelse av yrkes- eller ervervsvirksomhet 
+• for skade du har voldt ved forsettlig handling eller unnlatelse, og følger av slik skade 
+• ved overføring av smittsom sykdom 
+• for forurensning, dersom årsaken til forurensningen ikke er plutselig og uforutsett 
+• for skade på ting ved sopp og råte, eller på grunn av langsom inntrenging av fuktighet 
+13.3 DINE PLIKTER VED SKADETILFELLE 
+Blir det reist erstatningskrav mot deg, eller kan det ventes at krav vil bli reist, må JBF underrettes uten ugrunnet opphold. 
+Når erstatningskrav er reist mot deg eller direkte mot JBF, plikter du for egen regning å 
+• gi JBF de opplysninger og dokumenter som er tilgjengelige for deg, og som foretaket trenger for å vurdere ansvaret og 
+utbetale erstatningen 
+• utføre de undersøkelser og utredninger JBF finner nødvendig 
+• møte ved forhandlinger eller rettergang 
+Uten JBF sitt samtykke må du ikke innrømme erstatningsplikt eller forhandle om erstatningskrav. 
+13.4 JBF SINE PLIKTER VED SKADETILFELLE 
+Når et erstatningskrav som omfattes av forsikringen fremsettes, plikter JBF 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 13 av 14 
+• å utrede om det foreligger erstatningsansvar 
+• å forhandle med skadelidte 
+• om nødvendig å prosedere saken for domstolene 
+JBF bærer foretakets egne omkostninger ved avgjørelse av erstatningsspørsmålet selv om forsikringssummen derved overskrides. 
+Omkostninger til ekstern advokat og annen sakkyndig bistand som er valgt eller godkjent av JBF, dekkes også. Dersom 
+erstatningskravet dels omfattes av forsikringen og dels faller utenfor, fordeles omkostningene etter partenes økonomiske 
+interesse i saken. Er JBF villig til å forlike saken eller stille forsikringssummen til disposisjon, erstattes ikke omkostninger som 
+påløper senere. JBF har rett til å betale enhver erstatning direkte til skadelidte. Fremsettes krav om erstatning direkte mot JBF, skal 
+foretaket varsle deg uten ugrunnet opphold og holde deg underrettet om den videre behandling av kravet. JBF sine innrømmelser 
+overfor skadelidte er ikke bindende for deg. 
+14 RETTSHJELP 
+Gjelder bare på reiser utenfor Norden. 
+14.1 HVA FORSIKRINGEN DEKKER 
+JBF erstatter utgifter til advokathjelp/juridisk bistand med inntil kr 100 000 pr. tvist dersom du som privat person blir part i en 
+rettstvist som krever juridisk bistand før reisen er avsluttet. Idømte saksomkostninger er ikke omfattet. 
+14.2 TVISTER SOM IKKE DEKKES 
+Forsikringen erstatter ikke utgifter ved tvist med JBF eller tvist som 
+• har sammenheng med ditt yrke eller erverv 
+• gjelder din faste eiendom eller kjøp/salg av eiendom eller leierett (timeshare) 
+• har sammenheng med separasjon, skilsmisse, barnefordeling, samværsrett, farskap, arv, krav om omstøtelse av gave, 
+underholdningsbidrag, deling av bo, oppløsning av økonomiske fellesskap etablert av samboere, oppløsning av 
+husstandsfellesskap og skiftesaker 
+• alene hører inn under namsmyndighetene, bortsett fra tvist i husleieforhold 
+• gjelder vekselsak, inkassosak hvor fordringen er ubestridt, gjeldsforhandlingssak og sak som gjelder konkurs- eller 
+akkordforhandling dersom du er konkurs- eller akkordskyldner 
+• gjelder motorkjøretøy, arbeidsmaskin med eget fremdriftsmaskineri. Likevel omfattes tvist som eier, fører eller bruker av 
+arbeidsmaskin med eget fremdriftsmaskineri som ikke kan kjøres fortere enn 10 km/t med totalvekt inntil 750 kg og som 
+kun brukes på/i tilknytning til egen eiendom. 
+• gjelder båt/luftfartøy. Kano, kajakk og seilbrett anses ikke som båt. Hang- og paraglider uten motor anses ikke som 
+luftfartøy. 
+• gjelder registrert trav- eller galopphest, eller når du er part i egenskap av eier, fører eller bruker av slik 
+• er straffesak, ærekrenkelsessak og erstatningskrav i slike saker, og sak om erstatningsplikt etter det enkelte lands 
+lovgiving 
+• er ekspropriasjonssak eller skjønnssak hvor du søker å få rettighet over en annen eiendom 
+• gjelder offentlig forvaltningsvedtak. Likevel dekkes utgifter ved søksmål når den administrative klagerett er fullt utnyttet. 
+I tilknytning til søksmål er enhver utgift pådratt under forvaltningsbehandlingen unntatt fra denne dekning. 
+• gjelder advokatsalær eller utgifter til sakkyndige 
+• gjelder utgifter i personskadesaker etter bilansvar før motorvognens trafikkforsikringsselskap har sendt skriftlig avslag 
+om å dekke dine nødvendige og rimelige utgifter til juridisk bistand før saksanlegg 
+• gjelder utgifter påløpt før tvist er oppstått 
+• gjelder erstatningsoppgjør under denne eller andre forsikringsavtaler du er omfattet av i vårt selskap 
+14.3 SKADEOPPGJØRSREGLER 
+Vil du søke erstatning under rettshjelpsforsikringen, må du underrette JBF snarest mulig og senest ett år etter at advokat er 
+engasjert. Underretningen skal skje skriftlig. Du velger selv en advokat som etter sakens art og ditt bosted passer for oppdraget. 
+Du plikter å begrense utgiftene mest mulig og bærer selv omkostninger forårsaket uten rimelig grunn. JBF kan kreve å bli holdt 
+underrettet om omfanget av de utgifter som kreves dekket under forsikringen og har samme rett som deg til å få dokumentert 
+hvordan advokaten har beregnet sitt salær. Medgått tid skal spesifiseres. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 14 av 14 
+15 EGENANDEL LEIEBIL PÅ FERIEREISE 
+Gjelder bare ved Super reiseforsikring 
+Det er en forutsetning for forsikringen at bilen er forsikret med kaskoforsikring (CDW - Collision Damage Waiver og TP - Theft 
+Protection), og at egenandelen du blir holdt ansvarlig for står i leiekontrakten. 
+15.1 HVA FORSIKRINGEN DEKKER 
+Forsikringen dekker egenandelen du som leietaker blir holdt ansvarlig for i henhold til leiekontrakten, dersom 
+• leiebilen blir stjålet eller skadet 
+• nøkkelen til leiebilen blir tapt eller skadet 
+Hendelsen må skje i løpet av en feriereise med minst én overnatting, i leieperioden. 
+15.2 HVA FORSIKRINGEN IKKE DEKKER 
+Forsikringen dekker ikke 
+• andre kjøretøy enn bil 
+• leiebil på tjenestereiser 
+• bil du har leid av privatperson 
+• leid bil som skal disponeres av andre enn de som er forsikret under denne reiseforsikringen 
+• bil som du leier eller låner i forbindelse med at bilen er til service eller reparasjon 
+• bil som du leaser eller abonnerer på 
+• bil leid gjennom bildelingstjenester 
+15.3 DOKUMENTASJONSKRAV 
+Leiekontrakten og kvittering for betalt egenandel må sendes inn ved krav om erstatning. 
+16 DOBBELFORSIKRING/REGRESS 
+Dersom det er flere som er ansvarlig for ditt tap/din skade, overtar JBF din rett til erstatning for det beløp du har fått utbetalt fra 
+JBF. Er det flere forsikringer som dekker samme tap/skade, kan du velge hvilket forsikringsforetak du vil bruke inntil ditt totale tap 
+er dekket. Erstatningen utliknes forholdsmessig mellom foretakene etter omfanget av det enkelte foretaks ansvar for tapet. Jf. FAL 
+§ 6-3. Har JBF utbetalt erstatning for et tap/en skade som etter forsikringsavtalen ikke er omfattet, plikter du, eller den du kan 
+identifiseres med, å betale erstatningen tilbake.

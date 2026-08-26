@@ -1,0 +1,662 @@
+Vilkår Barneforsikring — If Skadeforsikring
+Kilde: https://if.no/apps/vilkarsbasendokument/Vilkaar?produkt=Barneforsikring
+Sist endret: 2026-08-25T13:09:20Z
+============================================================
+
+Standard Barneforsikring 1/17 
+ 
+ 
+Innhold 
+Oversikt over forsikringen 2 
+1. Definisjoner 3 
+2. Hvem som er forsikret 4 
+3. Hvor forsikringen gjelder 4 
+4. Når forsikringen gjelder og hvor lenge den kan beholdes 4 
+5. Hva forsikringen omfatter 5 
+6. Hva forsikringen ikke omfatter. Begrensninger 11 
+7. Skadeoppgjør 13 
+8. Avvik fra generelle vilkår 16 
+ 
+ 
+Standard Barneforsikring 
+Forsikringsvilkår BAF2-4 
+Gjelder fra 8. juni 2024 
+ 
+ 
+
+ 
+ 
+Standard Barneforsikring 2/17 
+Oversikt over forsikringen 
+Det er mulig å ha Standard Barneforsikring enkel (tidligere Basis Barneforsikring) eller Standard 
+Barneforsikring. Det står i forsikringsbeviset hva som er avtalt. 
+ 
+FORSIKRINGEN KAN OMFATTE 
+Standard Barneforsikring 
+– enkel 
+• Økonomisk førstehjelp ved alvorlige sykdommer og skader (punkt 5.1) 
+• Erstatning ved sykehusopphold (punkt 5.2) 
+• Refusjon av behandlingsutgifter som følge av ulykke (punkt 5.3) 
+• Ombygging av bolig (punkt 5.5) 
+• Erstatning ved medisinsk invaliditet som følge av ulykke og sykdom (punkt 5.6) 
+• Erstatning ved dødsfall (punkt 5.8) 
+• Tilgang til tjenester (punkt 5.9) 
+Forsikringen Standard Barneforsikring enkel (tidligere Basis Barneforsikring) selges 
+ikke lenger. 
+Standard Barneforsikring • Økonomisk førstehjelp ved alvorlige sykdommer og skader (punkt 5.1) 
+• Erstatning ved sykehusopphold (punkt 5.2) 
+• Refusjon av behandlingsutgifter som følge av ulykke (punkt 5.3) 
+• Engangsutbetaling av hjelpestønad (punkt 5.4) 
+• Ombygging av bolig (punkt 5.5) 
+• Erstatning ved medisinsk invaliditet som følge av ulykke og sykdom (punkt 5.6) 
+• Engangsutbetaling ved varig uførhet (punkt 5.7) 
+• Erstatning ved dødsfall (punkt 5.8) 
+• Tilgang til tjenester (punkt 5.9) 
+Mulige utvidelser av 
+Standard Barneforsikring 
+Standard Barneforsikring kan utvides med et Super-tillegg. Det står i 
+forsikringsbeviset om dette er avtalt for denne forsikringen. 
+For Super Barneforsikring gjelder eget vilkår (SUB) i tillegg til dette vilkåret (BAF). 
+Super Barneforsikring kan omfatte månedlig utbetaling ved arbeidsuførhet 
+(uførepensjon) samt utvidet dekningsomfang for engangsutbetaling ved varig uførhet 
+og engangsutbetaling av hjelpestønad. 
+Det er også mulig å tegne en tilleggsdekning som gir årlig Indeksregulering av 
+Uførepensjon mens den er under utbetaling. 
+HELSEOPPLYSNINGER: 
+Fordi barneforsikringen omfatter rett til utbetaling i forbindelse med fremtidig sykdom, må det i 
+forbindelse med kjøpet og eventuelt senere økning av forsikringssum eller utvidelse, avgis en skriftlig 
+helseerklæring til If. 
+Ifs vurdering av helseopplysningene kan føre til begrensninger i retten til utbetaling ved sykdom. Slike 
+begrensninger vil i så fall stå i forsikringsbevis del B. Vurderingen vil også kunne føre til at forsikringen blir 
+avslått i sin helhet. 
+
+ 
+ 
+Standard Barneforsikring 3/17 
+I tillegg til disse vilkårene gjelder 
+• Forsikringsbeviset 
+• Generelle vilkår 
+• Forsikringsavtaleloven av 16. juni 1989 (FAL) i den utstrekning den ikke er fraveket i vilkårene 
+• Lov av 10. juni 2005 om forsikringsvirksomhet (Forsikringsvirksomhetsloven) 
+Forsikringsbeviset gjelder foran vilkårene 
+1. Definisjoner 
+Behandlingsutgifter Med behandlingsutgifter menes utgifter til behandling og reiser som følge av en 
+ulykkesskade. 
+Arbeidsuførhet Med arbeidsuførhet menes helt eller delvis tap av evne til ethvert inntektsgivende 
+arbeid. 
+Forsikrede (barnet) Forsikrede er den persons liv eller helse forsikringen knytter seg til (barnet). Se punkt 
+2. 
+Forsikringssum Forsikringssum er det beløp som er avtalt for forsikringen og som står i 
+forsikringsbeviset. 
+Forsikringstaker Forsikringstaker er den som ifølge forsikringsbeviset har inngått forsikringsavtalen og 
+har råderett over barneforsikringen. Forsikringstaker kan bare være barnets foreldre, 
+verge eller fosterforeldre. Etter fylte 18 år kan forsikrede (barnet) selv stå som 
+forsikringstaker. Forsikringstaker må ha vanlig bosted i Norge i henhold til 
+Folkeregisteret. 
+Forsikringstiden Forsikringstiden er den tiden den avtalte forsikringen er i kraft. Forsikringen fornyes for 
+ett år av gangen. 
+Forsikringstilfelle Et forsikringstilfelle inntreffer når de faktiske forutsetningene som utløser rettigheter 
+etter forsikringen foreligger. 
+ICD-10 ICD-10 er en forkortelse for Den internasjonale statistiske klassifikasjonen av 
+sykdommer og beslektede helseproblemer, 10. revisjon med senere endringer, fastsatt 
+av Verdens Helseorganisasjon. 
+G G er Folketrygdens grunnbeløp. 
+Medisinsk invaliditet Med medisinsk invaliditet menes den fysiske varige funksjonsnedsettelsen som en 
+bestemt skade eller sykdom erfaringsvis forårsaker. 
+Den medisinske invaliditetsgraden fastsettes etter invaliditetstabellene gitt av Helse- og 
+omsorgsdepartementet i «Forskrift om menerstatning ved pasientskader» av 01.03.2021 
+nr. 622, del II og III og veiledende invaliditetstabell for sykdommer hos barn 
+(Finansnorge.no) 
+Ved sykdommer og skader som ikke omfattes av tabellen, fastsettes invaliditetsgraden 
+på grunnlag av en skjønnsmessig sammenligning med skadefølgene i tabellen. 
+Invaliditetsgraden fastsettes uten hensyn til yrke, nedsatt evne til inntektsgivende arbeid 
+(uføregrad), fritidsinteresser o.l. 
+Sykdom Med sykdom forstås en sykelig endring av helsetilstanden som ikke er å betrakte som 
+ulykkesskade, og som inntreffer i forsikringstiden. En sykdom anses inntruffet på det 
+tidspunkt diagnosen er stilt av lege første gang. 
+
+ 
+ 
+Standard Barneforsikring 4/17 
+Endret helsetilstand som følge av svangerskap og svangerskapsavbrudd, eller plastiske 
+operasjoner og liknende skjønnhetsfremmende behandling regnes ikke som sykdom. 
+Ulykkesskade Med ulykkesskade forstås fysisk skade på person forårsaket ved en plutselig og 
+uforutsett ytre begivenhet, "et ulykkestilfelle", som inntreffer i forsikringstiden. 
+2. Hvem som er forsikret 
+Forsikringen gjelder for det barnet som er angitt som den forsikrede i forsikringsbeviset. 
+Det er en forutsetning at forsikrede har bosted i Norge eller Norden og er medlem i norsk folketrygd når 
+forsikringstilfellet inntreffer. 
+Så lenge barnet er medlem av norsk folketrygd omfattes også forsikringstilfeller som inntreffer under 
+midlertidig opphold 
+• utenfor Norden i inntil 12 måneder 
+• utenfor Norden i mer enn 12 måneder når forsikrede eller foreldre/verge er 
+• ansatt i norsk firma eller organisasjon og utfører arbeid for dette firma eller denne organisasjonen 
+• ansatt i norsk utenrikstjeneste 
+• studenter / au pair 
+3. Hvor forsikringen gjelder 
+Så lenge kravet til tilknytning til Norge eller Norden etter punkt 2 er oppfylt gjelder forsikringen i hele 
+verden. 
+4. Når forsikringen gjelder og hvor lenge den kan beholdes 
+Forsikringen gjelder for forsikringstilfeller som inntreffer i forsikringstiden. 
+Forsikringen gjelder hele døgnet. 
+Det er en forutsetning at det avgis en skriftlig helseerklæring til If. Blir det ikke innsendt helseerklæring vil 
+forsikringen opphøre. 
+Frem til helseerklæringen er godkjent av If og karenstiden i punkt 6.2.1 er omme, gjelder forsikringen kun 
+for forsikringstilfeller som skyldes ulykkeshendelser. 
+Ved manglende innsendelse av helseerklæring i forbindelse med eventuell senere økning av forsikringssum 
+eller utvidelse vil økningen/utvidelsen bli annullert. 
+Forsikringen fornyes automatisk for ett år av gangen uten nye helseopplysninger. 
+If kan hvert år ved fornyelse, innenfor reglene myndighetene har fastsatt, endre forsikringsvilkår og priser. 
+Barneforsikringen kan beholdes til barnet fyller 26 år. 
+Ved utgangen av det forsikringsåret barnet fyller 26 år, får forsikrede tilbud om konvertering til 
+forsikringer for voksne uten krav om ny helsevurdering. 
+
+ 
+ 
+Standard Barneforsikring 5/17 
+5. Hva forsikringen omfatter 
+5.1. Økonomisk førstehjelp 
+Denne delen av forsikringen kan gi rett til engangsutbetaling (økonomisk førstehjelp) ved 
+diagnoser/tilstander beskrevet i bokstav a) til og med s) nedenfor. 
+Forsikringstilfellet må skje i forsikringstiden, og inntreffe 
+• ved sykdom: når diagnosen stilles av lege 
+• ved skade: når skaden skjer 
+• ved behandling: når behandlingen er gjennomført 
+Det er en forutsetning at forsikrede er i live 24 timer etter at forsikringstilfellet inntraff. 
+Forsikringen gir ikke rett til utbetaling hvis If har utbetalt erstatning under samme bokstavgruppe 
+tidligere. Denne begrensning gjelder ikke for brannskade. 
+Økonomisk førstehjelp skal gi rask økonomisk trygghet og hjelp når en diagnose/tilstand som er omfattet 
+av forsikringen inntreffer. 
+Den økonomiske førstehjelpen er samtidig et forskudd på eventuell invaliditetserstatning til barnet ved 
+sykdommer og skader som kan gi varig medisinsk invaliditet. 
+Økonomisk førstehjelp samordnes med hjelpestønad (se punkt 5.4) og varig medisinsk invaliditet (se punkt 
+5.6). 
+Forsikringssummen er 4 G. 
+Erstatningen beregnes på grunnlag av den G som gjelder på det tidspunktet forsikringstilfellet inntraff. 
+NÆRMERE BESKRIVELSE AV SYKDOMMENE/SKADENE 
+a) Kreft Forsikringen dekker ondartet kreftsykdom tilsvarende kodegruppe C i ICD-10. 
+Forsikringen dekker ikke andre typer hudkreft (inkludert leppekreft) enn malignt 
+melanom. 
+Forsikringen dekker ikke forstadier til kreft (carcinoma in situ) eller sykdom som ikke 
+sikkert kan klassifiseres som ondartet kreftsykdom - tilsvarende kodegruppe D00-D48 i 
+ICD-10. 
+Diagnosen skal være stilt i spesialisthelsetjenesten og skal være basert på en histologisk 
+undersøkelse. 
+b) Andre svulster i hjerne eller 
+ryggmarg 
+Gjennomført operasjon av godartede svulster i hjerne eller ryggmarg. Hvis operasjon 
+ikke kan gjennomføres av medisinsk tekniske årsaker, er svulsten likevel omfattet. 
+Svulsten skal være påvist ved CT- eller MR-undersøkelse og vurdert som 
+operasjonstrengende av spesialist i nevrokirurgi. 
+c) Multippel sklerose (MS) Diagnosen skal være stilt på bakgrunn av typiske symptomer og sikre funn ved klinisk 
+undersøkelse eller MR-undersøkelse. Symptomene må enten ha vedvart i mer enn 6 
+måneder eller medikamentell sykdomsmodifiserende behandling være iverksatt. 
+Sikker diagnose og behandlingsbehov må være stilt av spesialist i nevrologi. 
+
+ 
+ 
+Standard Barneforsikring 6/17 
+d) Epilepsi Diagnose må være bekreftet med EEG og være stilt av spesialist i barnesykdommer 
+eller nevrologi. 
+Det gis ikke erstatning dersom det tidligere er utbetalt erstatning for kreft/svulst i 
+hjernen, alvorlig hjerneskade eller annen sykdom/skade med sannsynlig medisinsk 
+invaliditet over 50 % der epilepsi forekommer som en del av tilstanden. 
+e) Cystisk fibrose Cystisk fibrose diagnostisert av spesialist i barnesykdommer eller annen relevant 
+spesialist. Forsikrede må ha kronisk obstruktiv lungesykdom og/eller exocrin pancreas 
+insufficiens. 
+f) Ulcerøs kolitt Ulcerøs kolitt som omfatter mer enn rektum. Diagnosen skal være stilt av spesialist i 
+barnesykdommer eller gastroenterologi. Det gis ikke erstatning dersom det tidligere er 
+utbetalt erstatning for Morbus Crohn (punkt g). 
+g) Morbus Crohn Diagnosen skal være stilt av spesialist i barnesykdommer eller gastroenterologi. Det gis 
+ikke erstatning dersom det tidligere er utbetalt erstatning for Ulcerøs kolitt (punkt f). 
+h) Leddgikt Juvenil idiopatisk artritt eller kronisk revmatoid artritt tilsvarende diagnosekoder M05, 
+M06 og M08 i ICD-10. 
+Med juvenil idiopatisk artritt menes fåleddssykdom, flerleddssykdom eller systemisk 
+juvenil artritt. 
+Med kronisk revmatoid artritt menes seropositiv revmatoid artritt, seronegativ 
+revmatoid artritt og Stills sykdom med debut i voksen alder. 
+Forsikringen dekker ikke entesitt-relatert artritt (inkl. ankyloserende spondylitt og 
+Bekhterevs sykdom), psoriasisartritt og artritt ved kronisk tarmbetennelse (IBD). 
+Diagnosen skal være stilt av spesialist i barnesykdommer eller revmatologi. 
+i) Diabetes type 1 Insulinavhengig sukkersyke diagnostisert av spesialist i barnesykdommer eller 
+indremedisin. Fastende blodsukker må ha vært målt høyere enn 7mmol/l ved gjentatte 
+målinger. Diagnosen skal samsvare med kode E10 i ICD-10. 
+j) Nyresvikt Kronisk nedsatt nyrefunksjon som krever jevnlig dialysebehandling. 
+k) Transplantasjon Planlagt eller utført transplantasjon av hjerte, lunge, lever, nyre, bukspyttkjertel eller 
+stamceller. Planlagt transplantasjon betyr at forsikrede står på venteliste for 
+transplantasjon i Norden. 
+Autotransplantasjon (organ som blir transplantert tilbake til samme person) er ikke 
+dekket. 
+Nyretransplantasjon gir ikke rett til utbetaling dersom det tidligere er utbetalt 
+erstatning for nyresvikt (punkt j). 
+Stamcelletransplantasjon gir ikke rett til utbetaling dersom det tidligere er utbetalt 
+erstatning for diagnosen kreft (punkt a) eller MS (punkt c) og stamcelletransplantasjon 
+er en del av behandlingen. 
+Transplantasjon av flere organer gir ikke rett til mer enn én utbetaling. 
+l) Amputasjon Amputasjon av fot ved ankelleddet eller større del av benet, eller amputasjon av hånd 
+ved håndleddet eller større deler av armen. 
+
+ 
+ 
+Standard Barneforsikring 7/17 
+m) Alvorlig hjerneskade Hjerneskade som følge av sykdom eller ulykkesskade som medfører en tilstand med 
+betydelig nedsatt bevissthet (Glascow Coma Scale 7 eller lavere i minst 1 time) og/eller 
+sentralnervøst betingete nevrologiske utfall i minst 10 døgn. Tilstanden må også 
+medføre intensivbehandling i minst 4 døgn. 
+n) Alvorlig brannskade For barn under 10 år: Minst andregrads forbrenning på minst 10 % av kroppsoverflaten. 
+For barn 10 år eller eldre: Andregrads forbrenning på minst 15 % av kroppsoverflaten 
+eller tredjegrads forbrenning på minst 10 % av kroppsoverflaten. 
+o) Tverrsnittlammelser Sykdom eller skade av ryggmargen som medfører varig tap av nevrologisk funksjon 
+nedenfor nivået hvor ryggmargen er skadet. Det vil si lammelse i begge ben og begge 
+armer (tetraplegi) hvis skaden sitter i nakken eller lammelser i begge bein (paraplegi) 
+hvis skaden sitter lavere. 
+Diagnosen må være stilt av spesialist i barnesykdommer, nevrologi eller nevrokirurgi. 
+Funksjonelle/psykogene lammelser er ikke dekket. 
+Det gis ikke erstatning dersom det tidligere er utbetalt erstatning for svulst i 
+ryggmargen under punkt b). 
+p) Alvorlig synstap Varig synstap når synsstyrken på beste øye med beste korreksjon er 3/ 60 eller 
+dårligere (fingertelling på 3 meter), eller synsfeltet er mindre enn 20 grader. 
+Synstapet må være bekreftet av spesialist i øyensykdommer. 
+q) Alvorlig hørselstap Varig hørselstap på 60 dB eller mer i talefrekvensområdet (500 – 2000 Hz) på begge 
+ører og med beste korreksjon (med høreapparat). 
+Hørselstapet må være dokumentert ved audiometri utført ved høresentral. 
+r) Bakteriell 
+hjernehinnebetennelse, 
+hjernebetennelse og 
+hjerneabscess 
+Forsikringen dekker smittsom hjernehinnebetennelse (meningitt) forårsaket av 
+bakterie, akutt alvorlig hjernebetennelse (encefalitt) forårsaket av bakterie eller virus, 
+og ansamling av puss i hjernen (hjerneabscess). 
+Diagnosen skal være stilt på barneavdeling eller nevrologisk/nevrokirurgisk 
+sykehusavdeling, basert på typisk sykehistorie, spinalvæskefunn og andre relevante 
+undersøkelser. 
+Forsikringen dekker ikke serøs meningitt, virale meningitter og borrelia-infeksjoner. 
+s) Andre alvorlige sykdommer 
+og skader 
+Andre alvorlige sykdommer og skader enn nevnt under bokstav a) til r) der diagnosen 
+med overveiende sannsynlighet vil medføre erstatning for medisinsk invaliditet over 
+50 %. Diagnosen må være stilt av spesialist innenfor gjeldene sykdom. Se punkt 6.1 og 
+6.2 for eventuelle unntak. 
+Det utbetales ikke ny økonomisk førstehjelp hvis forsikrede senere får en av diagnosene 
+nevnt over som følge av den aktuelle sykdommen eller skaden. 
+5.2. Sykehusopphold 
+Denne delen av forsikringen kan gi rett til erstatning ved sykehusopphold. Det er en betingelse at 
+sykehusoppholdet varer i minst 7 dager sammenhengende og skjer i forsikringstiden. Ved flere 
+sykehusopphold er det et krav om at hvert av disse også varer i minst 7 dager samme nhengende. 
+Erstatningen er 1 000 kroner per dag, i inntil 365 dager per sykdoms - eller ulykkestilfelle. 
+Sykdommer eller ulykkesskader med medisinsk sammenheng regnes som ett og samme sykdoms - eller 
+ulykkestilfelle. 
+Det kreves ikke dokumentasjon for utgifter, men det må fremlegges dokumentasjon fra sykehuset på 
+innleggelsen. Erstatningen utbetales etterskuddsvis. 
+
+ 
+ 
+Standard Barneforsikring 8/17 
+5.3. Behandlingsutgifter - ulykke 
+Denne delen av forsikringen kan gi rett til refusjon av rimelige og nødvendige behandlingsutgifter i Norden 
+som er påløpt de to første årene etter ulykkesskaden. 
+Følgende behandlingsutgifter er omfattet: 
+• Tannbehandling 
+• Egenandeler hos lege og sykehus med offentlig refusjonsrett 
+• Kiropraktikk og fysioterapi hos behandler med offentlig refusjonsrett 
+• Medisiner og forbindingssaker foreskrevet av lege eller tannlege 
+• CT eller MR foreskrevet av lege og forhåndsgodkjent av If 
+• Reiseutgifter til og fra hjemstedet for nødvendig behandling 
+Ved tannskader hos barn under 18 år refunderes også, etter Ifs forhåndsgodkjennelse, utgifter til første 
+permanente tannbehandling (bro, krone og lignende) selv om sluttbehandlingen må utsettes ut over to år 
+på grunn av barnets alder. 
+Oppgjør skal dog skje senest 10 år etter utgangen av det året skaden inntraff, basert på kostnadsoverslag 
+fra tannlege og/eller tanntekniker. 
+Det er en forutsetning at utgiftene ikke kan kreves dekket fra annet hold. Se også begrensninger i punkt 
+6.3. 
+5.4. Engangsutbetaling av hjelpestønad 
+Denne delen av forsikringen gjelder kun for Standard Barneforsikring og kan gi rett til engangsutbetaling 
+hvis forsikrede i forsikringstiden før fylte 18 år er innvilget og får utbetalt hjelpestønad fra NAV som følge 
+av diagnose/tilstand som er omfattet av forsikringen. 
+Retten til erstatning inntreffer på det tidspunktet NAV fatter førstegangsvedtak om innvilgelse av 
+hjelpestønad. 
+Størrelsen på erstatningen avhenger av hvilken sats for hjelpestønad som er innvilget fra folketrygden. 
+Sats 1 50 000 kroner 
+Sats 2 75 000 kroner 
+Sats 3 275 000 kroner 
+Sats 4 912 500 kroner 
+Hvis diagnose/tilstand også gir rett til utbetaling av økonomisk førstehjelp (punkt 5.1) samordnes denne 
+med hjelpestønad. Det betyr at det kun utbetales hjelpestønad for den forsikringssum som overstiger 
+økonomisk førstehjelp. 
+Dekningen gjelder ikke for diagnose/tilstand og vedtak som inntraff før 7. november 2020. 
+5.5. Ombygging av bolig 
+Denne delen av forsikringen kan gi rett til å få dekket rimelig og nødven dig kostnader til bygningsmessige 
+endringer av privat bolig ved varig sykdom og skade som inntreffer i forsikringstiden. 
+
+ 
+ 
+Standard Barneforsikring 9/17 
+Retten til utbetaling inntreffer tidligst når følgende dokumentasjon er mottatt If: 
+• Medisinsk dokumentasjon fra lege, ergoterapeut eller annen behandler som gjør rede for det faktiske 
+behovet for at boligen tilpasses tilstanden. 
+• Kostnadsoverslag for ombyggingen inkludert plantegning og bilder. 
+• Bekreftelse på at kostnadene ikke dekkes fra annet hold. 
+Med bolig menes bygning eller del av bygning som forsikrede bruker som fast bosted. Hage og uteområde 
+regnes ikke som en del av boligen. 
+Formålet med erstatningen er å bidra til at forsikrede kan fortsette å bo hjemme og opprettholde 
+selvstendighet etter å ha fått en varig sykdom eller skade. 
+Forsikringssummen er på inntil 5 G, og kan kun komme til utbetaling en gang i forsikringstiden. 
+Erstatningen begrenes på grunnlag av den G som gjelder på det tidspunktet forsikringstilfellet inntraff. 
+5.6. Medisinsk invaliditet - ulykke og sykdom 
+Denne delen av forsikringen kan gi rett til invaliditetserstatning hvis forsikrede rammes av en 
+sykdom/ulykkesskade som medfører varig medisinsk invaliditet. Erstatningen skal gi barnet kompensasjon 
+for tapt livsutfoldelse. 
+Ved ulykkesskade inntreffer retten til erstatning når ulykkesskaden skjer. 
+Ved sykdom inntreffer retten til erstatning når det har gått minst to år siden sykdommen inntraff, den har 
+stabilisert seg og det kan fastsettes en varig invaliditetsgrad. 
+Er forsikringen opphørt på grunn av forsikredes alder i henhold til punkt 4, er det tilstrekkelig at diagnosen 
+er stilt innenfor forsikringstiden. 
+Avtalt forsikringssum står i forsikringsbeviset. Ved hver fornyelse av forsikringen oppjusteres 
+forsikringssummen i takt med økningen av folketrygdens grunnbeløp (G-regulering). Det er 
+forsikringssummen på det tidspunkt retten til invaliditetserstatning inntreffer, som legges til grunn for 
+beregningen av invaliditetserstatningen. 
+Er forsikringen opphørt på grunn av forsikredes alder på det tidspunktet, er det forsikringssummen på 
+opphørstidspunktet som legges til grunn. 
+Erstatningen utgjør en prosentvis andel av forsikringssummen tilsvarende den medisinske 
+invaliditetsgraden. 
+Ved medisinsk invaliditet på 51 % eller mer utbetales dobbel erstatning. 
+Hvis det er utbetalt erstatning for Økonomisk førstehjelp for sykdommen eller skaden (se punkt 5.1), 
+kommer denne til fradrag ved utbetaling av medisinsk invaliditet. 
+5.7. Engangsutbetaling ved varig uførhet 
+Denne delen av forsikringen gjelder kun for Standard Barneforsikring og kan gi rett til erstatning ved 
+arbeidsuførhet som følge av sykdom/skade som er omfattet av forsikringen. 
+Retten til uføreerstatning inntreffer når forsikrede har vært minst 40 % arbeidsufør sammenhengende i 
+minst to år etter fylte 18 år og uførheten er vurdert å være varig. 
+Unntak fra denne bestemmelse kan benyttes der det er innvilget vedtak om varig uføretrygd hos NAV ved 
+fylte 18 år. I slike tilfeller kan erstatning komme til utbetaling fra fylte 18 år. 
+Sykdom eller skade som ikke gir rett til erstatning etter punkt 6, medregnes ikke i uføregraden. 
+Det er en forutsetning at forsikringen er i kraft når retten til uføreerstatning inntreffer. 
+
+ 
+ 
+Standard Barneforsikring 10/17 
+Er forsikringen opphørt på grunn av forsikredes alder i henhold til punkt 4, er det ti lstrekkelig at de to 
+årene er påbegynt innenfor forsikringstiden. 
+Avtalt forsikringssum står i forsikringsbeviset. Ved hver fornyelse av forsikringen oppjusteres 
+forsikringssummen i takt med økningen av folketrygdens grunnbeløp (G -regulering). 
+Det er forsikringssummen på det tidspunkt retten til uføreerstatningen inntreffer som legges til grunn for 
+beregningen av uføreerstatningen. Er forsikringen opphørt på grunn av forsikredes alder på det 
+tidspunktet, er det forsikringssummen på opphørstidspunktet som le gges til grunn. 
+5.8. Dødsfall 
+Denne delen av forsikringen kan gi rett til dødsfallserstatning hvis forsikrede dør i forsikringstiden. 
+Forsikringssummen er 1 G. 
+Erstatningen beregnes på grunnlag av den G som gjelder på det tidspunktet forsikringstilfellet inntr aff. 
+5.9. Tilgang til tjenester 
+Som kunde med barneforsikring hos If har du tilgang til tjenestene som er beskrevet nedenfor. 
+5.9.1 Medisinsk rådgivningstjeneste 
+Medisinsk rådgivingstjeneste kan hjelpe hvis du som foreldre har spørsmål om helse, sykdom eller skader 
+hos ditt barn. Barn som er over 16 år, kan selv benytte seg av tjenesten. 
+Telefontjenesten er døgnåpen, og du får snakke med autorisert helsepersonell som kan svare på dine 
+spørsmål og bekymringer og veilede deg i hva du kan gjøre videre. 
+Alle medisinske henvendelser vurderes utfra hastegrad. 
+Rådene og anbefalingene du får tar utgangspunkt i oppdatert medisinsk kunnskap og etablerte 
+behandlingsprinsipper. 
+Ved behov for ytterligere hjelp kan du settes i kontakt med digital lege, bli anbefalt å oppsøke et fysisk 
+legekontor eller kontakte legevakt hvis det haster. I andre tilfeller kan du bli beroliget med at du kan vente 
+med legebesøket til neste dag eller se an formen. 
+5.9.2 Psykologisk førstehjelp 
+Forsikringen omfatter inntil 10 timer psykologisk førstehjelp som følge av at forsikrede selv (barnet), 
+foreldre eller søsken får en psykisk reaksjon i forsikringstiden som følge av at 
+• barnet blir utsatt for en alvorlig ulykke 
+• barnet får en alvorlig sykdom 
+• barnet blir utsatt for annen plutselig og uforutsett hendelse som vold, ran, alvorlig trafikkulykke eller 
+dødsfall eller er til stede ved slike hendelser uten selv å være fysisk skadet 
+Behandling skal igangsettes i direkte tilknytning til hendelsen og uten ugrunnet opphold. 
+Psykologisk førstehjelp omfatter ikke ordinær psykologbehandling av lidelser som har utviklet seg som 
+følge av psykisk belastning over tid, og som ikke krever øyeblikkelig psykologisk bistand. 
+Behandlingen skal foregå innenfor Vertikal Helses nettverk av psykologer. 
+I de tilfeller en kunde er omfattet av flere personforsikringer i If med dekning for psykologisk førstehjelp, 
+dekkes slik hjelp kun under en av disse for en og samme hendels e. 
+
+ 
+ 
+Standard Barneforsikring 11/17 
+5.9.3 Skolerobot 
+Barn som på grunn av sykdom eller skade ikke kan gå på skole i en periode på 30 dager eller mer, har 
+mulighet til å leie AV1 Skolerobot i inntil 1 år. Leien dekkes av If. 
+Leie av AV1 Skolerobot skal godkjennes og bestilles av If. 
+No Isolation sender ut skoleroboten til barnet og retur av skolerobot avtales direkte med No Isolation . 
+Det er en forutsetning at forsikrede ikke har rett til AV1 Skolerobot fra annet hold. 
+Kostnader til leie av AV1 Skolerobot erstattes ikke i undervisingsfri periode om sommeren. 
+6. Hva forsikringen ikke omfatter. Begrensninger 
+Begrensningene i punkt 6 gjelder ikke dødsfall. 
+6.1. Generelt 
+Følgende begrensninger gjelder ved både sykdom og ulykkesskade: 
+6.1.1. Psykiske lidelser, atferdsforstyrrelser, utviklingsforstyrrelser o.l. 
+Forsikringen gir ikke rett til utbetaling som følge av psykiske lidelser, atferdsforstyrrelser, 
+utviklingsforstyrrelser / lærevansker og andre tilstander som tilsvarer kodegruppen F00 -F99 og R48 i 
+ICD-10, samt følger av disse. Begrensningen gjelder uansett bakenforliggende årsak. 
+Begrensningen gjelder for følgende dekningspunkter: 
+• Økonomisk førstehjelp (punkt 5.1). 
+• Engangsutbetaling av hjelpestønad (punkt 5.4). 
+• Medisinsk invaliditet (punkt 5.6). 
+• Engangsutbetaling ved varig uførhet (punkt 5.7). 
+6.1.2. Arr og vansiring 
+Forsikringen gir ikke rett til utbetaling ved arr og vansiring som gir invaliditetsgrad på mindre enn 15 %. 
+6.1.3. Tannskader 
+Tannskader gir ikke rett til invaliditetserstatning etter punkt 5.6. 
+6.1.4. Profesjonell idrett og ekspedisjoner 
+Forsikringen omfatter ikke ulykkesskader som følge av deltakelse i sport, idrett og ekspedisjoner som gir 
+forsikrede brutto inntekt og/eller sponsormidler på mer enn 2G p er år (G = folketrygdens grunnbeløp). 
+6.1.5. Militære operasjoner 
+Forsikringen omfatter ikke ulykkesskader som følge av deltakelse i fredsbevarende styrker eller andre 
+lands og organisasjoners militære og paramilitære styrker. 
+6.1.6. Forsett 
+Er forsikringstilfellet forsettlig fremkalt er If ikke ansvarlig. If er likevel ansvarlig hvis den forsikrede på 
+grunn av alder eller sinnstilstand ikke kunne forstå rekkevidden av sin handling. Med rekkevidde skal i 
+denne sammenheng forstås den umiddelbare følgen av handlingen, nemlig legemsskaden. 
+
+ 
+ 
+Standard Barneforsikring 12/17 
+6.1.7. Uaktsomhet 
+Er forsikringstilfellet fremkalt og/eller omfanget av det økt som følge av grov uaktsomhet, kan Ifs ansvar 
+settes ned eller falle bort. Ved avgjørelsen skal det bl.a. legges vekt på skyldgraden, skadeforløpet og 
+eventuell selvforskyldt rus, jf. FAL § 13-9. 
+6.1.8. Slagsmål, forbrytelser og gjengjeldelsesforhold 
+Forsikringen gir ikke rett til utbetaling ved sykdom eller ulykkesskade som skyldes at den forsikrede etter 
+fylte 15 år 
+• frivillig deltar i slagsmål eller forbrytelse, eller 
+• er offer for gjengjeldelsesforhold i forbindelse med egen deltakelse i straffbar handling. 
+6.2. Begrensninger ved sykdom 
+6.2.1. Karenstid 
+Forsikringen gir ikke rett til utbetaling ved sykdom/lidelse som er blitt påvist eller har vist tegn/symptom 
+de første 90 dagene etter at fullstendig helseerklæring er mottatt av If. 
+Ved økning av forsikringssummen eller utvidelse av forsikringen starter det en ny karenstid for 
+forhøyelsen. 
+Det er ikke karenstid ved flytting av tilsvarende hoveddekninger, forutsatt at forsikringen er godkje nt og 
+karenstiden er over i selskapet forsikringen flyttes fra. Karenstiden gjelder da kun eventuell økning av 
+forsikringssummene. 
+Som hoveddekninger regnes: 
+• Invaliditetserstatning ved sykdom 
+• Kritisk sykdom (økonomisk førstehjelp) 
+• Uføreforsikring (uførekapital og/eller uførepensjon) 
+6.2.2. Helseforbehold 
+Forsikringen gir ikke rett til erstatning for sykdom/lidelse som If har reservert seg mot i forsikringsbeviset. 
+6.2.3. Smerte- og utmattelsestilstander 
+Forsikringen gir ikke rett til utbetaling for medisinsk invaliditet (punkt 5.6) som følge av smerte- og/eller 
+utmattelsestilstander uten objektive funn på varig fysisk skade eller sykdom. 
+Unntaket omfatter blant annet: 
+• Kronisk utmattelsessyndrom (CFS/ME) 
+• Postvirale utmattelsestilstander og Long-Covid 
+• Nevrasteni og utbrenthet 
+• Fibromyalgi, muskelsmerter og artralgier 
+• Post-commotio-syndrom og spenningshodepine 
+• Smertetilstander og funksjonelle plager i mage og underliv 
+
+ 
+ 
+Standard Barneforsikring 13/17 
+6.2.4. Astma, cøliaki, allergier, matintoleranse og eksemer 
+Forsikringen gir ikke rett til invaliditetserstatning etter punkt 5.6 for astma, cøliaki, allergier, 
+matvareintoleranse eller eksemer som medfører en medisinsk invaliditetsgrad på mindre enn 20 %. 
+6.2.5. Infertilitet 
+Forsikringen gir ikke rett til invaliditetserstatning etter punkt 5. 6 for infertilitet som følge av sykdom eller 
+behandling. 
+6.2.6. Genfeil og kromosomavvik 
+Forsikringen gir ikke rett til invaliditetserstatning etter punkt 5.6 for kromosomavvik med diagnosekoder 
+fra Q90 til Q99 i henhold til ICD-10. 
+Påvist genfeil alene gir ikke rett til erstatning, med mindre den aktuelle genfeilen medfører en 
+sykdomstilstand som gir rett til erstatning i henhold til vilkårene. 
+6.3. Begrensninger ved behandlingsutgifter 
+Forsikringen dekker ikke behandlingsutgifter ved 
+• sykdom, sykelig tilstand eller anlegg, selv om en ulykkeshendelse er utløsende årsak. 
+Infeksjonssykdommer som er kommet gjennom en vevsskade som følge av en ulykkeshendelse er 
+likevel omfattet 
+• smertetilstander som følge av skader i rygg, med mindre smertene har oppstått som følge av 
+røntgenologisk påvisbart brudd i ryggsøyle eller ryggvirvel, og bruddet skyldes en ulykkeshendelse 
+• tannskade som følge av tygging eller biting 
+• forgiftning gjennom mat, drikke eller nytelsesmidler 
+• stikk og bitt av insekt 
+Forsikringen omfatter ikke følgende behandlingsutgifter: 
+• Merutgifter til undersøkelse, behandling eller opptrening ved private sykehus eller helseinstitusjoner, 
+eller hos privatpraktiserende leger/behandlere uten offentlig refusjonsrett. 
+• Utgifter til hjelpemidler. 
+• Utgifter til redningsaksjoner og transport fra skadestedet. 
+7. Skadeoppgjør 
+7.1. Generelt 
+Erstatning(ene) kommer til utbetaling når forsikringstilfellet er inntruffet, If har mottatt kravet med 
+nødvendig dokumentasjon og har hatt rimelig tid til å kartlegge ansvarsforholdet og beregne sitt endelige 
+ansvar. 
+7.1.1. Melding om forsikringstilfelle 
+Når et forsikringstilfelle har inntruffet, må melding sendes If omgående . 
+
+ 
+ 
+Standard Barneforsikring 14/17 
+7.1.2. Opplysningsplikt og dokumentasjon 
+Forsikringstaker/ forsikrede skal gi If de opplysninger og dokumenter som er tilgjengelig for ham eller 
+henne, og som If trenger for å kunne ta stilling til kravet og utbetale erstatningen. Dette innebærer at 
+forsikringstaker/forsikrede må gi If fullmakt til å innhente nødvendige opplysninger. 
+7.1.3. Lege- og spesialisterklæringer 
+Den forsikrede og If har rett til å innhente lege- og spesialisterklæringer som har betydning for 
+fastsettelsen av grunnlaget for erstatningsberegningen. Dersom If finner det nødvendig å innhente 
+legeerklæring fra ny sakkyndig, skal dette begrunnes skriftlig. 
+Hvis den forsikrede befinner seg utenfor Norge kan If kreve at forsikrede fremstiller seg for lege i Norge 
+for vurdering av om vilkårene for erstatning foreligger. Legens honorar betales av If. 
+7.1.4. Samvirkende årsaker 
+Erstatningen reduseres forholdsmessig hvis andre forhold, sammen med forsikringstilfellet, har medvirket 
+til det forhold som gir rett til utbetaling under forsikringen. 
+7.2. Når erstatningen utbetales og hvordan den beregnes 
+7.2.1. Økonomisk førstehjelp 
+Forsikringen kommer til utbetaling så snart If har vurdert mottatt krav med nødvendig dokumentasjon for 
+forsikringstilfellet. 
+Samordning: 
+Dersom sykdommen eller skaden gir rett til utbetaling av medisinsk invaliditet og/eller engangsutbetaling 
+av hjelpestønad vil den økonomiske førstehjelp komme til fradrag. 
+Den økonomiske førstehjelp utbetales til den/de foreldre som er forsikringstaker dersom barnet er under 
+18 år og til barnet selv dersom barnet på utbetalingstidspunkt har fylt 18 år. 
+7.2.2. Sykehusopphold 
+Erstatningen utbetales etterskuddsvis og kommer til utbetaling når If har vurdert mottatt krav med 
+nødvendig dokumentasjon på sykehusopphold. 
+7.2.3. Behandlingsutgifter 
+Behandlingsutgiftene kommer til utbetaling når If har vurdert mottatt krave med nødvendig 
+dokumentasjon for utgiftene. Behandlingsutgiftene må dokumenteres med originale bilag. 
+Behandlingsutgifter dekkes bare som om forsikrede hadde vært medlem av norsk folketrygd. 
+7.2.4. Engangsutbetaling av hjelpestønad 
+Erstatningen kommer til utbetaling når If har vurdert mottatt krav med nødvendig dokumentasjon fra NAV 
+som viser hvilken stønadssats forsikrede har fått innvilget og nødvendige medisinske opplysninger. 
+Erstatningen er en engangsutbetaling. 
+Hvis det er utbetalt erstatning for Økonomisk førstehjelp (se punkt 5.1), vil det kun utbetales hjelpestønad 
+for eventuell forsikringssum som overstiger økonomisk førstehjelp (sats 4). 
+7.2.5. Ombygning av bolig 
+Erstatningen kommer til utbetaling når If har vurdert mottatt krav med nødvendig dokumentasjon. 
+
+ 
+ 
+Standard Barneforsikring 15/17 
+7.2.6. Medisinsk invaliditet 
+Invaliditetserstatningen forfaller til utbetaling når forsikringstilfellet er inntruffet , If har mottatt kravet 
+med nødvendig dokumentasjon og har hatt rimelig tid til å kartlegge ansvarsforholdet og beregne sitt 
+endelige ansvar. 
+Hvis det er utbetalt erstatning for Økonomisk førstehjelp (se punkt 5.1), kommer denne til fradrag. 
+Erstatningen fastsettes på grunnlag av den invaliditetsgraden som sykdommen/ulykkesskaden 
+representerer, og avtalt forsikringssum. 
+Ved invaliditetsgrader på 51 % eller mer, dobles forsikringssummen. 
+Medfører sykdommen/ulykkesskaden flere skadefølger, fastsettes inval iditetsgraden ut fra en samlet 
+vurdering på samme måte som for yrkesskade (kalt reduksjonsmetoden). 
+Dersom sykdommen/ulykkesskaden øker en tidligere funksjonsnedsettelse, gjøres fradrag i medisinsk 
+invaliditet tilsvarende tidligere funksjonsnedsettelse. Når andre forhold medvirker til at den medisinske 
+invaliditetsgraden blir høyere enn det sykdommen/ulykkesskaden alene tilsier, ytes forholdsmessig 
+erstatning. Se også punkt 7.1.4. 
+Ved sykdommer som ikke har stabilisert seg har If rett til å utbetale invaliditetserstatning når det har gått 
+5 år fra diagnosen ble stillet første gang. Et slikt oppgjør skal baseres på den invaliditetsgraden som 
+foreligger på oppgjørstidspunktet. Ved senere forverring med minst 10 % -poeng kan forsikrede kreve 
+gjenopptak av saken innen 10 år etter oppgjørstidspunktet, men likevel ikke senere enn 10 år etter 
+forsikringens opphør. Ved gjenopptak etter denne bestemmelsen skal dette betraktes som et nytt 
+forsikringstilfelle. 
+7.2.7. Engangsutbetaling ved arbeidsuførhet 
+Ved sykdom/skade inntruffet etter 10.11.2018 utbetales erstatningen i sin helhet så lenge forsikrede er 
+minst 40 % arbeidsufør som følge av sykdom eller skade som gir rett til erstatning. 
+For sykdom/skade inntruffet før 10.11.2018 utgjør erstatning prosentvis andel av avtalt forsikringssum 
+tilsvarende den uføregrad som er omfattet av forsikringen. 
+Er arbeidsuførheten på grunn av andre forhold blitt høyere enn det den erstatningsmessige 
+sykdommen/ulykkesskaden alene tilsier, ytes bare erstatning dersom sykdommen/ulykkesskaden 
+representerer mer enn 40 % arbeidsuførhet. 
+Dersom årsak til uførhet omfattes av begrensninger og/eller reservasjoner i punkt 6, vil erstatningen 
+reduseres forholdsmessig. 
+Se også punkt 7.1.4. 
+7.2.8. Dødsfall 
+Dødsfallserstatningen kommer til utbetaling når dødsfallet er inntruffet og If har mottatt kravet med 
+nødvendig dokumentasjon. 
+Dør forsikrede før invaliditetserstatningen er forfalt til betaling, betales dødsfallserstatning. Eventuell 
+invaliditetserstatning som måtte være forskuddsbetalt, kommer til fradrag. Dør forsikrede som følge av 
+erstatningsberettiget skade eller sykdom etter at invaliditetserstatning er forfalt til betaling, men ikke er 
+utbetalt, betales kun invaliditetserstatning. 
+7.3. Hvem utbetalingen går til 
+• Økonomisk førstehjelp (punkt 5.1) utbetales til forsikringstaker frem til forsikrede fyller 18 år og til 
+forsikrede selv fra fylte 18 år. 
+• Erstatning for sykehusopphold (punkt 5.2) utbetales til forsikringstaker frem til forsikrede fyller 18 år 
+og til forsikrede selv fra fylte 18 år. 
+
+ 
+ 
+Standard Barneforsikring 16/17 
+• Refusjon av behandlingsutgifter (punkt 5.3) utbetales til forsikringstaker frem til forsikrede fyller 18 år 
+og til forsikrede selv fra fylte 18 år. 
+• Engangsutbetaling av hjelpestønad (punkt 5.4) utbetales til forsikringstaker. 
+• Ombygging av bolig (punkt 5.5) utbetales til forsikringstaker frem til forsikrede fyller 18 år og til 
+forsikrede selv fra fylte 18 år. 
+• Medisinsk invaliditet (punkt 5.6) utbetales til forsikrede. 
+• Engangsutbetaling ved uførhet (punkt 5.7) utbetales til forsikrede. 
+• Dødsfallserstatning (punkt 5.8) utbetales til forsikringstaker. Dersom forsikrede og forsikringstaker er 
+samme person, vil forsikringssummen utbetales til arvinger etter lov eller testamente. 
+If plikter å varsle statsforvalteren ved forsikringsutbetaling til mindreårige. Statsforvalteren kan kreve 
+forvaltning av forsikringsutbetalinger i henhold til § 26 i forskrift til vergemålsloven. 
+8. Avvik fra generelle vilkår 
+8.1. Jordskjelv og vulkanske utbrudd 
+If svarer for ulykkesskade som skyldes jordskjelv og vulkanske utbrudd, uten hensyn til bestemmelsen i 
+Generelle vilkår om jordskjelv og vulkanske utbrudd. 
+8.2. Krig som oppstår ved reiser i utlandet 
+Generelle vilkårs punkt om krig lempes ved at If allikevel svarer for ulykkesskade som oppstår under 
+utenlandsreise, og skaden har sammenheng med krig eller krigslignende hendelse, når innreise fant sted 
+før området ble erklært som risikoområde av UD. Ifs ansvar er begrenset til å omfatte skader som 
+inntreffer de første 30 dagene etter at slik erklæring er gitt. Det er en forutsetning at forsikringstaker ikke 
+deltar i handlingene. 
+
+ 
+ 
+Standard Barneforsikring 17/17 
+ 
+ 
+ 
+ 
+If P&C Insurance Ltd (publ), represented by its 
+Norwegian branch If Skadeforsikring NUF 
+The Norwegian company register, 
+reg.no.: 981 290 666 
+P.O. Box 240, NO-1326 Lysaker, Norway 
+Office: Drammensveien 264, 
+NO-0283 Oslo, Norway 
+ Phone: +47 21 49 24 00 
+www.if.no 
+ Branch of: 
+If P&C Insurance Ltd (publ) 
+Domicile: SE-106 80 Stockholm 
+The Swedish Companies Registration 
+Office, reg.no.: 516401-8102

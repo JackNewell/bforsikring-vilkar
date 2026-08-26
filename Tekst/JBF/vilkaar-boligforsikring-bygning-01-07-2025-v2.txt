@@ -1,0 +1,907 @@
+Vilkår for hytteforsikring — JBF
+Kilde: https://www.jbf.no/-/media/banker/js/dokumenter/vilkaar/2026/vilkaar-boligforsikring-bygning-01-07-2025-v2.pdf
+Sist endret: 2026-08-26T14:44:10Z
+============================================================
+
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 1 av 18 
+ 
+Gjelder fra 01.07.2025 
+Erstatter vilkår av 01.01.2025 
+I tillegg til disse vilkårene gjelder 
+• forsikringsbeviset med ansvarsbegrensninger og sikkerhetsforskrifter 
+• generelle vilkår 
+• vilkår rettshjelpforsikring 
+• forsikringsavtaleloven (FAL) 
+1 HVEM FORSIKRINGEN GJELDER FOR 3 
+2 HVOR FORSIKRINGEN GJELDER 3 
+3 HVA FORSIKRINGEN OMFATTER 3 
+3.1 BYGNINGER M.M. 3 
+3.2 HAGEANLEGG OG BRYGGE 4 
+3.3 MERUTGIFTER ETTER ERSTATNINGSMESSIG SKADE PÅ BYGNING 4 
+3.4 ANSVAR 4 
+3.5 RETTSHJELP 4 
+3.6 NATURSKADE 5 
+4 HVILKE SKADER SOM ERSTATTES 5 
+4.1 FELLESREGLER 5 
+4.2 BRANN 5 
+4.3 NATURSKADE 6 
+4.4 VANN OG ANNEN VÆSKE 6 
+4.5 BRUDD PÅ RØRLEDNING FOR VANN ELLER VÆSKE 7 
+4.6 SKADEVERK VED ULOVLIG INNTRENGING I BYGNING JF. STRAFFELOVEN § 351 7 
+4.7 SKADE VED SNØ OG VIND 7 
+4.8 BRUDD PÅ GLASS OG SANITÆRPORSELEN 7 
+4.9 ANNEN SKADE PÅ BYGNING 8 
+5 SKADEOPPGJØR 8 
+5.1 FELLESREGLER 8 
+5.2 FELLESREGLER FOR ERSTATNINGSBEREGNING 9 
+5.3 ERSTATNINGSBEREGNING FOR TILBEHØR TIL BYGNING 10 
+5.4 ERSTATNINGSBEREGNING VED NATURSKADE 10 
+5.5 HUSLEIETAP, TAP AV EGEN BOLIG OG PRISSTIGNING 11 
+5.6 FORETAKETS ANSVAR OVERFOR PANTHAVER, KONKURSBO, DØDSBO OG ANDRE NYE EIERE 11 
+5.7 SKJØNN 11 
+5.8 FORETAKETS OVERTAKELSE AV PANTERETT 11 
+6 EGENANDELER 11 
+7 INKLUDERTE TILLEGGSDEKNINGER 12 
+7.1 ANSVARSFORSIKRING 12 
+7.2 YRKESSKADE 13 
+7.3 PÅBUD FRA OFFENTLIG MYNDIGHET 13 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 2 av 18 
+8 FRIVILLIGE TILLEGGSDEKNINGER 14 
+8.1 RÅTE- OG SKADEDYRFORSIKRING – BYGNING TOPP FRA VIS FORSIKRING 14 
+8.2 SUPER 14 
+8.3 ID – FORSIKRING 15 
+8.4 BYGG UNDER OPPFØRING 16 
+8.5 UTLEIEFORSIKRING BYGNING 17 
+ 
+ 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 3 av 18 
+ 
+1 HVEM FORSIKRINGEN GJELDER FOR 
+Forsikringen gjelder for 
+• forsikringstaker (den som er nevnt i forsikringsbeviset). 
+• ektefelle, samboer, registrert partner og andre medlemmer av den faste husstand med felles adresse i folkeregisteret. 
+• innehaver av tinglyst eiendomsrett, panterett eller annen tinglyst sikkerhetsrett i fast eiendom. 
+• dødsboet, dersom innehaver av tinglyst eiendom dør. Dødsboet trer inn i avdødes sted som sikrede. 
+Bofellesskap, leietakere o.l. regnes ikke som medlemmer av den faste husstanden. 
+En person regnes ikke lenger som ektefelle når det er avsagt dom for eller gitt bevilling til separasjon eller skilsmisse, selv om 
+avgjørelsen ikke er rettskraftig eller endelig. Uansett opphører forsikringen for forsikringstakerens ektefelle/samboer fra 
+tidspunktet ektefellen/samboeren er fraflyttet (faktisk separasjon/samlivsbrudd). 
+Forsikringen gjelder ved eierskifte inntil ny eier har avtalt egen forsikring, men ikke lenger enn 14 dager etter eierskiftet. 
+2 HVOR FORSIKRINGEN GJELDER 
+Forsikringen gjelder på stedet som er nevnt i forsikringsbeviset (forsikringsstedet). 
+Spesielle gyldighetsområder 
+• Ansvarsforsikring gjelder for eier av fast eiendom i Norge. 
+• Rettshjelpsforsikringen gjelder i Norge. 
+• Naturskadeforsikringen gjelder naturskader som inntreffer i Norge. 
+• Yrkesskadeforsikring gjelder der lov om yrkesskadeforsikring bestemmer. 
+3 HVA FORSIKRINGEN OMFATTER 
+Forsikringen omfatter bare verdien av selve tingen, med mindre annet er avtalt. Arbeid og utgifter til beregning, fremsetting og 
+dokumentasjon av krav, omfattes ikke av forsikringen. 
+Forsikringen omfatter ikke tapt arbeidsfortjeneste, uansett årsak. 
+For ansvars-, yrkesskade- og påbudsforsikring vises det også til punkt 7.1– 7.3. 
+ 
+3.1 BYGNINGER M.M. 
+Omfattes Omfattes ikke 
+• bygninger angitt i forsikringsbeviset med tilknyttet utstyr 
+som er vanlig for bygningens boligformål 
+• solceller som dekker eget forbruk 
+• utvendig rør og ledninger frem til offentlig ledning eller 
+brønn 
+• tilleggsbygning med bruttoareal inntil 10 kvm er omfattet 
+med brann- og naturskadeforsikring 
+• drensledning og drenskum er omfattet med brann- og 
+naturskade 
+• kunstnerisk utsmykking 
+• overvannsledning, infiltrasjonsledning, spredegrøft, 
+brønn eller borehull 
+• innretninger som er spesielt montert for eller har 
+tilknytning til ervervsvirksomhet 
+ 
+ 
+ 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 4 av 18 
+3.2 HAGEANLEGG OG BRYGGE 
+Omfattes Omfattes ikke 
+• hageanlegg inkludert gjerde, flaggstand og utvendig 
+vannbasseng inntil 5 mål rundt forsikret bygning. Ved 
+naturskade gjelder lov om naturskadeforsikring. 
+• fast trebrygge inkludert installasjoner tilhørende den 
+forsikrede eiendommen med inntil 100 000 kroner 
+• produksjonsskog, avling på rot, dyrket mark, beite, og 
+utmark 
+• flytebrygge, brygge i annet materiale enn tre og andel i 
+fellesbrygge 
+ 
+3.3 MERUTGIFTER ETTER ERSTATNINGSMESSIG SKADE PÅ BYGNING 
+Omfattes Omfattes ikke 
+• utgifter til riving, rydding og bortkjøring av verdiløse 
+bygningsrester etter skade. For bygninger forsikret på 
+førsterisiko er dekningen inntil 20 % av 
+forsikringssummen. 
+• tapt husleieinntekt. Dekning forutsetter at boligen var 
+utleid på skadetidspunktet. Beregningen skjer etter punkt 
+5.5. 
+• tap ved at egen bolig ikke kan brukes. Beregningen skjer 
+etter punkt 5.5. 
+• påløpte ekstra utgifter på grunn av prisstigning i inntil 24 
+måneder. Beregningen skjer etter punkt 5.5. 
+• bygningsmessige merutgifter ved utbedring som skyldes 
+offentlig påbud, gitt med hjemmel i lov eller forskrift. For 
+bygninger forsikret på førsterisiko er dekningen inntil 20 
+% av forsikringssummen. Se punkt 7.3. 
+• tap av vann, fyringsolje eller annen væske med inntil kr 
+40 000 
+• utgifter som skyldes påbud som myndighetene hadde 
+hjemmel til å gi uavhengig av skaden 
+• tap av nytteareal som følge av påbud 
+• utgifter til sikring og forebygging som følge av påbud 
+• utgifter til grunnundersøkelser utenfor den forsikrede 
+eiendom 
+• utgifter til byggemåte og utstyr som er urasjonell etter 
+dagens byggeskikk eller antikvariske merutgifter i 
+henhold til krav etter kulturminneloven 
+ 
+3.4 ANSVAR 
+Omfattes Omfattes ikke 
+• erstatningsansvar som sikrede kan pådra seg som eier av 
+den forsikrede eiendommen. Se punkt 7.1 
+ 
+ 
+3.5 RETTSHJELP 
+Omfattes Omfattes ikke 
+• rettshjelp når du er part i en tvist i egenskap av eier av 
+den forsikrede eiendommen. Se vilkår for 
+rettshjelpsforsikring. 
+ 
+ 
+ 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 5 av 18 
+3.6 NATURSKADE 
+Omfattes Omfattes ikke 
+• brannforsikrede objekter i Norge. Når forsikret bygning 
+er et bolighus eller fritidshus, omfattes tomt oppad til 5 
+mål rundt forsikret bygning. Tilsvarende omfattes den 
+delen av vei som ligger innenfor avgrensingen og areal 
+som angitt overfor. 
+• produksjonsskog, avling på rot, dyrket mark, beite, 
+utmark, varer under transport, motorvogn og tilhenger til 
+bil, campingvogn, spikertelt, luftfartøy, skip og småbåter 
+og ting i disse, fiskeredskap på fartøy eller i sjøen, utstyr i 
+sjøen for produksjon av fisk, fisk i steng, lås eller dam, 
+utstyr for utvinning av olje, gass eller andre 
+naturforekomster på havbunnen. Forsikringen omfatter 
+likevel skade på motorvogn og tilhenger til bil, luftfartøy, 
+seilbåt og motorbåt samt utstyr for utvinning av olje, gass 
+eller andre naturforekomster på havbunnen når disse 
+tingene er varer i næringsvirksomhet og befinner seg på 
+land i Norge. 
+• klopper, moloer, stein- og betongbrygger, tunneler i fjell, 
+damanlegg og lignende. 
+• skade som alene rammer antenner, skilt, markiser etc. 
+• byggverk eller ting i dette når byggverket er oppført etter 
+at det for vedkommende område er nedlagt bygge- og 
+deleforbud, i medhold av naturskadeloven § 22, og 
+skaden er av slik art som vedtaket gjelder 
+• utgifter til forebygging, sikring, flytting eller andre tiltak 
+som ikke skyldes direkte skade på forsikret byggverk eller 
+løsøre. Er forsikret ting skadet eller direkte truet ved 
+utløst naturulykke, omfattes nødvendige redningsutgifter 
+som omhandlet i FAL § 6-4, begrenset til det erstatningen 
+for tingen høyst kunne ha blitt etter vilkårenes punkt 5. 
+ 
+4 HVILKE SKADER SOM ERSTATTES 
+4.1 FELLESREGLER 
+Det fremkommer av forsikringsbeviset hvilke skader som er omfattet. Er det avtalt kun brannforsikring omfattes brann og 
+naturskade etter punktene 4.2 og 4.3. 
+Forsikringen gjelder fysisk skade som inntreffer plutselig og uforutsett på ting inntruffet i forsikringstiden. I tillegg erstattes 
+merutgifter nevnt i punkt 3.3. 
+Utgifter til vedlikehold og/eller forbedringer erstattes ikke. 
+4.2 BRANN 
+Erstattes Erstattes ikke 
+• brann, det vil si ild som er kommet løs 
+• lynnedslag og elektrisk fenomen. Med elektrisk fenomen 
+menes kortslutning, lysbue, overslag og overspenning. I 
+erstatningsoppgjøret blir det gjort aldersfradrag etter 
+reglene i punkt 5.3 
+• eksplosjon 
+• nedsoting 
+• svi- og gnistskader som ikke skyldes brann 
+• elektrisk fenomenskade på varmepumper og 
+boblebad/jacuzzi, med mindre skaden er forårsaket av 
+overspenning på strømnettet. Overspenningen må være 
+dokumentert av nettleverandør. 
+ 
+ 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 6 av 18 
+4.3 NATURSKADE 
+Erstattes Erstattes ikke 
+• Naturskadeforsikringen erstatter skade på 
+brannforsikrede ting, som direkte skyldes naturulykke 
+ved skred, storm, flom, stormflo, flodbølge, 
+meteorittnedslag, jordskjelv eller vulkanutbrudd, i 
+henhold til naturskadeerstatningsloven. 
+• skade som skyldes lyn, frost, tele, tørke, nedbør, 
+snøtyngde eller isgang 
+• skade som skyldes dyr, insekter, bakterier, sopp, råte e.l. 
+ 
+4.3.1 Andre spesielle bestemmelser om naturskade 
+Er en brannforsikret bygning skadet i en naturulykke, og det ikke gis tillatelse til å reparere eller gjenoppbygge bygningen på 
+skadestedet på grunn av fare for ny naturskade, erstattes bygningen som om den var totalskadet. For bolighus og fritidshus 
+gjelder naturskadeforsikringsloven § 1 tredje ledd. 
+I stedet for å erstatte tomt og bygninger kan JBF velge å sikre eiendommen, forutsatt at den sikrede samtykker skriftlig. 
+Sikringstiltakene må gi så god beskyttelse mot ny naturskade at eieren kan få tillatelse til reparasjon eller gjenoppbygging på 
+skadestedet. JBF skal dekke utgiftene til sikringstiltakene og sørge for ettersyn og vedlikehold. 
+Er et brannforsikret bolighus eller fritidshus skadet i en naturulykke, og det ikke gis tillatelse til å reparere eller gjenoppbygge 
+huset på skadestedet på grunn av fare for ny naturskade, skal JBF erstatte tomtens omsetningsverdi før skaden. Erstatningen er 
+oppad begrenset til verdi tilsvarende fem dekar. Det skadede huset og eventuelle forsikrede uthus skal dessuten erstattes som om 
+de var totalskadet. Er grunnen under et brannforsikret bolighus eller fritidshus blitt ustabil som følge av en naturulykke, gjelder 
+tilsvarende selv om huset ikke er skadet. 
+Nødvendige redningsutgifter erstattes inntil gjenoppføringsprisen når forsikret objekt er skadd eller direkte truet ved utløst 
+naturulykke. Andre gjenstander enn bygning erstattes med gjenanskaffelsesprisen. 
+Naturskadeerstatningen kan settes ned eller falle bort når skadens inntreden eller omfang helt eller delvis skyldes svak 
+konstruksjon i forhold til de påkjenninger tingen kan ventes å bli utsatt for, dårlig vedlikehold eller tilsyn, eller når den skadelidte 
+kan lastes for ikke å ha forebygget skaden eller hindret dens omfang. Ved avgjørelsen skal det legges vekt på den skadelidtes 
+forutsetninger for å innse hvilke krav som må stilles, vedkommende sin mulighet for utbedring av mangelen og forholdene ellers. 
+Avkortning skal ikke skje hvis den skadelidte bare er lite å legge til last. Forsikringsforetakenes samlede ansvar ved en enkelt 
+naturkatastrofe er begrenset til det beløp som er fastsatt av myndighetene. Overskrids denne grense, må sikrede bære en 
+forholdsmessig del av skaden. 
+4.4 VANN OG ANNEN VÆSKE 
+Erstattes Erstattes ikke 
+• utilsiktet utstrømning av gass, vann, slokkemiddel eller 
+annen væske fra bygnings rørledning med tilknyttet 
+utstyr ved brudd, lekkasje eller oversvømmelse 
+• vann eller annen væske som trenger inn i bygning 
+utenfra når den kommer fra bygnings avløpsledning eller 
+tilførselsledning for vann eller fyringsolje 
+• vann som plutselig trenger inn i bygning direkte fra 
+terreng eller grunn, når det fører til synlig vann på gulvet. 
+Vann i oppforet gulvkonstruksjon regnes ikke som synlig 
+vann. 
+• utstrømning av vann fra akvarium 
+• vannskade på tilstøtende rom som følge av utett våtrom 
+• skade ved vann fra tak, takrenne, utvendig nedløp samt 
+utett forbindelse mellom tak og taksluk/innvendig nedløp 
+• skade på gulv og vegger i våtrom (vaske-, bade-, 
+dusjrom). Med våtrom menes bygningskomponenter 
+som befinner seg innenfor våtrommets bjelkelag og 
+stenderverk. 
+• skade ved sopp og råte, uansett årsak 
+• skade ved vanlig bruk, søl eller kondens 
+• skade ved fukt 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 7 av 18 
+ 
+4.5 BRUDD PÅ RØRLEDNING FOR VANN ELLER VÆSKE 
+Erstattes Erstattes ikke 
+• brudd på innvendig rørledning og tilknyttet 
+varmtvannsbeholder/-bereder, radiator, fyringskjel og 
+oljetank 
+• brudd på utvendig rørledning med tilknyttet utstyr, samt 
+tining, staking og inspeksjon ved førstegangs plutselige 
+og uforutsette forstoppelse 
+• Utgifter til tining av utvendig vann- og avløpsledning 
+erstattes med inntil kr 50 000, inklusive merutgifter og 
+tap som framgår i punkt 3.3. 
+• skade på takrenne, utvendig nedløp og taksluk for 
+innvendig nedløp 
+• skade på drensledning, drenskum, overvannsledning, 
+infiltrasjonsledning, spredeledning/-grøft 
+ 
+ 
+4.6 SKADEVERK VED ULOVLIG INNTRENGING I BYGNING JF. STRAFFELOVEN § 351 
+Erstattes Erstattes ikke 
+• Skade på bygningen erstattes når det skyldes skadeverk 
+ved ulovlig inntrenging i bygning eller rom i bygning. 
+• skadeverk forårsaket av husstandsmedlemmer. Dette 
+gjelder også for leietaker eller medlem av leietakers 
+husstand, med mindre forsikringen omfatter 
+utleieforsikring. Se punkt 8.5. 
+• skadeverk som oppstår når sikrede frivillig har gitt 
+personer tilgang til boligen 
+ 
+4.7 SKADE VED SNØ OG VIND 
+Omfattes Omfattes ikke 
+• snøtyngde/snøpress og ras på eller fra tak. Spesiell 
+egenandel, se punkt 6. 
+• vind som er svakere enn storm. Spesiell egenandel, se 
+punkt 6. 
+• skade på hobbyveksthus, lysthus i glass, partytelt, 
+paviljonger, plasthaller, garasjetelt og andre tilsvarende 
+enkle/lette konstruksjoner 
+• skade som følge av vind som rammer båt, gjerde, 
+hageanlegg, antenner, skilt og markiser 
+• skade som følge av svak konstruksjon eller 
+konstruksjonsfeil 
+• skade som skyldes sopp og råte, uansett årsak 
+• skade ved snø som trenger inn utenfra 
+ 
+4.8 BRUDD PÅ GLASS OG SANITÆRPORSELEN 
+Erstattes Erstattes ikke 
+• brudd på glassruter i vinduer, dører og vegger i den 
+forsikrede boligen 
+• brudd på sanitærporselen og emaljerte servanter i den 
+forsikrede boligen 
+• skade som alene består av flekker, riper, avskallinger og 
+lignende 
+• skade som består i at innfatningen for isolerglass er utett 
+(punktering av glass) 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 8 av 18 
+ 
+4.9 ANNEN SKADE PÅ BYGNING 
+Erstattes Erstattes ikke 
+• I tillegg til skader som er nevnt i punkt 4.2 – 4.8, omfattes 
+andre plutselige skader på bygning og hageanlegg som 
+skyldes en tilfeldig og plutselig ytre påvirkning. 
+Samtlige unntak og begrensninger, som er nevnt i punkt 4.2 – 
+4.8 gjelder også her. 
+ 
+• svinnsprekker, flekker, riper, hakk, avskallinger og 
+lignende 
+• tingenes egne mangler, feil, svakheter eller mekanisk 
+svikt, også dersom dette skyldes slitasje, bruk eller alder 
+• kondens 
+• kjæledyr, skadedyr, insekter, bakterier og sopp eller råte 
+uansett årsak 
+• skadeverk, jf. straffeloven §§ 351 og 352 første og andre 
+ledd, i eller på bygning som er forårsaket av leieboer eller 
+dennes husstand, med mindre forsikringen omfatter 
+utleieforsikring. Se punkt 8.5. 
+• utilstrekkelig eller sviktende fundamentering, setninger i 
+bygningen eller grunnen, jordtrykk, frost, tele, 
+materialfeil, svak konstruksjon eller konstruksjonsfeil, 
+eller uriktig montasje 
+• skade på hageanlegg som følge av klimatiske årsaker 
+ 
+5 SKADEOPPGJØR 
+FAL § 6-1 er fraveket. I stedet gjelder følgende regler: 
+5.1 FELLESREGLER 
+Felles oppgjørsrutiner: 
+• JBF har rett til å bestemme hvilken reparatør eller leverandør som skal benyttes. 
+• Erstatningen beregnes etter prisene på skadedagen. 
+• Erstatning utbetales i takt med reparasjonen. 
+• Merverdiavgift refunderes etter dokumenterte utgifter som er påløpt ved reparasjon av skaden. 
+• Brannskader, tyveriskader og skadeverk skal politianmeldes. 
+5.1.1 Alternative oppgjørsmåter 
+JBF kan avgjøre om skaden skal erstattes med: 
+• Kontantoppgjør 
+• Reparere/utbedre skaden til tilsvarende, eller i vesentlige tilsvarende stand, som før skaden 
+• Gjenskaffe tilsvarende, eller i det vesentlige tilsvarende ting, etter pris på skadedagen 
+• Gjenoppføre tilsvarende bygning 
+Med «tilsvarende, eller i vesentlige tilsvarende stand» menes at JBF ikke dekker tap knyttet til estetisk forringelse, hvor nye 
+bygningsdeler ved reparasjon ikke er estetisk kompatibel med gamle uskadede bygningsdeler. Eksempler på tap som ikke dekkes 
+er skifte av gjennomgående parkett/bygningsmateriale i andre rom enn der hvor skaden har oppstått, farge- og/eller 
+overflateforskjeller på maling, fliser og andre bygningsdeler. Der punktreparasjon er mulig skal dette som hovedregel benyttes. 
+Kontantoppgjør erstattes med 75 % av timesats eksklusive merverdiavgift etter kalkyle utført av JBFs takstmann/leverandør, 
+dersom det ikke kan dokumenteres med faktura at arbeidspenger er betalt. El- og rørarbeid dekkes i henhold til håndverkers 
+timepris, da dette skal utføres av autoriserte håndverkere. 
+Eget arbeid i forbindelse med skadebegrensning, vask, rydding eller lignende erstattes med kr 250 per time. Antall timer begrenses 
+til hva som er normal utbedrings-/utførselstid. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 9 av 18 
+ 
+5.1.2 Eiendomsretten til skadde ting og ting som kommer til rette 
+Sikrede er pliktig til å beholde en skadd ting mot å få utbetalt erstatning for skaden på tingen. Foretaket har rett til å overta skadde 
+ting. 
+Kommer ting til rette etter at erstatning er betalt, har sikrede rett til å beholde tingen mot å betale erstatningen tilbake. Hvis ikke, 
+tilfaller tingen foretaket. 
+5.2 FELLESREGLER FOR ERSTATNINGSBEREGNING 
+Ved erstatningsberegningen gjøres reduksjoner med hjemmel i vilkår eller lov etter fradrag av egenandel. 
+Hovedregelen er at bygningen skal tilbakeføres til samme, eller vesentlig samme, stand som umiddelbart før skaden. Det er 
+reparasjons- og gjenoppføringskostnadene på skadedagen som legges til grunn. 
+Med gjenoppføring menes oppføring av tilsvarende bygning. Kjøp av annen bygning regnes ikke som gjenoppføring. Bygningen må 
+repareres/gjenoppføres innen 5 år etter skadedagen. 
+Erstatningen kan ikke settes høyere enn gjenoppføringsprisen, fratrukket verdien etter skade. 
+Merkostnader ved byggemåte og utstyr som er urasjonelle etter dagens byggeskikk samt antikvariske merkostnader i henhold til 
+krav etter kulturminneloven, erstattes ikke. 
+5.2.1 Fullverdiforsikret bygning 
+Fullverdiforsikret bygning er forsikret for hva det på skadedagen ville ha kostet å gjenoppføre tilsvarende eller i det vesentlige 
+tilsvarende bygning på skadestedet, basert på dagens byggeskikk. 
+Tilbygg eller annen forandring som innvirker på bygningens gjenoppføringspris skal meldes til foretaket. Er melding ikke gitt, 
+erstattes en så stor del av skaden som svarer til forholdet mellom gjenoppføringsprisen slik den ville vært uten og slik den er med 
+forandringen (underforsikring). Omfatter forsikringen bygninger uten spesifikasjon i forsikringsbeviset, gjelder tilsvarende 
+bestemmelse for ikke anmeldt ny bygning. 
+5.2.1.1 Gjenoppføring eller reparasjon av bygning innen 5 år, av eier, eiers ektefelle/samboer eller livsarving 
+For bygning som repareres eller gjenoppføres til samme formål og på samme sted, eller på annet sted innen samme kommune 
+hvis offentlig myndighet ikke tillater gjenoppføring på samme forsikringssted, gjøres det ikke fradrag for eventuell verdiøkning ved 
+at gammel bygning/bygningsdel erstattes med ny. 
+For bygning som repareres eller gjenoppføres til annet formål og/eller på annet sted (annet gårds- og bruksnummer) gjøres det 
+fradrag for den del av verdiøkningen som overstiger 40 prosent av bygningens omsetningsverdi før skaden. 
+5.2.1.2 Gjenoppføring eller reparasjon av bygning, foretatt av andre 
+For bygning som ikke gjenoppføres av forsikringstaker, forsikringstakers ektefelle/samboer eller livsarving på skadetidspunktet, 
+gjøres det fradrag for all økning av omsetningsverdi, og erstatningen settes ikke høyere enn til forskjellen i den skadde bygningens 
+omsetningsverdi før og etter skaden. 
+5.2.1.3 Ingen gjenoppføring eller reparasjon av bygning innen 5 år 
+Det gjøres fradrag for all økning av omsetningsverdi, og erstatningen settes ikke høyere enn til forskjellen i den skadde bygningens 
+omsetningsverdi før og etter skaden. 
+5.2.2 Førsterisiko 
+Bygning erstattes med inntil avtalt forsikringssum som framgår av forsikringsbeviset. 
+Det gjøres fradrag for den del av verdiøkningen som overstiger 40 prosent av bygningens omsetningsverdi før skaden. 
+5.2.3 Bygning/bygningskomponent som skal rives og midlertidig bygning som ikke skal repareres eller gjenoppføres 
+Erstatningen beregnes til salgsverdien av bygningens brukbare materialer etter fradrag for kostnader til riving, renovering og 
+klargjøring for transport. 
+5.2.4 Bygning som ikke er i bruk 
+For bygning som ikke lenger er i bruk, gjøres det fradrag for all økning av omsetningsverdien. Erstatningen settes ikke høyere enn 
+til forskjellen i bygningens omsetningsverdi før og etter skaden. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 10 av 18 
+5.3 ERSTATNINGSBEREGNING FOR TILBEHØR TIL BYGNING 
+5.3.1 Utvendige rørledninger med tilknyttet utstyr 
+• Ved skade på del av ting, legges den skadde dels alder til grunn. Ved ulik alder på de skadde deler av rørledningen, 
+legges eldste del til grunn for erstatningen. 
+• Ved bruddskade (se punkt 4.5) på ledninger, tanker og kummer av annet materiale enn plast eller glassfiber, gjøres 
+fradrag i de totale reparasjonskostnader for lokal reparasjon, herunder oppgraving og istandsettelsesutgifter. 
+ Ved bruddskade på bunnledninger, det vil si ledninger som ligger i grunnen under huset, beregnes fradrag på samme måte. 
+5.3.2 Badestamp/boblebad/jacuzzi og elektrisk innretning for oppvarming/kjøling av bygning 
+Særskilte erstatningsregler for badestamp/boblebad/jacuzzi, elektrisk innretning for oppvarming/kjøling av bygning, herunder 
+fyringskjeler, varmtvannsbeholder/bereder og varmekabler. 
+• Ved bruddskade og skade som skyldes elektrisk fenomen/lynnedslag gjøres fradrag i de totale reparasjonskostnader. 
+Ved skade på del av ting, legges den skadde dels alder til grunn. 
+5.3.3 Innebygde elektriske husholdningsapparater/maskiner 
+Særskilte erstatningsregler for innebygde elektriske husholdningsapparater/maskiner inkludert elektrisk komfyr, kjøle- og 
+fryseskap/aggregat og pumper. 
+• Erstatningsgrunnlaget er gjenanskaffelsespris. 
+• Erstatningen kan ikke settes høyere enn erstatningsgrunnlaget med fradrag av verdien etter skaden, og kan heller ikke 
+overstige det foretaket hadde måttet betale for reparasjon til samme - eller i det vesentlige samme - stand som 
+umiddelbart før skaden. 
+5.3.4 Erstatningsregler for hageanlegg/tomt 
+• Erstatningsgrunnlaget for tomt (hage, hageanlegg, gårdsplass, vei og den ikke-opparbeidede delen av tomten), settes til 
+kostnadene til reparasjon/gjenanskaffelse til samme eller i det vesentlige samme stand som før skaden. Erstatningen 
+beregnes etter prisene på skadedagen. 
+• Hvis skaden ikke repareres, erstattes det laveste beløp av gjenopprettelseskostnad eller nedgangen i tomtens 
+omsetningsverdi som følge av skaden. 
+• For beplantning i hageanlegget beregnes erstatningen lik gjenanskaffelses av vesentlig tilsvarende vekst, som alminnelig 
+handelsvare (ung vekst) i gartneri. 
+Skader som ikke erstattes 
+• Kostnader til sikring/forebygging dekkes ikke, selv om dette er en forutsetning for å utbedre skaden på 
+hageanlegg/tomt. 
+5.3.5 Tabell for aldersfradrag 
+Viser til generelle vilkår punkt 17 hvor fullstendige tabeller for bruks- og aldersfradrag er omtalt. 
+5.4 ERSTATNINGSBEREGNING VED NATURSKADE 
+5.4.1 Tomt 
+Erstatningsgrunnlaget for tomt (hage, hageanlegg, gårdsplass, vei og den ikke opparbeidede delen av tomta), beregnes 
+kostnadene til reparasjon/gjenanskaffelse til samme eller i det vesentlige samme stand som før skaden, beregnet etter prisene på 
+skadedagen. 
+Dersom skade ikke repareres, kan foretaket beregne det laveste beløp av gjenopprettelseskostnad og nedgangen i tomtens 
+omsetningsverdi som følge av skaden. 
+5.4.2 Relokalisering 
+Hvis kommunen nekter reparasjon/gjenoppføring, har skadelidte krav på erstatning tilsvarende eiendommens omsetningsverdi 
+før naturskaden, begrenset til 5 dekar. 
+5.4.3 Merutgifter 
+Merutgifter til opphold utenfor hjemmet når boligen ikke kan brukes som følge av naturskade. Merutgifter som følge av 
+evakuering eller at tilførselsveien til boligen er skadet, omfattes ikke. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 11 av 18 
+5.4.4 Annen spesiell bestemmelse om naturskade 
+Kostnader til sikring/forebygging omfattes ikke selv om dette er en forutsetning for å utbedre skaden på hage/hageanlegg/tomt. 
+5.4.5 Klagenemda for naturskader 
+Sikrede eller JBF kan forelegge spørsmål om det foreligger en naturskade, betingelser for nedsettelse eller nektelse av erstatning 
+med videre for Klagenemda for naturskadesaker. Vedtak fra Klagenemda for naturskadesaker kan ikke påklages 
+5.5 HUSLEIETAP, TAP AV EGEN BOLIG OG PRISSTIGNING 
+Vi erstatter tap som oppstår i gjenoppføringsperioden etter skade som følge av prisstigning, nedgang i husleieinntekt og at egen 
+bolig inklusiv fritidsbolig, som bebos av sikrede, ikke kan benyttes i gjenoppføringsperioden. Erstatningen regnes fra skadedag til 
+reparasjon/gjenoppføring har skjedd, eller normalt kunne ha skjedd og beregnes for 
+• utleide rom på grunnlag av leieinntekten for umøblerte rom 
+• rom til eget bruk på grunnlag markedspris for umøblerte rom 
+• prisstigning i forhold til prisnivået på skadedagen og den gjennomsnittlige endring i Statistisk Sentralbyrås 
+byggekostnadsindeks i gjenoppføringsperioden 
+Ved beregning av den samlede erstatning under dette punkt gjøres fradrag for innsparte utgifter og opptjente renter av 
+bygningserstatningen. For fritidsbolig er den samlede erstatning begrenset til kr 50.000. 
+5.6 FORETAKETS ANSVAR OVERFOR PANTHAVER, KONKURSBO, DØDSBO OG ANDRE NYE EIERE 
+Overfor panthavere og konkursbo er foretakets ansvar begrenset til det laveste av følgende to beløp: 
+• Forskjellen i tingens omsetningsverdi før og etter skaden, og 
+• Vedkommendes økonomiske interesse i tingen på skadetidspunktet. 
+For panthavere betyr tingen i denne sammenheng panteobjektet i sin helhet. 
+Ved konkurs gjelder bestemmelsene ovenfor uten hensyn til om konkursen ble åpnet før eller etter at skaden inntraff. 
+For dødsbo gjelder bestemmelsene uten hensyn til om dødsfallet skjedde før eller etter at skaden inntraff. 
+Forsikringen opphører ved eierskifte og dekker ikke krav etter avhendingslovens bestemmelser. 
+5.7 SKJØNN 
+Skadens økonomiske omfang fastsettes ved skjønn dersom sikrede eller foretaket krever det. Skjønnets verdsettelser danner øvre 
+økonomisk grense for foretakets erstatningsansvar. Bestemmelsene om skjønn i de generelle vilkår legges til grunn. Utbetaling av 
+erstatning foretas i samsvar med bestemmelsene i vilkårenes punkt 5. 
+5.8 FORETAKETS OVERTAKELSE AV PANTERETT 
+Er foretaket ansvarlig overfor panthaver, men ikke overfor eieren, inntrer foretaket i panthavers rett i den utstrekning foretaket 
+betaler erstatning til panthaver. 
+6 EGENANDELER 
+Avtalt egenandel fremgår av forsikringsbeviset 
+• I erstatningsoppgjøret trekkes egenandelen som framgår av forsikringsbeviset eller vilkårene under. 
+• Hvis erstatningen avkortes/settes ned som følge av bestemmelser i forsikringsvilkårene, gjøres dette etter at 
+egenandelen er fratrukket. 
+• Hvis skaden omfattes av flere forskjellige forsikringer i foretaket trekkes kun en egenandel, den høyeste. 
+• Hvis skaden erstattes ved at foretaket fremskaffer tilsvarende eller i det vesentlige tilsvarende ting, plikter sikrede å 
+innbetale egenandelen til foretaket. 
+Avvikende egenandeler 
+• Egenandelen ved naturskader som til enhver tid er fastsatt i henhold til lov om naturskadeforsikring, for tiden 8000 
+kroner. 
+• Med mindre høyere egenandel er valgt gjelder kr 8 000 også for følgende skader: 
+o snøtyngde/snøpress og ras på eller fra tak 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 12 av 18 
+o vind som er svakere enn storm 
+• Ved gjentatte vannskader av samme årsak på samme bygning innenfor et tidsrom av 24 måneder, vil avtalt egenandel 
+økes med kr 15.000. 
+• ID-forsikring, se punkt 8.3, trekkes ingen egenandel. 
+• Egenandelen for utleieforsikring er tilsvarende 3 måneders husleie, minimum kr 20 000. 
+Gjennomført skadeforebyggende tiltak 
+Dersom FG-godkjent sikkerhetstiltak er gjennomført eller montert og i drift på skadetidspunktet, reduseres avtalt egenandel med 
+inntil 6 000 kroner. 
+• Tyveri alarm tilknyttet sentral ved tyveri skader. 
+• Gjennomført brannforebyggende el-kontroll NEK-405-02 siste 5 år ved brannskader 
+• Automatisk vannstopper på hoved inntaket ved innvendige rørskader. 
+FG = Forsikringsselskapenes Godkjennelsesnevnd 
+ 
+Hvis det er gjennomført skadeforebyggende tiltak med hensikt å redusere eller forsinke overvann i forbindelse med 
+ekstremnedbør, trekkes det ikke egenandel ved overvannskader. Tiltak som gir redusert egenandel er grønne tak, 
+dreneringssystemer eller regnvannsoppsamling som er bygget for å håndtere ekstermnedbør. 
+7 INKLUDERTE TILLEGGSDEKNINGER 
+7.1 ANSVARSFORSIKRING 
+Dette punktet gjelder for bolig- eller fritidsboligforsikring med eller uten innbo. Forsikringen omfatter erstatningsansvar som 
+sikrede kan pådra seg i egenskap av eier av den forsikrede faste eiendom. 
+Ansvar som alene bygger på tilsagn, avtale, kontrakt eller garanti, omfattes ikke av forsikringen. Forsikringen omfatter heller ikke 
+ansvar sikrede endelig må bære fordi han har gitt avkall på regress. 
+7.1.1 Definisjon av skade 
+Med skade forstås skade på person eller ting. 
+• Personskade anses inntruffet dersom død, skade eller sykdom er påført en person. 
+• Tingskade anses inntruffet dersom løsøre herunder dyr eller fast eiendom er tapt eller påført fysisk skade. 
+• Økonomisk tap som følge av en skade foretaket erstatter, regnes som en del av skaden. 
+Foretaket erstatter skader konstatert i forsikringstiden. Alle skader som skyldes samme skadevoldende begivenhet regnes som ett 
+skadetilfelle og henføres til det tidspunkt da første skade ble konstatert. 
+7.1.2 Forsikringssum 
+Foretakets samlede erstatningsplikt er begrenset til kr 3 000 000 kroner for hvert skadetilfelle. 
+7.1.3 Forsikringen omfatter ikke 
+Forsikringen omfatter ikke ansvar som den sikrede pådrar seg 
+• for skade av ikke økonomisk art, så som tort og svie, oppreising eller annet erstatningsansvar som utmåles i tillegg til 
+erstatning for skadelidtes økonomiske tap. 
+• overfor ektefelle/samboer, foreldre/steforeldre/fosterforeldre, søsken, barn/stebarn/fosterbarn, samt 
+ektefeller/samboere av dem som her er nevnt. Forsikringen omfatter heller ikke ansvar overfor medeiere for skade på 
+ting som eies i fellesskap med færre enn 10 deltakere, eller overfor en virksomhet som disponeres av sikrede, eller der 
+sikrede eller hans familie har mer enn 10 % eierinteresse. Det er familie /eierforholdet på det tidspunkt skaden 
+forvoldes, som legges til grunn. 
+• for skade på ting, herunder fast eiendom som tilhører en annen, men som sikrede selv eller noen på hans vegne bruker, 
+leier eller låner. 
+• for skade på ting oppstått ved maskingravings-, sprengnings-, pelings- eller rivingsarbeid. 
+• under utøvelse av yrkes- eller ervervsvirksomhet. 
+• som eier av annen fast eiendom enn den forsikrede eiendom. 
+• for skade sikrede har voldt ved forsettlig handling eller unnlatelse, og følger av slik skade. 
+• ved overføring av smittsom sykdom. 
+• for forurensning, dersom årsaken til forurensningen ikke er plutselig og uforutsett. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 13 av 18 
+• for skade på ting ved sopp og råte uansett årsak, eller på grunn av langsom inntrenging av fuktighet. 
+7.1.4 Egenandel 
+Egenandelen er kr 4.000, dersom ikke annet går fram av forsikringsbeviset. 
+7.1.5 Sikredes plikter ved skadetilfelle 
+Blir det reist erstatningskrav mot sikrede, eller kan det ventes at krav vil bli reist, må foretaket underrettes uten ugrunnet opphold. 
+Når erstatningskrav er reist mot sikrede eller direkte mot foretaket, plikter sikrede for egen regning 
+• å gi foretaket de opplysninger og dokumenter som er tilgjengelige for sikrede, og som foretaket trenger for å vurdere sitt 
+ansvar og utbetale erstatningen, 
+• å utføre de undersøkelser og utredninger foretaket finner nødvendig, 
+• å møte ved forhandlinger eller rettergang 
+Uten foretakets samtykke må sikrede ikke innrømme erstatningsplikt eller forhandle om erstatningskrav. 
+7.1.6 Foretakets plikter ved skadetilfelle 
+Når et erstatningskrav som omfattes av forsikringen overstiger egenandelen, plikter foretaket 
+• å utrede om det foreligger erstatningsansvar, 
+• å forhandle med skadelidte, 
+• om nødvendig å prosedere saken for domstolene 
+Foretaket bærer sine egne omkostninger ved avgjørelse av erstatningsspørsmålet selv om forsikringssummen derved overskrides. 
+Omkostninger til ekstern advokat og annen sakkyndig bistand som er valgt eller godkjent av foretaket, omfattes også. 
+Dersom erstatningskravet dels omfattes av forsikringen og dels faller utenfor, fordeles omkostningene etter partenes økonomiske 
+interesse i saken. 
+Er foretaket villig til å forlike saken eller stille forsikringssummen til disposisjon, erstattes ikke omkostninger som påløper senere. 
+Foretaket har rett til å betale enhver erstatning direkte til skadelidte. 
+Fremsettes krav om erstatning direkte mot foretaket, skal foretaket varsle sikrede uten ugrunnet opphold og holde sikrede 
+underrettet om den videre behandling av kravet. Foretakets innrømmelser overfor skadelidte binder ikke sikrede. 
+7.2 YRKESSKADE 
+Dette punktet gjelder for bolig- eller fritidsboligforsikring med eller uten innbo. 
+Hvis sikrede i egenskap av privatperson er å betrakte som arbeidsgiver i henhold til Yrkesskadeforsikringsloven står foretaket for 
+erstatningsansvar ovenfor den skadelidte som er å betrakte som arbeidstaker i overensstemmelse med vilkårene i loven. 
+7.3 PÅBUD FRA OFFENTLIG MYNDIGHET 
+Dette punkt gjelder for bolig- eller fritidsboligforsikring. 
+7.3.1 Forsikringen gjelder gjenoppføring 
+• på samme byggetomt 
+• på annet sted dersom gjenoppføring på samme byggetomt er hindret ved lovhjemlet inngrep 
+7.3.2 Foretaket erstatter nødvendige merutgifter 
+• til utbedring/gjenoppføring av bygning, 
+• til grunnundersøkelser og fundamentering i forbindelse med gjenoppføring av bygning, som ikke direkte vedrører 
+byggearbeidet, men som er en betingelse for at bygningen tillates gjenoppført, etter erstatningsmessig skade på 
+bygningen 
+Utgiftene må være påført som følge av påbud om bygningens utførelse gitt fra offentlig myndighet med hjemmel i lov eller 
+offentlig forskrift. 
+Foretaket kan kreve at påbudet påklages, eller det kan selv påklage det. 
+Forsikringssummen for offentlig påbud er ubegrenset. 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 14 av 18 
+7.3.3 Foretaket erstatter ikke 
+• Utgifter ved påbud som myndighetene hadde hjemmel for å gi selv om skaden ikke hadde inntruffet. 
+• Utgifter til utgraving/utsprengning av kjeller. 
+• Merutgifter vedrørende bygning som er midlertidig, eller som står foran riving, ombygging eller rehabilitering. 
+7.3.4 Beregning av merutgifter 
+• Merutgifter ved utbedring/gjenoppføring settes til forskjellen mellom verdien av den forsikrede bygning og verdien av en 
+tilsvarende bygning med samme størrelse, men utført i samsvar med påbud. 
+• Merutgifter ved grunnundersøkelser og fundamentering beregnes som for en bygning tilsvarende den forsikrede, men 
+utført i samsvar med påbud. 
+• Utgifter som ikke direkte vedrører byggearbeidet, beregnes etter forholdet mellom gulvareal i skadd og gulvareal i 
+gjenoppført bygning dersom den bygning som gjenoppføres, er større enn den skadde bygning. 
+7.3.5 Begrenset gjenoppføringstid 
+Utbedring/gjenoppføring må være avsluttet innen 5 år etter skaden. Fristen kan forlenges dersom inngrep fra offentlig myndighet 
+sinker eller hindrer byggearbeidet. 
+8 FRIVILLIGE TILLEGGSDEKNINGER 
+8.1 RÅTE- OG SKADEDYRFORSIKRING – BYGNING TOPP FRA VIS FORSIKRING 
+Dekningen er inkludert i superforsikringen og er en frivillig tilleggsdekning på standardforsikringen. Det fremgår av 
+forsikringsbeviset om du har kjøpt denne forsikringen. 
+Skade erstattes gjennom VIS Forsikring (tidligere Norsk Hussopp Forsikring), som også foretar skadeoppgjør. Skade skal meldes dit 
+uten ugrunnet opphold. 
+Fullstendige vilkår finner du på visforsikring.no/vilkar 
+8.2 SUPER 
+Dette punktet gjelder kun når det er angitt i forsikringsbeviset. 
+8.2.1 Følgende skader gjelder: 
+• Følgeskade på bygning ved at vann trenger inn gjennom utett yttertak når taket ikke er eldre enn 50 år eller vegg over 
+bakkeplan. Det vil si alle sjikt inntil takstol-/sperre og stenderverk/bærende konstruksjon. Åpne vinduer eller dører, eller 
+åpninger som skyldes at hele eller deler av tak/vegg er fjernet i forbindelse med ombygging/rehabilitering, anses ikke 
+som utettheter. 
+Dekkes ikke: 
+o skade som følge av kondens 
+o utbedring av selve feilen eller mangelen. 
+• Håndverker- og entreprenørfeil: 
+Følgeskader på bygning som følge av materialfeil, svak eller feil konstruksjon eller uriktig montasje, utført av faglært 
+håndverker eller godkjent/registrert entreprenør. Følgeskaden må ha oppstått i forsikringstiden og konstatert innen 15 
+år etter at arbeidet er utført. 
+Dekkes ikke: 
+o skade oppstår som følge av kondens 
+o utbedring av selve feilen eller mangelen 
+o skade som skyldes arbeider utført av sikrede 
+o Skade som andre enn sikrede er pliktig til, og har økonomisk evne til å erstatte, i henhold til garanti eller annen 
+avtale 
+• Utgifter inntil kr 250.000 til nødvendige bygningsmessige forandringer for å bedre bevegelsesmulighetene i boligen 
+dersom sikrede 
+o som følge av en ulykkesskade blir rullestolbruker 
+o nedkommer med barn som på grunn av medfødt fysisk handikap blir rullestolbruker 
+Invaliditeten må være varig og utgiftene påløpt innen 10 år regnet fra ulykken eller fødselstidspunktet. Ulykkesskaden 
+eller fødselen må ha inntruffet i forsikringstiden. Med ulykkesskade menes skade på kroppen forårsaket av en plutselig 
+ytre fysisk hendelse. 
+• Tilskudd til klimavennlig tiltak: 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 15 av 18 
+Ved gjenoppføring av fullverdiforsikret bolighus omfatter forsikringen et tilskudd på inntil 100.000 kroner til installering 
+av klimavennlige tiltak. Dette gjelder tiltak utover det som er påkrevd etter lov eller forskrift. 
+• Kunstnerisk utsmykning av bygning erstattes med inntil kr 200 000. 
+• ID- Forsikring (se punkt 8.3). 
+ Foretaket svarer ikke for skade ved sopp, råte og skadedyr. (Egen forsikring kan avtales gjennom Norsk Hussoppforsikring). 
+8.2.2 Egenandeler 
+Egenandelen er lik avtalt egenandel med mindre annet fremgår av punkt 6 i de ordinære boligvilkårene. 
+8.3 ID – FORSIKRING 
+8.3.1 Hvem forsikringen gjelder for 
+Forsikringen gjelder for personer nevnt i punkt 1 og som har Super. 
+8.3.2 Hvor forsikringen gjelder 
+Forsikringen gjelder for sikret bosatt i Norge, dersom ikke annet fremkommer av forsikringsbeviset. 
+8.3.3 Når forsikringen gjelder 
+Forsikringen gjelder Identitetstyveri som er oppstått og konstatert i forsikringstiden. Forsikringen løper fra tegningstidspunktet og 
+fornyes automatisk for 1 år av gangen med mindre forsikringsavtalen sies opp av sikrede. 
+8.3.4 Forsikringsdekning ID-misbruk 
+Forsikringen omfatter: 
+Rådgivning for hvordan sikrede kan beskytte seg mot at uønsket personlig informasjon spres på internett 
+Brukerveiledning og/eller hjelp til å fjerne uønsket og/eller krenkende innhold fra internett, samt bistand til å stenge falske profiler 
+som er opprettet i sikredes navn, for eksempel 
+• uønsket spredning av bilder/video 
+• krenkende kommentarer og trusler 
+• mobbing og annet sjikanerende materiale 
+• personlig informasjon 
+• kontaktopplysninger 
+• falske profiler på sosiale medier 
+• ta tilbake hackede brukerkontoer eller epostkontoer 
+Hendelsen må ha oppstått i forsikringstiden og må være i strid med retningslinjene for den/de aktuelle nettstedene og/eller i strid 
+med norsk lov. Rådgivning og hjelp etter punkt 4 gis av JBF v/ Advokatfirma Kogstad Lunde & Co MNA. 
+Forsikringen omfatter ikke: 
+• hendelse som er oppstått som følge av sikrede eller sikredes nærmeste families eller husstands straffbare eller grovt 
+uaktsomme handlinger 
+• økonomisk tap 
+8.3.5 Forsikringsdekning ID-tyveri 
+Definisjoner: 
+• Identitetstyver i er definert i straffeloven § 190 a (1). 
+• Identitetstyveri foreligger når noen uberettiget setter seg i besittelse av en annens identitetsbevis, eller opptrer med en 
+annens identitet eller en identitet som er lett å forveksle med en annens identitet, med forsett om å oppnå en 
+uberettiget vinning for seg selv eller en annen, eller å påføre en annen tap eller ulempe. 
+• Alle skader som oppstår som følge av ett identitetstyveri, betraktes som en identitetstyverihendelse. 
+• Med identitetsbevis menes enhver legitimasjon som er egnet til å identifisere sikrede, for eksempel bankkort, kort og 
+kredittkortnummer, pass, førerkort, personnummer, pin-koder, passord eller digital signatur. 
+Forsikringen omfatter juridisk bistand til 
+• forebygging og tiltak for å hindre ytterligere misbruk 
+• erstatning av økonomisk tap 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 16 av 18 
+• fjerning av uberettigede betalingsanmerkninger 
+Hendelsen må ha oppstått i forsikringstiden. Juridisk bistand etter punkt 5 gis av JBF v/ Advokatfirma Kogstad Lunde & Co MNA. 
+Forsikringen omfatter ikke 
+• identitetstyveri tilknyttet sikredes yrke eller ervervsvirksomhet 
+• handlinger utført av sikredes ektefelle, samboer, partner, barn, eller foreldre 
+• identitetstyveri som følge av sikredes eller sikredes nærmeste families straffbare eller grovt uaktsomme handlinger 
+• økonomisk tap 
+Forsikringssum 
+• Forsikringssummen er kr 100.000 per identitetstyverihendelse. 
+Egenandel 
+• Det trekkes ingen egenandel 
+8.3.6 Sikredes plikter 
+• Banker, betalingskortutstedere og andre relevante parter skal umiddelbart underrettes. 
+• Forholdet skal anmeldes og bekreftelse på anmeldt forhold gis til foretaket. 
+• Forsikringsforetaket skal varsles med en gang identitetstyver eller ID-misbruk oppdages. 
+• Alle relevante opplysninger og dokumenter skal gis til foretaket. 
+• De råd og den veiledning som gis skal følges for å unngå ytterligere skadeomfang. 
+8.3.7 Grov uaktsomhet og forsett 
+Har sikrede ved grov uaktsomhet fremkalt forsikringstilfellet, kan foretakets ansvar settes ned eller falle bort, jf. FAL § 4-9. 
+Har sikrede forsettlig fremkalt forsikringstilfellet, er ikke foretaket ansvarlig, jf. FAL § 4-9. 
+8.4 BYGG UNDER OPPFØRING 
+Dette punktet gjelder kun når det er angitt i forsikringsbeviset. 
+I byggeperioden gjelder følgende utvidelser og begrensninger i tillegg til bygningsvilkårene og sikkerhetsforskriftene: 
+8.4.1 Hvor forsikringen gjelder 
+Forsikringen gjelder ikke for bygning eller bygningsdel som befinner seg hos produsent. 
+8.4.2 Hva er omfattet 
+• Bygg under oppføring, som er angitt i forsikringsbeviset, med tilhørende materialer. 
+• Brakker, lagerskur og containere på byggeplassen som eies av byggherren privat. 
+• Brakker, lagerskur og containere som lånes eller leies og som forsikringstakeren skriftlig har påtatt seg forsikringsansvar 
+for, med inntil kr 50.000. 
+• Innbo/løsøre, herunder verktøy, eiet av byggherren privat. 
+8.4.3 Hvilke tap, skader og utgifter som omfattes 
+Forsikringen omfatter 
+• tyveri fra bygning, brakke, lagerskur og containere med gulv, vegger og tak av stål 
+• tyveri av bygningsmaterialer som lagres ute er begrenset til 100 000 kroner. 
+• tyveri av innbo og løsøre, herunder verktøy som eies av byggherren privat omfattes med inntil kr 30.000 fra brakker, 
+lagerskur og containere med gulv, vegger og tak av stål 
+• bruddskade på glassruter innsatt på sin faste plass 
+• bruddskade og skade som følge av skadeverk på glass montert i ramme ved transport til byggeplassen, lagring på 
+byggeplassen og ved innsetting 
+Etter erstatningsmessig skade omfattes også 
+• tapt husleieinntekt og tap ved at egen bolig ikke kan brukes, herunder forsinket konvertering av byggelån, i den periode 
+byggetiden blir forlenget som følge av skaden 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 17 av 18 
+• nødvendige merutgifter til opphold utenfor hjemmet når innflytting i bolig må utsettes som følge av skade, etter avtale 
+med foretaket. 
+Forsikringen omfatter ikke 
+• skade ved sprengningsarbeid på forsikringsstedet 
+• tyveri fra uteareal på forsikringsstedet, så sant bygningen ikke er bebodd 
+• skade som skyldes snøtyngde, så sant ikke utvendige byggearbeider er ferdige og dører og vinduer er på plass 
+• skade som skyldes vind svakere enn storm, så sant ikke utvendige byggearbeider er ferdige og dører og vinduer er på 
+plass 
+• avskallinger og riper på glass så sant dette ikke skyldes skadeverk 
+• skade på glass som skyldes at innfatningen for isolerglass er utett 
+8.4.4 Ansvar og rettshjelp 
+Forsikringen omfatter 
+• ansvar som privat byggherre for det forsikrede bygg 
+• ansvar for byggearbeider på det forsikrede bygg 
+• rettshjelp som privat byggherre for det forsikrede bygg 
+• ansvar for skade på annens person eller ting oppstått ved graving, sprengning, peling, spunting og riving på den 
+forsikrede eiendom, samt ved ras, jordforskyving, dambrudd og setning i grunnen 
+Ansvar som entreprenør pådrar seg i denne forbindelse, er også dekket, såfremt entreprenøren selv ikke er i stand til å oppfylle 
+sine forpliktelser. 
+Forsikringen omfatter ikke 
+• ansvar som entreprenør pådrar seg for skade på den forsikrede eiendom 
+8.5 UTLEIEFORSIKRING BYGNING 
+8.5.1 Hvem forsikringen gjelder for 
+Forsikringen gjelder for personer nevnt i punkt 1, og det fremgår av forsikringsbeviset at hele eller deler av boligen er utleid og at 
+utleieforsikring er avtalt. 
+Utleieforsikringen gjelder når leieforholdet er på permanent basis, og ikke i de tilfeller hvor det er korttids utleie, slik som Airbnb 
+og lignende. 
+Det forutsetter at utleie ikke blir betraktet som næringsvirksomhet, at en skriftlig leieavtale finnes og at depositum er innbetalt før 
+innflytting. 
+8.5.2 Forsikringen omfatter følgende 
+Tap av husleieinntekt 
+Erstatning for tapte husleieinntekter dersom leietaker ikke betaler avtalt leie i henhold til leieavtalen. Erstatning for leietap gjelder 
+kun en gang per leietaker, og erstatningen er begrenset oppad til det som tilsvarer 6 måneders husleie. Dokumentasjon må 
+fremlegges. 
+Utgifter til utkastelse 
+Erstatning for rimelige og nødvendige utgifter i forbindelse med iverksettelse av utkastelse dersom leietaker ikke flytter ut av 
+boligen når leieforholdet er avsluttet, eller ved brudd på leieavtalen. Dokumentasjon må framlegges. 
+Erstatningen her er begrenset oppad til kr 25.000. 
+Skadeverk 
+Erstatning for skadeverk (jf. Straffeloven § 351) på den utleide bolig som er forårsaket av leietaker eller dennes gjester. 
+Erstatningen er begrenset oppad til kr 500 000 per skadetilfelle. 
+Forsikringen omfatter ikke 
+• skade som skyldes slitasje under bruk 
+• skade som skyldes hakk, riper, avskallinger, flekker og lignende 
+• utgifter til vedlikehold og forbedringer 
+
+ 
+ 
+JBF 
+Postboks 235 Sentrum, 0103 Oslo 
+Tlf: 21 62 26 00, www.jbf.no 
+JBF Forsikring AS, org.nr: 940 590 698 Side 18 av 18 
+• skade som skyldes kjæledyr 
+8.5.3 Erstatningsberegning 
+Tap av husleieinntekt 
+Ved beregning av erstatning for ubetalt husleie benyttes leiebeløpet i leieavtalen som grunnlag for å fastsette erstatningen. 
+Dersom det må iverksettes rettslig inkasso, erstattes utgifter i forbindelse med dette i tillegg. 
+Utgifter til utkastelse 
+Ved utkastelse beregnes erstatningen på grunnlag av rimelige og nødvendige utgifter for å gjennomføre denne. 
+Skadeverk bygning 
+Erstatningsreglene i vilkårene benyttes ved erstatning for skadeverk. 
+8.5.4 Egenandel 
+Egenandelen er tilsvarende 3 måneders husleie, minimum kr 20 000.

@@ -1,0 +1,437 @@
+Vilkår ulykkesforsikring — Frende
+Kilde: https://api.frende.no/documents/terms/public/pnc/AccidentInsurance
+Sist endret: 2026-08-26T14:44:10Z
+============================================================
+
+Vilkår for ulykkesforsikring
+Dette må du vite om forsikringen din
+Disse vilkårene gjelder for ulykkesforsikring for voksne og barn. I tillegg gjelder generelle vilkår for alle forsikringer i
+Frende. Disse har blant annet regler om det totale ansvaret vi har ved krig og terror, muligheten for å si opp
+forsikringen, renter i et skadeoppgjør og unntak for datakriminalitet.
+I forsikringsbeviset står det hvem som er forsikret og hvilke dekninger forsikringen din omfatter. Det er viktig at den
+som har kjøpt forsikringen sjekker at opplysningene om hvem som er forsikret stemmer og at forsikringsbeviset
+inneholder dekningene som trengs.
+Innhold
+1. Hvem som er forsikret 2
+2. Hvor og når forsikringen gjelder 2
+3. Hva som er omfattet av ulykkesforsikringen 2
+4. Hva som er ikke omfattet av ulykkesforsikringen 3
+Dekninger som gjelder når de står oppført i forsikringsbeviset
+5. Erstatning til etterlatte hvis du dør 3
+5.1 Død fritid – dødsfall etter ulykke i fritiden 3
+5.2 Død arbeid – dødsfall etter ulykke på arbeid 4
+5.3 Fellesregler for dødsfallserstatning 4
+6. Erstatning hvis du blir invalid 4
+6.1 Invaliditet fritid – invaliditet etter ulykke i fritiden 4
+6.2 Invaliditet arbeid – invaliditet etter ulykke på arbeid 4
+6.3 Faginvaliditet fritid – faginvaliditet etter ulykke i fritiden 4
+6.4 Faginvaliditet arbeid – faginvaliditet etter ulykke på arbeid 4
+6.5 Fellesregler for invaliditetserstatning 4
+6.6 Behandlingsutgifter 4
+7. Slik regner vi ut erstatningen 5
+Disse kravene stiller vi til deg
+8. Vi må få riktige opplysninger 6
+9. Begrensninger for noen fritidsaktiviteter, arbeid og yrker 6
+10. Dette må du gjøre for å unngå skade – sikkerhetsforskrift 7
+11. Frist for å melde krav 7
+Vilkår av 01. januar 2026
+
+1. Hvem som er forsikret
+Forsikringen gjelder for den som er oppført som
+forsikret i forsikringsbeviset forutsatt at du er medlem
+av folketrygden og har folkeregistrert adresse i Norge.
+Den som har kjøpt forsikringen kaller vi forsikringstaker.
+Den som er forsikret kan være samme person som den
+som har kjøpt forsikringen. Hvis en av foreldrene kjøper
+ulykkesforsikring for barn, er forelderen forsikringstaker
+og barnet den som er forsikret.
+Med «du» i disse vilkårene mener vi den som er
+forsikret.
+2. Hvor og når forsikringen gjelder
+Forsikringen gjelder når du oppholder deg i Norge.
+Forsikringen gjelder ved utenlandsopphold på inntil ett
+år. Den gjelder også for lengre utenlandsopphold så
+lenge du er medlem av folketrygden, og er
+1. au pair eller student i utlandet
+2. ansatt i norsk firma
+3. ansatt i utenrikstjenesten
+Vi erstatter ulykker som skjer mens du er forsikret i
+Frende.
+Forsikringen gjelder så lenge den blir betalt og verken
+forsikringstaker eller Frende har sagt opp avtalen.
+Avtalen blir fornyet hvert år ved hovedforfall.
+Forsikringen gjelder likevel bare frem til første
+hovedforfall etter at den som er forsikret har fylt 75 år.
+Forsikringen kan gjelde i fritiden din, når du er på jobb
+eller hele døgnet.
+død fritid død arbeid
+invaliditet fritid invaliditet arbeid
+faginvaliditet fritid faginvaliditet arbeid
+Det står i forsikringsbeviset ditt hvilke av disse
+dekningene du har.
+Dekningene død arbeid, invaliditet arbeid og
+faginvaliditet arbeid, gjelder også når du er på arbeid,
+skole eller studiested.
+Du blir regnet for å være på jobb når du er i arbeid på
+arbeidsstedet i arbeidstiden, etter reglene i § 10 i
+yrkesskadeloven. Vi regner deg for å være på skole eller
+studiested når du befinner deg på skole- eller
+studiestedet.
+Barn under 16
+år
+Hele døgnet -
+Barn mellom
+16-18 år
+Fritid og
+skoletid
+På jobb, med
+mindre
+forsikringen er
+utvidet til å
+omfatte arbeid
+Alle over 18 år Fritid På jobb, skole-
+og studiested,
+med mindre
+forsikringen er
+utvidet til å
+omfatte arbeid,
+skole og
+studiested
+3. Hva som er omfattet av
+ulykkesforsikringen
+Forsikringen gir rett til erstatning hvis du blir skadet i en
+ulykke. Med ulykkesskade mener vi skade på kroppen
+som direkte er forårsaket av en plutselig, uventet, ytre
+fysisk hendelse (ulykkestilfelle).
+Vi regner det ikke som et ulykkestilfelle hvis ulykken
+skyldes eller har sammenheng med sykdom, slag,
+illebefinnende, besvimelse eller annen sykelig tilstand.
+4. Hva som ikke er omfattet av
+ulykkesforsikringen
+4.1. Dette er ikke regnet som en ulykke
+Forsikringen omfatter ikke ulykkeskade som skyldes
+eller har sammenheng med
+1. medisinsk behandling, undersøkelse eller bruk av
+Side 2 av 6Vilkår for ulykkesforsikring
+
+medisiner med mindre behandlingen,
+undersøkelsen eller medisinbruken er ledd i
+behandlingen av en ulykke som er omfattet av
+forsikringen
+2. rygg- og nakkelidelser og rygg- og nakkesmerter
+med mindre lidelsen/smertene kan tilbakeføres til
+et brudd iryggsøylen som er påvist på røntgen el.
+etter en ulykke. Dette unntaket gjelder likevel ikke
+hvis skaden skjer når du er fører eller passasjer i et
+kjøretøy og du hadde lov til å være i kjøretøyet
+3. sjokk eller andre psykiske skader. Vi dekker likevel
+slik skade hvis diagnosekriteriene i ICD-10, punkt
+F43.1 (PTSD) er oppfylt, og sjokkskaden er en følge
+av en fysisk skade som medfører livsvarig
+medisinsk invaliditet som vi erstatter
+4. insektsstikk eller smitte av bakterier, virus eller
+blodforgiftning med mindre smitten eller
+forgiftningen skyldes en ulykke
+5. forgiftning forårsaket av mat, drikke eller
+nytelsesmiddel. Dette unntaket gjelder ikke for
+barn under 16 år
+6. at du var påvirket av alkohol, narkotika, medisiner,
+sovemidler eller annet berusende eller bedøvende
+middel
+7. at du har deltatt i et lovbrudd, motsatt deg å bli
+pågrepet av politiet eller deltatt i slagsmål.
+Unntaket for slagsmål gjelder ikke barn under 16 år
+8. selvmord eller forsøk på selvmord, også om det
+skyldes en sinnslidelse
+4.2 Ulykker som ikke er omfattet av forsikringen
+Forsikringen omfatter ikke ulykker som skjer mens du
+driver med
+1. sport og idrett som gir deg inntekt eller
+sponsormidler over 1 G per år
+2. motorsport med båt, vannscooter, bil,
+motorsykkel, moped, snøscooter eller andre
+motorkjøretøyer
+3. kampsport som innebærer full- eller semikontakt
+med slag eller spark, som boksing, karate eller
+lignende
+4. serie- og cupkamp i alle typer lagidrett hvis
+kampen er i regi av forbund eller krets (gjelder ikke
+bedriftsidrett)
+5. fallskjerm- og basehopping, strikkhopp,
+ballongferd, flyging med mikro- og ultralette fly,
+seilfly, hanggliding eller paragliding
+6. dykking dypere enn 40 meter
+4.3 Arbeid og yrker som ikke er omfattet av
+forsikringen
+Selv om forsikringen gjelder når du er på jobb, gjelder
+den ikke ulykker i disse yrkene
+1. dykker, offshorearbeid, sjøtransport i utenriksfart
+eller yrkesfisker
+2. stillasarbeid, taktekking
+3. gruve- og bergverksdrift, leir- og steinbrudd,
+sandtak eller tunnelarbeid
+4. profesjonell idrettsutøver
+5. militære oppdrag utenfor Norge
+Dekninger som gjelder når de står oppført i
+forsikringsbeviset
+Dekninger som gjelder når de står oppført i
+forsikringsbeviset
+Forsikringen kan omfatte disse dekningene
+• død fritid. Se punkt 5.1
+• død arbeid. Se punkt 5.2
+• invaliditet fritid. Se punkt 6.1
+• invaliditet arbeid. Se punkt 6.2
+• faginvaliditet fritid. Se punkt 6.3
+• faginvaliditet arbeid. Se punkt 6.4
+Dette er valgfrie dekninger du kan kjøpe. Dekningen(e)
+gjelder hvis de(n) står oppført i forsikringsbeviset.
+Bestemmelsene i punkt 1-4 gjelder for alle dekninger.
+5. Erstatning til etterlatte hvis du dør
+5.1 Dødsfall etter ulykke i fritiden
+Hvis du dør av en ulykke i fritiden din, utbetaler vi
+forsikringssummen hvis dekningen død fritid står
+oppført i forsikringsbeviset ditt.
+5.2 Dødsfall etter ulykke på arbeid, skole eller
+studiested
+Hvis du dør av en ulykke mens du er på jobb, skole eller
+studiested, utbetaler vi forsikringssummen hvis
+dekningen død arbeid står oppført i forsikringsbeviset
+ditt.
+Side 3 av 6Vilkår for ulykkesforsikring
+
+5.3 Fellesregler for dødsfallserstatning
+Den som har kjøpt forsikringen (forsikringstaker) kan
+selv velge hvem vi skal betale forsikringssummen til hvis
+den som er forsikret dør. Dette kaller vi begunstigelse.
+Hvis den som er forsikret er den samme som den som
+har kjøpt forsikringen, og forsikringstaker ikke har
+bestemt hvem som skal ha forsikringssummen, betaler
+vi til ektefellen til den som er død eller arvinger etter lov
+eller testament etter reglene i forsikringsavtaleloven §
+15-1.
+Hvis den som er forsikret er en annen enn
+forsikringstaker, og forsikringstaker ikke har bestemt
+hvem som skal ha forsikringssummen, betaler vi til
+forsikringstaker.
+Hvis Frende har utbetalt helt eller delvis
+invaliditetserstatning etter punkt 6 for samme skade,
+går invaliditetserstatningen til fradrag i
+dødsfallserstatningen etter punkt 5.
+6. Erstatning hvis du blir invalid
+6.1 Invaliditet etter ulykke i fritiden
+Hvis du blir livsvarig medisinsk invalid av en ulykke i
+fritiden, betaler vi erstatning hvis dekningen invaliditet
+fritid står oppført i forsikringsbeviset.
+6.2 Invaliditet etter ulykke på arbeid, skole eller
+studiested
+Hvis du blir livsvarig medisinsk invalid av en ulykke på
+jobb, skole eller studiested, betaler vi erstatning hvis
+dekningen invaliditet arbeid står oppført i
+forsikringsbeviset.
+6.3 Faginvaliditet etter ulykke i fritiden
+Hvis en ulykke i fritiden fører til livsvarig skade på arm,
+hånd eller fingre, regner vi ut invaliditetserstatningen
+etter reglene i punkt 7.4 hvis dekningen faginvaliditet
+fritid står oppført i forsikringsbeviset ditt.
+6.4 Faginvaliditet etter ulykke på arbeid, skole
+eller studiested
+Hvis en ulykke mens du er på jobb, skole eller
+studiested, fører til livsvarig skade på arm, hånd eller
+fingre, regner vi ut invaliditetserstatningen etter reglene i
+punkt 7.4 hvis dekningen faginvaliditet arbeid står
+oppført i forsikringsbeviset ditt.
+6.5 Fellesregler for invaliditetserstatning
+Ved 100 prosent livsvarig invaliditet betaler vi
+forsikringssummen som står i forsikringsbeviset. Hvis du
+blir delvis invalid, betaler vi samme prosentdel av
+forsikringssummen som invaliditetsgraden utgjør.
+Samlet erstatning for en og samme ulykkesskade kan
+aldri bli mer enn 100 prosent av forsikringssummen.
+Dette gjelder også om du kan kreve erstatning under
+faginvaliditet fritid eller faginvaliditet arbeid.
+Hvis du dør av ulykken før invaliditetsgraden er fastsatt,
+betaler vi ikke forsikringssummen med mindre du har
+kjøpt dødsfallsdekning.
+Vi betaler erstatningen til den som er forsikret. Hvis den
+som er forsikret er et barn som er under 18 år på
+utbetalingstidspunktet, betaler vi erstatningen til
+foreldrene.
+6.6 Behandlingsutgifter
+Hvis du har dekningene invaliditet fritid eller invaliditet
+arbeid, erstatter vi rimelige og nødvendige utgifter til
+medisinsk behandling i Norge hvis du ikke kan kreve
+utgiftene dekket fra NAV eller andre. Vi erstatter utgifter
+til behandling i inntil tre år etter ulykkesdagen.
+Vi erstatter utgifter til behandling inntil fem prosent av
+forsikringssummen for invaliditet.
+Vi erstatter utgifter til
+1. behandling hos lege og tannlege med offentlig
+refusjonsrett
+2. forbindingssaker, medisiner og protese foreskrevet
+av tannlege eller lege
+3. behandling hos fysioterapeut med offentlig
+refusjonsrett
+4. rimeligste transport til lege, tannlege eller annen
+medisinsk behandling som er omfattet av
+Side 4 av 6Vilkår for ulykkesforsikring
+
+forsikringen hvis du ikke kan kreve utgiftene
+refundert som pasientreise
+Hvis barn under 18 får tannskader, erstatter vi utgiftene
+til første permanente tannlegebehandling, bro, krone
+eller lignende selv om behandlingen skjer senere enn tre
+år etter ulykkesdagen. Vi foretar da oppgjør innen tre år
+etter skadedagen på grunnlag av kostnadsoverslag fra
+tannlege eller tanntekniker.
+Vi erstatter ikke utgifter til
+a) behandling av tannskader som skyldes tygging
+eller biting
+b) undersøkelse, behandling eller opptrening i private
+klinikker eller helseinstitusjoner eller hos
+privatpraktiserende leger eller helsepersonell, som
+ikke har offentlig refusjonsrett
+c) hjelpemidler
+d) utgifter til redning og transport fra ulykkesstedet
+Vi betaler erstatningen til den som er forsikret. Hvis den
+som er forsikret er et barn som er under 18 år på
+utbetalingstidspunktet, betaler vi erstatningen til
+foreldrene.
+7. Slik regner vi ut erstatningen
+7.1 Skademelding
+Du må snarest og senest innen ett år, melde fra om
+ulykken til Frende. Ran og overfall må du i tillegg melde
+til politiet.
+7.2 Dokumentasjon
+Vi kan kreve at du dokumenterer alle utgifter du krever
+erstattet med originale kvitteringer. Ved dødsfall krever
+vi dødsattest.
+7.3 Invaliditetserstatning
+Invaliditetserstatningen regner vi ut på grunnlag av den
+livsvarige medisinske invaliditeten som skyldes ulykken.
+Vi regner ut erstatningen når det er medisinsk grunnlag
+for å fastsette invaliditetsgraden etter ulykken.
+Invaliditetsgraden fastsetter vi etter reglene i forskrift
+om menerstatning av 21. april 1997 med veiledning, og
+av lege valgt av Frende. Ved beregningen gjør vi fradrag
+for kroppsdeler eller organ som før ulykken bare var
+delvis brukbart. Tap av eller skade på kroppsdel eller
+organ som ikke var brukbart før ulykken, gir ikke rett til
+invaliditetserstatning.
+Hvis du før ulykken hadde en tilstand, disposisjon eller
+mén som kan ha medvirket til invaliditeten, blir
+erstatningen redusert i forhold til betydningen tilstanden
+har hatt for invaliditeten.
+Endelig oppgjør skal skje innen tre år etter
+ulykkesdagen. Hvis det ikke er medisinsk grunnlag for å
+fastsette invaliditetsgraden eller invaliditetsgraden kan
+forandre seg, skal oppgjøret basere seg på antatt
+livsvarig medisinsk invaliditet ut fra tilstanden på
+treårsdagen.
+7.4 Faginvaliditet
+Hvis forsikringen er utvidet til å omfatte dekningene
+faginvaliditet fritid eller faginvaliditet arbeid, beregner vi
+invaliditetsgraden ved fullt funksjonstap eller
+amputasjon etter denne tabellen:
+Kroppsdel Beste hånd (tall i
+prosent)
+Andre hånd (tall i
+prosent)
+Hele armen 100 100
+Hånden eller
+alle fingre
+100 100
+Mellomhånden 65 65
+Tommelen 60 55
+Tommelens
+ytterste ledd
+40 35
+Pekefinger 60 50
+Pekefingers to
+ytterste ledd
+50 40
+Pekefingers
+ytterste ledd
+40 35
+Langfinger 30 25
+Langfingers to
+ytterste ledd
+25 20
+Langfingers
+ytterste ledd
+20 15
+Side 5 av 6Vilkår for ulykkesforsikring
+
+Ringfinger 15 15
+Ringfingers to
+ytterste ledd
+10 10
+Lillefinger 12 10
+For øvrig gjelder invaliditetstabellen i forskriften om
+menerstatning, og de andre reglene i punkt 7.
+7.5 Grov uaktsomhet eller forsett
+Hvis ulykken skyldes at du har vært grovt uaktsom eller
+forsettlig (gjort skaden med vilje), kan erstatningen bli
+redusert eller falle bort etter reglene i
+forsikringsavtaleloven § 13-8 eller § 13-9.
+7.6 Egenandel
+Vi trekker fra 1000 kroner i egenandel på
+behandlingsutgifter.
+8. Vi må få riktige opplysninger
+I forsikringsbeviset for ulykkesforsikringen står det
+hvilke opplysninger vi la til grunn da vi beregnet prisen.
+Det er svært viktig at den som har kjøpt forsikringen
+sjekker at opplysningene stemmer. Hvis opplysningene
+ikke er riktige, eller det skjer endringer, må vi snarest få
+beskjed slik at vi kan korrigere forsikringen.
+Hvis opplysningene vi har lagt til grunn for
+prisberegningen ikke er riktig, blir Frendes ansvar ved
+en skade forholdsmessig redusert. Det betyr at
+erstatningen blir redusert med samme prosentandel
+som det du har betalt for lite i forhold til prisen du skulle
+betalt. Hvis de uriktige opplysningene hadde vesentlig
+betydning for risikovurderingen vår, kan erstatningen
+falle helt bort, og forsikringen bli sagt opp etter reglene i
+§ 13-2 og § 13-3 i forsikringsavtaleloven.
+Hvis forsikringen din gjelder mens du er på arbeid, er
+prisen for forsikringen avhengig av hva du jobber med
+eller yrket ditt. Vi må få beskjed så snart som mulig hvis
+du bytter jobb eller yrke. Hvis du ikke har meldt fra til
+oss, kan erstatningen bli forholdsmessig redusert (i
+prosent) etter reglene ovenfor. Hvis du har byttet til en
+jobb eller et yrke Frende ikke forsikrer etter reglene i
+punkt 4.3, kan erstatningen falle helt bort, og
+forsikringen kan bli sagt opp etter reglene ovenfor.
+9. Begrensninger for noen fritidsaktiviteter,
+arbeid og yrker
+Forsikringen omfatter ikke ulykker som skjer i
+forbindelse med noen sports- og fritidsaktiviteter eller
+visse typer hendelser. Hvilke aktiviteter og hendelser
+som er unntatt, står i punkt 4.1 og 4.2, og i
+forsikringsbeviset ditt.
+Forsikringen omfatter heller ikke ulykker som skjer i
+noen typer yrker og arbeid. Hvilke som er unntatt, står
+både i punkt 4.3, og i forsikringsbeviset.
+Hvis du blir skadet i en ulykke i forbindelse med
+aktiviteter eller hendelser som er unntatt fra
+forsikringen, har du ikke rett til erstatning. Det samme
+gjelder ulykker som skjer i et arbeid eller yrke som ikke
+er omfattet av ulykkesforsikringen.
+10. Dette må du gjøre for å unngå skade –
+sikkerhetsforskrift
+Det er viktig at du gjør det du kan for å unngå skade.
+Disse sikkerhetsforskriftene er våre krav til den som er
+omfattet av forsikringen. Hvis du ikke har overholdt
+kravene kan retten til erstatning bli redusert eller falle
+bort etter reglene i forsikringsavtaleloven § 13-9.
+Kravene vi stiller på ulykkesforsikringen:
+• Ved dykking krever vi at du har gyldig
+sportsdykkersertifikat etter internasjonal standard
+(PADI, CMAS, NAUI) for den aktuelle dybden.
+11. Frist for å melde krav
+Du må snarest, og senest innen ett år, melde krav til
+Frende. Vi regner fristen fra tidspunktet du fikk
+kunnskap om forholdene som begrunner kravet ditt.
+Hvis du ikke har meldt kravet ditt innen fristen, mister
+du retten til å kreve erstatning etter reglene i § 18-5 i
+forsikringsavtaleloven.
+Side 6 av 6Vilkår for ulykkesforsikring
