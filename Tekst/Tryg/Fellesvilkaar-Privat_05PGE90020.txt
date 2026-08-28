@@ -1,13 +1,13 @@
 Privat ansvar — Tryg
 Kilde: https://www.tryg.no/odpdf?vilkNr=05PGE90020&vilk=Fellesvilkaar-Privat
-Sist endret: 2026-08-25T13:21:30Z
+Sist endret: 2026-08-28T06:00:10Z
 ============================================================
 
 Privatansvarsforsikringen omfatter rettslig erstatningsansvar. I vilkårene finner du regler om hva forsikringen dekker, hvilke 
 unntak som gjelder og hvordan erstatningen beregnes. Vilkår for Privatansvar må leses i sammenheng med øvrige vilkår for 
 den enkelte forsikringen.
 PRIVATANSVAR
-Vilkår PGE90020 gjelder fra 02.04.2025. Avløser vilkår av 01.01.2025.
+Vilkår PGE90020 gjelder fra 01.10.2026. Avløser vilkår av 02.04.2025.
 1. HVEM FORSIKRINGEN OMFATTER
 Forsikring for innbo og reise
 Forsikringen gjelder for sikrede i egenskap av privatperson.
@@ -24,14 +24,8 @@ Forsikring for reise
 Forsikringen gjelder erstatningsansvar som oppstår på reise utenfor Norden.
  
 Forsikring for båt
-Forsikringen gjelder i Norge, Sverige, Danmark, Finland og i disse lands territorialfarvann (200 nautiske mil), og i Kattegat 
-og i Skagerrak.
- 
-I perioden fra 1. april til og med 30. september gjelder forsikringen også i resten av Europa, inklusive overfart til Svalbard, 
-Island, Storbritannia, Madeira, Azorene og Kanariøyene.
- 
-Området hvor forsikringen gjelder kan utvides etter avtale. Utvidet område fremkommer av
-forsikringsbeviset.
+Forsikringen gjelder i Europa inntil 200 nautiske mil fra fastlandet, unntatt Russland og russisk farvann. Forsikringen gjelder 
+også for overfart til Svalbard, Island, Storbritannia, Madeira, Azorene, Kanariøyene og nevnte øyers territorialfarvann. 
  
 3. HVA FORSIKRINGEN OMFATTER
 3.1. TILFELLER SOM KAN GI RETT TIL ERSTATNING
@@ -52,14 +46,14 @@ Forsikringen dekker ikke ansvar som sikrede pådrar seg og som er nevnt under de
 Avtale og garanti
 Ansvar når ansvaret alene bygger på tilsagn, avtale, kontrakt eller garanti.
  
- 
-Side 1 av 3
-
 Erstatning og bøter
 Ansvar etter Lov om skadeserstatning paragrafene 3-5, 3-6 og 3-6 a, eller for bøter, gebyrer og lignende.
  
 Medeiere
 Forsikring for båt
+ 
+Side 1 av 3
+
 Ansvar overfor medeiere for skade på ting (herunder fast eiendom) som eies i fellesskap, eller overfor en virksomhet som 
 disponeres av sikrede, eller der den sikrede eller dennes familie har vesentlig eierinteresse.
  
@@ -119,14 +113,14 @@ Ved en og samme hendelse erstattes inntil 3.020.000 SDR (internasjonal valutaenh
 ting erstattes inntil 1.510.000 SDR. Ved personskade på egne passasjerer er ansvaret begrenset til 250.000 SDR multiplisert 
 med de antall passasjerer som båten har adgang til å føre.
 Se Lov om sjøfart paragraf 175.
- 
-Side 2 av 3
-
 Utenfor Norge dekkes erstatningsansvar etter skadestedets lovgivning for ansvarsskader for tredjepart dersom den fraviker 
 Lov om sjøfart paragraf 175.
  
 Forsikring for reise
 Ved en og samme hendelse erstattes inntil:
+ 
+Side 2 av 3
+
 l
 15 millioner kroner for Reise Ekstra og Reise Premium. Ingen egenandel, med mindre egenandel 1.000 kroner er valgt. 
 Det fremgår av forsikringsbeviset hvilken egenandel som er valgt.
