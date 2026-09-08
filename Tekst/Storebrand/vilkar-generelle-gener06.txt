@@ -1,9 +1,9 @@
-Generelle vilkår (gener07) — Storebrand
-Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/f8340c1a-d0b6-43c8-963c-eff345a03c22:b2b6be411de9b425d73fa91b7c7e42ade28fdee8/vilkar-generelle.pdf
+Generelle vilkår (gener06) — Storebrand
+Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/43dc9b25-b4b0-44da-b882-f2e0a6d3e6f7:2ba5826f2f89579f5486b9f91bba67bbeab8cbc8/vilkar-generelle-gener06.pdf
 Sist endret: 2026-09-08T06:00:07Z
 ============================================================
 
-17034k Generelle vilkår 
+17034j Generelle vilkår 
  
  
 Disse vilkår gjelder i den utstrekning de ikke er fraveket i de enkelte forsikringsvilkår, i forsikringsbeviset eller i 
@@ -26,8 +26,8 @@ forsikringsbeviset.
  
  
 Generelle vilkår 
-(gener07) 
-Gjelder fra 01.09.2026 
+(gener06) 
+Gjelder fra 1. februar 2025 
 
  1 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
@@ -41,19 +41,18 @@ Innhold
 7. Frist for å gi melding om skade 5 
 8. Oppsigelse i forsikringstiden 5 
 9. Handlinger eller unnlatelser fra andre enn sikrede 7 
-10. Ulovlige interesser 7 
+10. Ulovlige interesser dekkes ikke 7 
 11. Vinningsforbud 7 
 12. Lovvalg og verneting 7 
-13. Valuta og språk 7 
+13. Valuta 7 
 14. Ikke tolldeklarerte gjenstander 8 
-15. Mangelfull/feilaktig utført reparasjon 8 
-16. Rett til å kreve nemndbehandling 8 
-17. Forsikringsselskapenes sentrale skaderegister 8 
-18. En egenandel ved samme skadetilfelle 8 
-19. Personopplysninger 8 
-20. Trafikkforsikringsavgift til staten 9 
-21. Garantiordning for skadeforsikring 9 
-22. Generelle fravikelser fra Forsikringsavtaleloven (FAL) for store risikoer 
+15. Rett til å kreve nemndbehandling 8 
+16. Forsikringsselskapenes sentrale skaderegister 8 
+17. En egenandel ved samme skadetilfelle 8 
+18. Personopplysninger 8 
+19. Trafikkforsikringsavgift til staten 9 
+20. Garantiordning for skadeforsikring 9 
+21. Generelle fravikelser fra Forsikringsavtaleloven (FAL) for store risikoer 
 (Forsikringsavtaleforskriften) og andre enn forbrukere (FAL § 1-2a) 9 
  
 
@@ -81,7 +80,6 @@ inndrivelse av kravet.
 Forsikring som gjelder for en tid av minst ett år fornyes automatisk for ett år av gangen hvis ikke forsikringstakeren 
 eller selskapet har sagt opp avtalen innen forsikringstidens utløp. For Storebrand er oppsigelsestiden 2 måneder før 
 utløpet av forsikringstiden. Forsikringsvilkår og premie kan endres og blir gjeldende fra fornyelsesdag. 
-Forsikringer som er avtalt for en tidsbegrenset periode, opphører på avtalt utløpsdato uten ytterligere varsel. 
 3. Særlige begrensninger i Storebrands erstatningsplikt 
 3.1 Kjernefysisk, biologisk, kjemisk og radioaktiv skadeårsak 
 Storebrand svarer ikke for tap eller skade, og økning i tap eller skade, som direkte eller indirekte er forårsaket av eller 
@@ -100,8 +98,8 @@ står i sammenheng med jordskjelv og vulkanske utbrudd.
 Denne begrensning gjelder ikke dersom den er fraveket i det aktuelle forsikringsvilkåret. 
 3.3 Krig og uroligheter 
 Storebrand svarer ikke for tap eller skade, og økning i tap eller skade, som direkte eller indirekte er forårsaket av eller 
-står i sammenheng med atomkjernereaksjoner, krig eller krigslignende handlinger, enten krig er erklært eller ikke, 
-opprør eller lignende alvorlige forstyrrelser av den offentlige orden. 
+står i sammenheng med krig eller krigslignende handlinger, enten krig er erklært eller ikke, opprør eller lignende 
+alvorlige forstyrrelser av den offentlige orden. 
 3.4 Terrorhandlinger 
 Storebrands samlede ansvar for alle erstatningsmessige skadetilfeller som direkte eller indirekte skyldes eller står i 
 sammenheng med terrorhandling, er begrenset til maksimalt 1 milliard kroner ved en og samme hendelse, og 
@@ -261,7 +259,7 @@ som utfører arbeid av ledende art eller av andre som har selvstendig stilling i
 har særlig selvstendig stilling menes også personer som utfører arbeidsoppdrag uten overoppsyn fra andre, eller som 
 utfører arbeidsoppdrag de selv er ansvarlige for. Sikrede identifiseres tilsvarende med sine kontraktsmedhjelperes 
 handlinger eller unnlatelser. 
-10. Ulovlige interesser 
+10. Ulovlige interesser dekkes ikke 
 Forsikringen omfatter kun lovlige interesser som kan verdsettes i penger. 
 11. Vinningsforbud 
 Forsikringen skal ikke føre til vinning, men skal bare erstatte det tap som virkelig er lidt innenfor rammen av 
@@ -271,11 +269,9 @@ Norsk lovgivning gjelder for forsikringsavtalen i den utstrekning dette ikke er 
 1992 om lovvalg i forsikring, eller det er gjort annen avtale. 
 Tvister etter forsikringsavtalen avgjøres ved norsk domstol, med mindre det er i strid med ufravikelige regler i 
 gjeldende lovgivning, eller det er gjort annen avtale. 
-13. Valuta og språk 
+13. Valuta 
 Premiebeløp, forsikringssummer, erstatningsbeløp mv. som springer ut av forsikringsavtalen, regnes i norske kroner 
 (NOK) dersom ikke annet kommer frem av vilkår eller forsikringsbevis. 
-Informasjon og avtalevilkår gis kun på norsk hvis ikke annet språk er avtalt. 
- 
 
  
  8 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
@@ -284,13 +280,10 @@ Informasjon og avtalevilkår gis kun på norsk hvis ikke annet språk er avtalt.
 Forsikringen omfatter ikke erstatning for gjenstander som er kjøpt, eller mottatt som gave, utenfor Norge og som ikke 
 er tolldeklarert ved innførsel i henhold til gjeldende regelverk. Se lov 21. desember 2007 nr. 119 om toll og 
 vareførsel (tolloven) og lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) med forskrifter. 
-15. Mangelfull eller feilaktig utført reparasjon 
-Storebrand svarer ikke for mangelfull/feilaktig utført reparasjon, eller følgeskader etter slik reparasjon, med mindre 
-de nye skadene er dekningsmessige i henhold til forsikringens vilkår. 
-16. Rett til å kreve nemndbehandling 
+15. Rett til å kreve nemndbehandling 
 Hvis du er uenig i Storebrands avgjørelse i en sak som vedrører dine forsikringer, kan du rette klagen til 
 Finansklagenemnda Postboks 53 Skøyen, 0212 Oslo. 
-17. Forsikringsselskapenes sentrale skaderegister 
+16. Forsikringsselskapenes sentrale skaderegister 
 Skader som meldes til forsikringsselskapene blir registrert i forsikringsselskapenes sentrale register (FOSS). 
 Finansnæringens Hovedorganisasjon er behandlingsansvarlig for registeret. Registreringen inneholder 
 fødselsnummer, saksnummer, forsikrings- og skadetype foruten koder for Storebrand og saksbehandler. Når en 
@@ -299,11 +292,11 @@ samme kunde – også skader meldt fra andre selskaper. Selskapene får ikke til
 ved registrering av en skade. Registeret er ikke tilgjengelig for andre, og registrerte skader slettes etter 10 år. 
 Forsikringstakerne har rett til innsyn i registeret etter person- opplysningslovens § 15 og til å kreve retting av 
 opplysningene etter § 16. 
-18. En egenandel ved samme skadetilfelle 
+17. En egenandel ved samme skadetilfelle 
 Utbetaler Storebrand ved samme skadetilfelle erstatning til sikrede i henhold til flere forsikringsdekninger, trekkes 
 bare én egenandel. Ved ulik størrelse på de aktuelle egenandeler, benyttes den høyeste. 
-19. Personopplysninger 
-Storebrand Forsikring AS behandler personopplysninger. Personopplysninger blir innhentet ved inngåelsen av 
+18. Personopplysninger 
+ Storebrand Forsikring AS behandler personopplysninger. Personopplysninger blir innhentet ved inngåelsen av 
 forsikringsavtalen og ved eventuelle oppgjør, og benyttes til å administrere forsikringen. Du kan lese mer om hvordan 
 vi behandler dine personopplysninger i vår personvernerklæring på Storebrand.no. Storebrand Forsikring AS, ved 
 administrerende direktør, er ansvarlig for behandling av personopplysningene. Har du spørsmål om behandling av 
@@ -313,17 +306,17 @@ Storebrand har avtale med eksterne samarbeidspartnere for å levere forsikringst
 som leveres direkte av våre samarbeidspartnere, vil Storebrand utlevere personopplysninger om deg til en eller flere 
 av våre samarbeidspartnere, som er nødvendig for at du kan benytte den enkelte tjeneste og for å verifisere ditt 
 forsikringsforhold. Dersom du ønsker nærmere informasjon om hvilke aktører vi benytter, og hvilke 
+personopplysninger som utleveres, ta kontakt med Oppgjør på telefon +47 22 31 25 00, eller send en henvendelse 
+til tingskade@storebrand.no 
 
  
  9 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
-personopplysninger som utleveres, ta kontakt med Oppgjør på telefon +47 22 31 25 00, eller send en henvendelse 
-til tingskade@storebrand.no 
-20. Trafikkforsikringsavgift til staten 
+19. Trafikkforsikringsavgift til staten 
 Storebrand krever inn trafikkforsikringsavgift til staten og avgiften må betales for alle registrerte kjøretøy under 7 500 
 kg. Betaling av avgift er en forutsetning for forsikringsavtalen. Dersom avgift ikke betales for slikt forsikret kjøretøy, går 
 alle forsikringer under denne avtalen til opphør. 
-21. Garantiordning for skadeforsikring 
+20. Garantiordning for skadeforsikring 
 Storebrand Forsikring AS er medlem av garantiordningen for skadeforsikring, se lov 10. april 2015 nr. 17, kapittel 
 20A og forskrift 9. desember 2016 nr. 1502, kapittel 20A om garantiordninger for forsikringsvirksomhet. Ordningen 
 skal være en trygghet for sikrede dersom Storebrand Forsikring AS ikke kan betale det de plikter i henhold til inngåtte 
@@ -339,28 +332,27 @@ senere fornyelser oppfyller minst to av følgende vilkår:
 • har flere enn 250 ansatte 
 • har en omsetning på minst 100 millioner ifølge siste årsoppgjør 
 • har eiendeler ifølge siste balanse på minst 50 millioner kroner 
-Garantiordningen dekker likevel ansvarsforsikringer som er pålagt etter norsk lov (tvungen ansvarsforsikring). 
 For nærmere detaljer henvises det til ovennevnte lov om banksikring og forskrift om garantiordning for 
 skadeforsikring. 
-22. Generelle fravikelser fra Forsikringsavtaleloven (FAL) for 
+21. Generelle fravikelser fra Forsikringsavtaleloven (FAL) for 
 store risikoer (Forsikringsavtaleforskriften) og andre enn 
 forbrukere (FAL § 1-2a) 
-22.1 Kommunikasjon – FAL § 1-6 
+21.1 Kommunikasjon – FAL § 1-6 
 Følgende fravikelser er avtalt for «store risikoer» og andre enn forbrukere 
 • En elektronisk melding fra foretaket skal anses mottatt og ha kommet til mottakers kunnskap på det tidspunkt 
 meldingen er sendt til mottakers avtalte kommunikasjonsplattform. FAL § 1-6 annet og tredje ledd er fraveket. 
-
- 
- 10 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 For «store risikoer» gjelder i tillegg følgende fravikelser 
 • All kommunikasjon mellom partene kan foregå ved elektronisk kommunikasjon. Kunden kan ikke reservere seg 
 mot denne kommunikasjonsformen. Kommunikasjonen foregår gjennom avtalte kommunikasjonsplattformer. 
 FAL § 1-6 første ledd er fraveket. Når det etter forsikringsavtaleloven stilles krav om at noen skal varsles, er 
 lovens krav oppfylt ved at varselet sendes til avtalt kommunikasjonsplattform. FAL § 1-6 fjerde ledd er fraveket. 
+
+ 
+ 10 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
 Med skriftlig dokument menes papir eller enhver elektronisk kommunikasjon som er sendt til mottakers avtalte 
 kommunikasjonsplattform. FAL § 1-6 femte ledd er fraveket. 
-22.2 Prekontraktuelle plikter – FALs annen del 
+21.2 Prekontraktuelle plikter – FALs annen del 
 Følgende fravikelser er avtalt for «store risikoer» og andre enn forbrukere 
 • FAL § 1C-3 er fraveket, ved at foretaket ikke plikter å gi standardisert informasjonsdokument til kunden. 
 For «store risikoer» er i tillegg følgende fraveket 
@@ -376,7 +368,7 @@ Kapittel 1C i FAL er fraveket i sin helhet. Kundens informasjonsbehov anses avde
 nødvendig utstrekning i de løpende forhandlinger og i kommunikasjonen mellom forsikringsdistributøren og kunden 
 forut for avtaleinngåelsen. Kunden har det endelige ansvaret for å etterspørre informasjon kunden mener er relevant 
 før avtaleinngåelsen. 
-22.3 Bevisbyrde (FAL § 21-1)/erstatning for pliktbrudd (FAL § 21- 
+21.3 Bevisbyrde (FAL § 21-1)/erstatning for pliktbrudd (FAL § 21- 
 2)/klageregler (FAL § 22-1) 
 Følgende fravikelser er avtalt for «store risikoer» og andre enn forbrukere 
 • Det er alminnelige bevisbyrderegler som gjelder for spørsmålet om forsikringsforetaket har oppfylt sine plikter 
