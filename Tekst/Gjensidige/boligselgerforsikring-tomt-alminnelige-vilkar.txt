@@ -1,6 +1,6 @@
 Boligselgerforsikring Tomt (PDF) — Gjensidige
 Kilde: https://www.gjensidige.no/files/privat/vilkar/bolig-innbo-og-verdier/boligselgerforsikring-tomt-alminnelige-vilkar.pdf
-Sist endret: 2026-08-25T13:09:20Z
+Sist endret: 2026-09-18T06:00:08Z
 ============================================================
 
 Nyheter og endringerForsikringsoversikt Forsikringsbevis Fellesdekninger / Generelle vilkårErstatningsregler
@@ -14,8 +14,9 @@ Dersom det er noe du ikke er fornłyd med, kan du kontakte
 - Gjensidiges Kundeombud
 - Finansklagenemnda
 Boligselgerforsikring for tomt Boligselgerforsikring for tomt
-FORSIKRINGSBEVIS 
+FORSIKRINGSBEVIS FORSIKRINGSNUMMER UTSTEDT
 Boligselgerforsikring for tomt
+Tilbud - ny forsikring - gjelder fra
 Hva er forsikret Forsikringssum Egenandel
  
  
@@ -23,11 +24,11 @@ Forsikringen dekker
 Ansvar etter avhendingsloven Ingen
 - Maksimal samlet erstatning er begrenset oppad 
 til objektets salgssum eller maksimalt 14 000 000 
- 
+Pris kr 
 
 Boligselgerforsikring for tomt Boligselgerforsikring for tomt
 Boligselgerforsikring for tomt
-FORSIKRINGSBEVIS 
+FORSIKRINGSBEVIS FORSIKRINGSNUMMER UTSTEDT
 Dekkes Dekkes ikke
 Hvem forsikringen
 gjelder for (sikrede)?
@@ -47,7 +48,9 @@ kjennskap til eiendommen.
 kjłper selger den i lłpet av forsikringstiden.
 Hvor gjelder
 forsikringen?
-- Eiendom i Norge.
+- Eiendom i Norge. - Salg av eiendom med flere gnr. og bnr.
+(Boligselgerforsikring må tegnes særskilt per
+enhet).
 Hvilket ansvar
 dekkes?
 - Selgers mangelsansvar etter lov om
@@ -70,7 +73,7 @@ uavhengig av om arbeidet faktisk er utfłrt.
 ved eiendommen eller dokumentasjon av slike.
 - Forsikringen dekker heller ikke selgers
 erkjennelse av ansvar, forhandlinger, garantier
-eller avtalte om utbedringer etc.
+eller avtale om utbedringer etc.
 - Krav som fłlge av dårlig eller mangelfull
 rengjłring eller rydding av eiendommen.
 - Krav knyttet til at tilbehłr som skal/skulle
@@ -79,6 +82,8 @@ fłlge/fulgt med eiendommen ikke er med.
 avhendingslovas § 2-4, 2. ledd.
 - Ansvar som fłlge av at selger har tilbakeholdt
 eller gitt uriktige opplysninger.
+- Selgers krav mot kjłper, eksempelvis tvist om
+oppgjłr og tilbakehold etter avhl. kapittel 5.
 Når forsikringen
 gjelder?
 - Forsikringen trer i kraft fra det tidspunktet
@@ -97,26 +102,27 @@ forhold som oppdages fłr overtakelse være
 utenfor dekning.
 - Forsikringen lłper deretter fra overtakelse og i
 den perioden kjłper kan reklamere, likevel
-kun maksimalt 5 år fra overtakelsen av
-eiendommen jf. avhendingslova § 2-4, 2. ledd.
-- Plutselig og uforutsett skade som oppstår eller
-påfłres eiendommen i perioden mellom
-budaksept og kjłpers overtagelse. Som skade
-regnes her også komponenter som fjernes i
-denne perioden.
+- Plutselig eller uforutsett skade eller forhold, som
+oppstår eller påfłres eiendommen i perioden
+mellom budaksept og kjłpers overtagelse. Som
+skade regnes her også komponenter som
+fjernes i denne perioden.
 - Forhold som konstateres utenfor
 forsikringstiden.
 - Hvis forsikringen ikke er betalt.
 
 Boligselgerforsikring for tomt Boligselgerforsikring for tomt
 Boligselgerforsikring for tomt
-FORSIKRINGSBEVIS 
+FORSIKRINGSBEVIS FORSIKRINGSNUMMER UTSTEDT
 Nyheter og endringerForsikringsoversikt Forsikringsbevis Fellesdekninger / Generelle vilkårErstatningsregler
+Dekkes Dekkes ikke
+kun maksimalt 5 år fra overtakelsen av
+eiendommen jf. avhendingslova § 2-4, 2. ledd.
 Egenerklæringsskjema 
 For å kjłpe boligselgerforsikring må selger fylle ut og signere Gjensidiges egenerklæringsskjema.
-- Egenerklæringsskjemaet er kun gyldig i 6 måneder regnet fra signeringsdato.
+- Egenerklæringsskjemaet er kun gyldig i 12 måneder regnet fra signeringsdato.
 - Forsikringen gjelder ikke dersom Gjensidiges egenerklæringsskjema ikke er utfylt, og tilgjengeliggjort for kjłper fłr budaksept. 
-- Er ikke boligen solgt innen 6 måneder faller forsikringen bort. For at forsikringen skal være gyldig i nye 6 måneder, må 
+- Er ikke boligen solgt innen 12 måneder faller forsikringen bort. For at forsikringen skal være gyldig i nye 12 måneder, må 
 egenerklæringsskjema fylles ut og signeres på nytt, samt tilgjengliggjłres for kjłper fłr budaksept.
 - Selger plikter å gi Gjensidige riktige og fullstendige opplysninger i forbindelse med inngåelsen av forsikringsavtalen jf. FAL § 
 4-1. Selger skal blant annet słrge for at egenerklæringsskjemaet blir fylt ut etter beste skjłnn jf. FAL § 4-10. 
@@ -125,10 +131,13 @@ egenerklæringsskjema fylles ut og signeres på nytt, samt tilgjengliggjłres fo
 ufullstendige, uriktige eller misvisende opplysninger om eiendommen i forbindelse med salget eller inngåelse av 
 forsikringsavtalen.
 
-GENERELLE VILK¯ R 
+GENERELLE VILK¯ R FORSIKRINGSNUMMER UTSTEDT
  
 Nyheter og endringerForsikringsoversikt Forsikringsbevis Fellesdekninger / Generelle vilkårErstatningsregler
-1. Forsikringsavtalen består av
+1. Forsikringsavtalen
+Forsikringsavtalen omfatter bare lovlig interesse som kan 
+verdsettes i penger. 
+Forsikringsavtalen består av
 - forsikringsdokumentet
 - eventuell avtale ved kollektive forsikringer 
 og reguleres også av 
@@ -207,28 +216,46 @@ trafikkforsikringsavgift til staten.
 Trafikkforsikringsavgiften fłlger ansvarsforsikringen for 
 kjłretły, og du betaler for den perioden kjłretłyet er 
 registrert.
-15. Gjensidiges rett til å si opp forsikringen 
-Gjensidige kan si opp forsikringen ved manglende betaling, 
-feil eller manglende opplysninger samt ved særlige forhold. 
-Gjensidige kan også si opp forsikringen dersom 
-forsikringstaker ikke medvirker til legitimering eller andre 
-kundetiltak i henhold til hvitvaskingsloven, går konkurs eller 
-etter en skade, så sant oppsigelse er rimelig. 
+15. Gjensidiges rett til å si opp forsikringen i 
+forsikringstiden
+Gjensidige kan si opp forsikringen i forsikringstiden når det 
+foreligger et særlig forhold og oppsigelse er rimelig. 
+Dette gjelder ved; 
+-gjentatte manglende betalinger 
+-konkurs 
+-manglende medvirkning til legitimering eller andre 
+kundetiltak etter hvitvaskingsloven 
+-befatning med ulovlig interesse som kan ha innvirkning på 
+forsikringsavtalen 
+-skadefrekvens eller skadeforlłp som avviker fra det 
+normale 
+-truende eller trakasserende adferd overfor representant for 
+Gjensidige
+-tilfeller der det er gitt bevisst uriktige eller ufullstendige 
+opplysninger enten i forbindelse med tegning eller 
+fornyelser av forsikringer, eller i forbindelse med 
+skadeoppgjłr
+-tilfeller der utbetaling av erstatning, eller annen ytelse i 
+henhold til forsikringsavtalen, ville medfłrt brudd på 
+gjeldende regelverk, sanksjoner, og/eller restriktive tiltak. 
 16. Svik 
-Ved svik opphłrer både rett til erstatning og refusjon av 
-innbetalt belłp, og alle forsikringsavtaler kan sies opp med 
-łyeblikkelig virkning. Allerede utbetalte erstatningsbelłp 
-kan kreves tilbakebetalt.
+Ved svik opphłrer rett til erstatning og alle forsikringsavtaler 
+kan sies opp med łyeblikkelig virkning. Allerede utbetalte 
+erstatningsbelłp kan kreves tilbakebetalt. Gjensidige kan 
+kreve erstatning for de łvrige utgiftene selskapet har hatt i 
+anledning saken. 
 17. Krig og uroligheter 
 Forsikringen dekker ikke skade på person, ting eller tap 
 som skyldes 
+
+GENERELLE VILK¯ R FORSIKRINGSNUMMER UTSTEDT
 - Krig eller alvorlige uroligheter i Norge
 - Krig, krigslignende tilstand eller andre former for 
 uroligheter i utlandet dersom forsikrede reiser inn i, eller 
 tar opphold i, et område med krig eller uroligheter der 
 Norsk Utenriksdepartement som fłlge av 
-sikkerhetsrisikoen har utstedt reiseråd  hvis ikke annet 
-er avtalt skriftlig
+sikkerhetsrisikoen har utstedt reiseadvarsel  hvis ikke 
+annet er avtalt skriftlig
 - Deltakelse i krig 
 - Begrensningene over gjelder ikke for personskade som 
 går inn under Lov om yrkesskadeforsikring. 
@@ -236,18 +263,16 @@ På person og reiseforsikringer dekker Gjensidige likevel
 skade på person, ting eller tap som skyldes krig, 
 krigslignende tilstand eller uroligheter i utlandet som oppstår 
 i inntil 6 uker fra det Norske Utenriksdepartementet har 
-utstedt reiseråd, når forsikrede allerede befinner seg i 
-området reiserådet gjelder for. 
+utstedt reiseadvarsel, når forsikrede allerede befinner seg i 
+området reiseadvarsel gjelder for. 
 På motorvognforsikring dekker forsikringen ingen skader 
-
-GENERELLE VILK¯ R 
 eller utgifter som oppstår i land der det Norske 
-Utenriksdepartementet har utstedt reiseråd som fłlge av 
-krig, krigslignende tilstand eller uroligheter. På 
+Utenriksdepartementet har utstedt reiseadvarsel som fłlge 
+av krig, krigslignende tilstand eller uroligheter. På 
 motorvognforsikringen dekker Gjensidige likevel skade på 
-person, ting eller tap som oppstår i inntil 6 uker fra reiseråd 
-foreligger, når forsikret motorvogn allerede befinner seg i 
-det området reiserådet gjelder for. 
+person, ting eller tap som oppstår i inntil 6 uker fra 
+reiseadvarsel foreligger, når forsikret motorvogn allerede 
+befinner seg i det området reiseadvarsel gjelder for. 
 18. Skade ved terrorhandlinger
 Ved terrorhandling er Gjensidiges samlede 
 erstatningsansvar overfor alle kunder og andre kravstillere 
@@ -295,16 +320,21 @@ fłlge av jordskjelv i Norge
 - reiseforsikringer 
 - personskade under Bilansvarsloven
 - personskade under Lov om yrkesskadeforsikring
+Gjensidige dekker tap eller skade som direkte er forårsaket 
+av jordskjelv eller vulkanske utbrudd for: 
+- Tingforsikringer i Norge med Naturskadedekning, jf lov 
+om naturskadeforsikring av 16. juni 1989 nr 70. 
  
 For łvrige forsikringer dekkes ikke tap eller skade, og 
-łkning i tap eller skade, ved jordskjelv og vulkanutbrudd.
+łkning i tap eller skade, ved jordskjelv og vulkanutbrudd, 
+med mindre annet fremgår av spesielle vilkår. 
 21. Områder som er underlagt sanksjoner 
 Enhver erstatningsplikt - og andre forpliktelser overfor den 
 forsikrede eller andre rettighetshavere under forsikringen - 
 bortfaller dersom oppfyllelse av forpliktelsen medfłrer brudd 
-på regelverk som gjennomfłrer bindende vedtak fattet av 
-FNs Sikkerhetsråd, restriktive tiltak vedtatt av EUs råd eller 
-andre sanksjoner vedtatt av USA, Storbritannia eller Norge. 
+på regelverk, sanksjoner og/eller restriktive tiltak vedtatt av 
+FN, EU, USA, Storbritannia eller land i Gjensidiges 
+konserngeografi. 
 22. Forsikringsselskapenes sentrale skaderegister  
 FOSS
 Alle skader som meldes et forsikringsselskap, kan 
@@ -333,6 +363,9 @@ Fastsettelse av erstatningsgrunnlag og verdier samt
 spłrsmål i forbindelse med beregning av avbruddstap 
 avgjłres ved skjłnn dersom sikrede eller Gjensidige krever 
 det. Skjłnnets verdifastsettelser er łvre grense for 
+
+GENERELLE VILK¯ R FORSIKRINGSNUMMER UTSTEDT
+Nyheter og endringerForsikringsoversikt Forsikringsbevis Fellesdekninger / Generelle vilkårErstatningsregler
 Gjensidiges erstatningsansvar.
 Sikrede eller Gjensidige kan kreve erstatningen fastsatt ved 
 skjłnn, for fysisk skade på fłlgende gjenstander:
@@ -355,9 +388,6 @@ sitt valg, plikter den andre innen en uke etter at underretning
 er mottatt, å meddele om hvem som velges. Fłr skjłnnet 
 velger skjłnnsmennene en oppmann. Hvis en av partene 
 forlanger det, skal denne være bosatt utenfor partenes 
-
-GENERELLE VILK¯ R 
-Nyheter og endringerForsikringsoversikt Forsikringsbevis Fellesdekninger / Generelle vilkårErstatningsregler
 hjemsted og utenfor den kommune hvor forsikringstilfellet 
 har inntruffet. Unnlater en av partene å velge skjłnnsmann, 
 oppnevnes denne av tingretten i den rettskrets hvor 
@@ -374,14 +404,13 @@ skjłnnsmennene er uenige om. Blir oppmannen tilkalt,
 beregnes erstatningen på grunnlag av dennes skjłnn. 
 Erstatningen skal likevel ikke ligge utenfor de grenser som 
 skjłnnsmennenes ansettelser medfłrer. 
-Partene betaler hver sin skjłnnsmann. Honorar til 
-oppmannen, samt eventuelle kostnader som er nłdvendige 
-for at skjłnnsmennene skal utfłre sitt oppdrag, bæres med 
-en halvpart på hver. Dersom Gjensidige krever skjłnn 
-overfor privatkunder, borettslag, boligaksjeselskap eller 
-eierseksjonssameie, vil Gjensidige betale de ovennevnte 
-skjłnnskostnader. Skjłnnets verdsettelser er bindende for 
-begge parter. 
+Partene betaler hver sin skjłnnsmann. Honorar til eventuell 
+oppmann og ekstern teknisk bistand skjłnnsmennene har 
+behov for i sitt arbeide, skal bæres med en halvpart på hver. 
+Dersom Gjensidige krever skjłnn overfor privatkunder, 
+borettslag, boligaksjeselskap eller eierseksjonssameie, vil 
+Gjensidige betale de ovennevnte skjłnnskostnader. 
+Skjłnnets verdsettelser er bindende for begge parter. 
 25. Informasjon om behandling av personopplysninger
 Behandling av dine personopplysninger er nłdvendig for å 
 inngå og oppfylle forsikringsavtalen vi har med deg. 
@@ -452,13 +481,15 @@ inn en skriftlig henvendelse til oss.
 Snakk med oss
 Snakk fłrst med en av våre medarbeidere. De kan ofte 
 hjelpe deg med en lłsning. Kanskje det hele skyldes en 
+
+GENERELLE VILK¯ R FORSIKRINGSNUMMER UTSTEDT
 misforståelse eller at vi har gjort en feil i en travel hverdag? 
 Gi oss en sjanse til å gjłre det bra igjen. 
 Kontakt oss på 915 03 100.
 Om du łnsker å klage på en beslutning i en skadesak, kan 
-du klage til vårt Kundeombud
+du klage til Gjensidiges klageinstans.
 Gjensidige Forsikring
-Kundeombudet 
+Gjensidiges klageinstans 
 Postboks 700, Sentrum
 0106 Oslo
 Ekstern klagenemnd: 
@@ -473,8 +504,6 @@ skadeforsikringsselskaper.
 På Finanstilsynets hjemmeside 
 https://www.finanstilsynet.no/ finnes en oversikt over 
 eksterne klagenemnder
-
-GENERELLE VILK¯ R 
 Finanstilsynets adresser
 Besłksadresse:
 Revierstredet 3
@@ -485,15 +514,15 @@ Postboks 1187 Sentrum
 E-post: 
 post@finanstilsynet.no
 Private kunder kan også klage til 
-Forbrukartilsynet
+Forbrukertilsynet
 Postboks 2862 Kjłrbekk
 3702 SKIEN
 Tlf.: 23 400 600
 Nettadresse: https://www.forbrukertilsynet.no/
 
-ERSTATNINGSREGLER 
+ERSTATNINGSREGLER FORSIKRINGSNUMMER 71475544 UTSTEDT 28.08.2026
 Nyheter og endringerForsikringsoversikt Forsikringsbevis Fellesdekninger / Generelle vilkårErstatningsregler
-ERSTATNINGSREGLER 
+ERSTATNINGSREGLER FORSIKRINGSNUMMER UTSTEDT
 Ansvar
 Forsikringssum
 - Gjensidiges ansvar er begrenset til eiendommens 
@@ -617,6 +646,6 @@ mellom selger og Gjensidige.
 Gjensidige ved forsikringsutbetaling i selgers rett mot 
 tredjemann. Selger skal gjłre det som er nłdvendig for å 
 
-ERSTATNINGSREGLER ERSTATNINGSREGLER 
+ERSTATNINGSREGLER FORSIKRINGSNUMMER 71475544 UTSTEDT 28.08.2026ERSTATNINGSREGLER FORSIKRINGSNUMMER UTSTEDT
 sikre kravet mot tredjemann inntil Gjensidige selv kan 
 ivareta sine rettigheter.
