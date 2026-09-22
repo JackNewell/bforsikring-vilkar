@@ -1,6 +1,6 @@
 Innbo (innbo10) — Storebrand
-Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/9b3b5c27-3e81-4201-b0aa-a27ea63add19:d429cc14bfd76c7b727b3519a5fdd4ef49f0a360/vilkar-innboforsikring.pdf
-Sist endret: 2026-09-21T06:00:07Z
+Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/9b3b5c27-3e81-4201-b0aa-a27ea63add19:bc9ded709c0c568e911dae5f8ebf9e1155de14ff/vilkar-innboforsikring.pdf
+Sist endret: 2026-09-22T06:00:09Z
 ============================================================
 
 17035J Vilkår innbo 
@@ -96,7 +96,7 @@ Skade som alene rammer integrerte hvitevarer Forsikringssum Forsikringssum
 Bruddskader på sanitærporselen, platetopp og glass i 
 bygningens dører og vinduer 
 Forsikringssum Forsikringssum 
-Bygningsmessig tilleggsinnredning bekostet av sikrede 100 000 100 000 
+Bygningsmessig tilleggsinnredning bekostet av sikrede 100 000 500 000 
 Bygningsskade på forsikringsstedet i leilighet du eier, eller 
 bolig du leier i forbindelse med innbrudd 
 40 000 40 000 
@@ -108,7 +108,7 @@ Utgifter til å rydde og fjerne verdiløse rester etter skade på
 forsikrede ting 
 Forsikringssum Forsikringssum 
 For innbo: Ekstra bokostnader i reparasjonsperioden Ubegrenset/ 
-100 000 hotel 
+100 000 hotell 
 Ubegrenset 
 For innbo hytte eller annen fritidsbolig: Leie av hytte eller 
 annen fritidsbolig 
@@ -116,7 +116,7 @@ annen fritidsbolig
 Påløpende merutgifter pga. prisstigning etter skade Ubegrenset Ubegrenset 
 Utgifter til nødvendig rekonstruksjon av manuskripter 50 000 100 000 
 Flyttings- og lagringsutgifter ved nødvendig flytting etter skade Ubegrenset Ubegrenset 
-Tilleggsdekninger som bare er inkludert i «Super» 
+Tilleggsdekninger som er inkludert i «Super» 
 Tyveri av tingene dine i Norden Ikke omfattet 50 000 
 Uhellsforsikring på forsikringsstedet Ikke omfattet Forsikringssum 
 Ved skade utenfor bolig eller skade ved at ting mistes ned 
@@ -556,8 +556,8 @@ bygningen med hjemmel i lov eller av samme grunn er
 lovlig oppsagt av utleier, eller 
 b) Innredningen blir ikke utbedret som ledd i 
 bygningsskadens utbedring 
-100 000 100 000 
-Skade som alene rammer integrerte hvitevarer 
+100 000 500 000 
+Skade som alene rammer integrerte hvitevarer Forsikringssum Forsikringssum 
 Skade på rom i forbindelse ved tyveri og skadeverk i henhold 
 til punkt B.4.5 
 40 000 40 000 
@@ -987,8 +987,8 @@ Super
 Skader forårsaket av rotter og mus Ikke omfattet Forsikringssum 
  
 Forsikringen dekker 
-Skade på innbo og løsøre forårsaket av mus, rotter og andre dyr, som skyldes aktivitet som har startet etter at 
-forsikringsavtalen har begynt å løpe. 
+Skade på innbo og løsøre forårsaket av rotter og mus som skyldes aktivitet som har startet etter at forsikringsavtalen 
+har begynt å løpe. 
 Forsikringen dekker ikke 
 1. Gjenstander skadet av mus og rotter, som er oppbevart i bygninger som ikke er til boligformål slik som 
 garasje, utebod, låve og lignende 
