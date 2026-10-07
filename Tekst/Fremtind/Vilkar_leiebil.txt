@@ -1,9 +1,9 @@
 Leiebil vilkår (pdf) — Fremtind
 Kilde: https://dokument.fremtind.no/vilkar/fremtind/pm/mobilitet/Vilkar_leiebil.pdf
-Sist endret: 2026-08-25T13:09:20Z
+Sist endret: 2026-10-07T06:00:07Z
 ============================================================
 
-Leiebilforsikring Vilkårs id: PMO-350.402-003 av 18.09.2025
+Leiebilforsikring Vilkårs id: PMO-350.402-004 av 24.09.2026
 1. Hvilke skader blir erstattet
 2. Erstatningsberegning 
 2.1 Erstatningsregler for leiebil
@@ -11,8 +11,8 @@ Ved kondemnasjon eller når stjålet bil ikke er komm et til rette, erstattes ut
 selskapet og inntil 15 dager etter at tilbud om ers tatning er sendt. Erstatningen er begrenset til tot alt 45 dager. 
 1.1 Leiebil
 Dekkes Dekkes ikke
-· Hvis det oppstår en skade på bilen din som er dekke t 
-av forsikringen, erstattes utgifter til leiebil av 
+· Hvis det oppstår en skade på bilen din som blir 
+dekket av forsikringen, erstattes utgifter til leie bil av 
 tilsvarende biltype som den forsikrede bilen, innti l 600 
 kroner per dag. 
 · Erstatningen gjelder i normal reparasjonstid, innti l 45 

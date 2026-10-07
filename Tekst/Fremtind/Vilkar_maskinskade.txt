@@ -1,9 +1,9 @@
 Maskinskade vilkår (pdf) — Fremtind
 Kilde: https://dokument.fremtind.no/vilkar/fremtind/pm/mobilitet/Vilkar_maskinskade.pdf
-Sist endret: 2026-08-25T13:09:20Z
+Sist endret: 2026-10-07T06:00:07Z
 ============================================================
 
-Maskinskade Vilkårs id: PMO-350.201-001 av 18.09.2025
+Maskinskade Vilkårs id: PMO-350.201-002 av 24.09.2026
 1. Hvilke skader blir erstattet 
 1.1. Maskinskade
 Dekkes Dekkes ikke
@@ -33,8 +33,10 @@ For el- og hybridbil
 · El-motor og dens girkasse 
 · Styreenhet for el-motor og høyvoltsbatteri 
 · Ladekontakten og dens stillmotor
-· PTC-varmer og AC/klimakompressor der den har 
-kjøle- og/eller varmefunksjon mot høyvoltsbatteri 
+· PTC-varmer når den har varmefunksjon mot 
+høyvoltsbatteri
+· AC klimakompressor når den har kjøle- og/eller 
+varmefunksjon mot høyvoltsbatteri 
 For gir, styring og kraftoverføring
 · Innvendige bevegelige deler i girkassen 
 · Dobbeltmasse svinghjul 
@@ -51,8 +53,8 @@ girkasse
 høyvoltskabel, understell, slitasjedeler, rør-kompo nenter på 
 eksosanlegg, hovedenhet til infotainment system og andre 
 komponenter som ikke er nevnt, er ikke dekket. 
-· Skader som skyldes forhøyet oljeforbruk, varmgang, frost, 
-irr og fukt.
+· Skader som fører til og/eller skyldes forhøyet olje forbruk, 
+varmgang, frost, irr og fukt.
 · Skader som skyldes slitasje og som utvikles gradvis .
 · Skader andre er ansvarlig for som ved reklamasjon, garanti 
 og lignende. 
@@ -63,13 +65,13 @@ bane eller vei. Unntak er kurs som er godkjent av F remtind
 eller kurs som er obligatorisk ved førerkortopplæri ng. 
 2. Erstatningsberegning
 2.1 Erstatningsregler for høyvoltsbatteri
-· For høyvoltsbatteri til elbil og hybridbil gjelder et eget fradrag i erstatningen. Fradraget er på 10 prosent av 
-erstatningskostnadene når bilen er 5 år og øker med 10 prosent hvert år, inntil 50 prosent.
-· Egenandelen blir trukket fra erstatningsbeløpet ett er fradraget. Hvis det kan benyttes tilsvarende, el ler vesentlig 
-tilsvarende brukte deler, blir det kun trukket egen andel.
-· Hvis utskiftede deler er vesentlig mer slitt eller forringet enn hva som regnes som normalt, kan det i tillegg gjøres et 
-skjønnsmessig fradrag for dette. 
+· Ved reparasjon eller skifte av høyvoltsbatteri til elbil og hybridbil gjelder et eget fradrag i erstat ningen. Fradraget er 
+på 10 prosent av erstatningskostnadene når bilen er 5 år og øker med 10 prosent hvert år, inntil 50 pr osent.
 
+· Egenandelen blir trukket fra erstatningsbeløpet ett er fradraget. Hvis det kan benyttes likeverdige del er, blir det kun 
+trukket egenandel.
+· Hvis de utskiftede delene er vesentlig mer slitt el ler forringet enn hva som regnes som normalt, kan d et i tillegg 
+gjøres et skjønnsmessig fradrag for dette. 
 2.2. Andre erstatningsregler 
 · Det gis ikke kontantoppgjør for skader som dekkes a v maskinskadedekningen. 
 · For flere erstatningsregler, se minikaskovilkåret p unkt 3. 
