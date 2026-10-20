@@ -1,9 +1,9 @@
 Studentforsikring (Stud01) — Storebrand
-Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/a9e81ebb-bf69-405e-b00b-27ef0bac7526:a63f907f687ac712ff5eddf7282f739ab7ec04ee/vilkar-studentforsikring.pdf
-Sist endret: 2026-08-26T14:44:10Z
+Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/a9e81ebb-bf69-405e-b00b-27ef0bac7526:d98912e69e9251d97184f648473eb4104c64b407/vilkar-studentforsikring.pdf
+Sist endret: 2026-10-20T06:00:06Z
 ============================================================
 
-17100b Vilkår studentforsikring 
+17100c Vilkår studentforsikring 
  
  
 Dette må du vite om forsikringen din 
@@ -65,7 +65,7 @@ Andre gjenstander, maks pr. gjenstand 25 000 500
 Nøkler 25 000 500 
 Sykdom på reise 
 Medisinske utgifter Ubegrenset 
-Tannbehandling ulykke/spising 5 000/1 000 
+i 5 000/1 000 
 Utsettelse av fastsatt reise hjem eller videre Ubegrenset 
 Hjemtransport Ubegrenset 
 Hjemkallelse Ubegrenset 
@@ -1224,7 +1224,7 @@ bolig med forsikrede. En person regnes ikke som samboer dersom det på dødsfall
 som var til hinder for at et lovlig ekteskap kunne inngås, eller at det er åpenbart at et faktisk samlivsbrudd har 
 funnet sted på et tidligere tidspunkt. 
 B.8 NO GO-compensation 
-Forsikringssum NO OG-compensation gjelder 
+Forsikringssum NO GO-compensation gjelder 
 per hendelse 
  
 Summene er i NOK 
