@@ -1,6 +1,6 @@
 Barneforsikring: Pluss, Utvidet og Standard (barn08) – ikke lenger i salg — Storebrand
-Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/d7395d54-c1c1-4952-a928-696df4ee504e:7a5089cb81ae7a356b829f1bb000c0817663a681/vilkar-barneforsikring-barn08.pdf
-Sist endret: 2026-08-26T14:44:10Z
+Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/d7395d54-c1c1-4952-a928-696df4ee504e:d351fc2c341d079c6dac88b94886bb3d59c189f5/vilkar-barneforsikring-barn08.pdf
+Sist endret: 2026-10-27T06:00:07Z
 ============================================================
 
 Vilkår Barneforsikring Standard, Pluss og Utvidet (Barn0 8) 
@@ -422,7 +422,7 @@ sykdom eller skade.
 E.2 Forsikringens omfang og begrensninger 
 E.2.1 Hva forsikringen omfatter 
 Rett til utbetaling av uførekapitalen inntrer når forsikrede blir varig arbeidsufør på grunn av sykdom eller skade, blir 
-innvilget uføretrygd fra Nav og har vært minst 50 % sammenhengende arbeidsufør i minst 2 år. Rett til utbetaling av 
+innvilget uføretrygd fra Nav og har vært minst 50 % sammenhengende arbeidsufør i minst 4 år. Rett til utbetaling av 
 uførekapital inntrer tidligst når forsikrede har fylt 25 år. Kriteriene må oppfylles mens forsikringen er i kraft. 
 E.2.2 Begrensninger 
 Forsikringsforetakets ansvar omfatter ikke: 
