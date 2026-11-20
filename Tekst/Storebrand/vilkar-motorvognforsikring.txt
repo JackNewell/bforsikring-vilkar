@@ -1,6 +1,6 @@
-Motorvogn (motor09) — Storebrand
-Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/7b20f38c-208d-48ca-97f9-f82fab02216f:e9289744b0f0bb00c7304e715377b4be9a0e85d8/vilkar-motorvognforsikring.pdf
-Sist endret: 2026-08-26T14:44:10Z
+Motorvogn (motor10) — Storebrand
+Kilde: https://www.storebrand.no/privat/forsikring/forsikringsvilkar/_/attachment/inline/7b20f38c-208d-48ca-97f9-f82fab02216f:49412a46852264b027eb6ff60fb9f1ad0db8d2a4/vilkar-motorvognforsikring.pdf
+Sist endret: 2026-11-20T06:00:08Z
 ============================================================
 
 17032q Vilkår motorvogn 
@@ -29,11 +29,12 @@ I tillegg til disse vilkårene og forsikringsbeviset gjelder:
  
  
 Vilkår kjøretøy 
-(motor09) 
+(motor10) 
 Kjøretøyforsikring. For kjøretøyer (inkl. tohjulinger og privateide 
 traktorer) med totalvekt inntil 7 500 kg. 
-Gjelder fra 1. april 2025 
+Gjelder fra 15. november 2026 
 
+ 
  1 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 Innhold 
@@ -45,11 +46,11 @@ Innhold
 6. Hvilke skader som dekkes 7 
 7. Leiebilkostnader 17 
 8. Hva forsikringen ikke dekker 19 
-9. Endring av risiko og sikkerhetsforskrifter 19 
-10. Skadeoppgjørsregler 22 
-11. Bonus 25 
-12. Fører- og passasjerulykkesforsikring 26 
-13. Rettshjelp 29 
+9. Endring av risiko og sikkerhetsforskrifter 20 
+10. Skadeoppgjørsregler 23 
+11. Bonus 26 
+12. Fører- og passasjerulykkesforsikring 27 
+13. Rettshjelp 30 
  
  
  
@@ -175,7 +176,7 @@ gjenstående tid
 Skadet motor-/gir og kraftoverføring Gjenanskaffelses-
 verdi 
 Bilnøkkelforsikring 20.000 
-Parkeringsskade uten bonustap 25.000 
+Parkeringsskade uten bonustap Ubegrenset 
 Utvidet bagasjedekning 20.000 
 
  
@@ -191,9 +192,7 @@ Forsikringstaker må ha bostedsadresse i Norge.
 Hvilke skader som dekkes Delkasko Kasko Super 
 Utvidet dekning for tilleggsutstyr 50.000 
 Superforsikring for bobil/campingbil: 
-Fukt-vannskader som følge av lekkasje fra 
-røranlegg 
- 8 år ved årlig 
+Fukt -/vannskader 12 år ved årlig 
 fuktkontroll 
 Feriegaranti 1.500 pr dag / 15 
 dager 
@@ -232,15 +231,12 @@ Gyldig ansvarsforsikring forutsetter at kjøretøyet er påregistrert i Statens 
 I henhold til fullmakt opphører ansvarsforsikringen når det i Statens vegvesen sine systemer framkommer at 
 kjøretøyet er avregistrert, se forsikringsbeviset. Øvrige dekninger fortsetter inntil de sies opp av forsikringstaker. 
 4. Hvor forsikringen gjelder 
-Forsikringen gjelder i Det europeiske økonomiske samarbeidsområde (EØS) og Sveits. Forsikringen gjelder også for 
-reiser av inntil 3 måneders varighet i de øvrige landene i Europa som er omfattet av Grønt kort samarbeidet unntatt 
-Tyrkia. 
-Ved kaskoforsikring gjelder veihjelpsforsikringen i EØS og Sveits. I de øvrige landene i Europa gjelder 
-veihjelpsforsikringen på reiser inntil 3 måneders varighet. 
+Forsikringen gjelder i Europa. 
+Ved super- og kaskoforsikring gjelder veihjelpsforsikringen i Europa. 
 Ved delkaskoforsikring gjelder veihjelpsforsikringen i Norden. 
 Rettshjelpsforsikringen gjelder i Norden. 
 Hvor forsikringen ikke gjelder 
-Forsikringen gjelder ikke i Tyrkia, Russland, Belarus og Kosovo. 
+Forsikringen gjelder ikke i Tyrkia, Russland, Belarus og Kosovo eller land/områder med reiseadvarsel fra DU. 
 5. Hva er forsikret 
 Forutsetning for gyldig forsikring er at kjøretøyet er norskregistrert. 
 Når det er avtalt delkasko, kasko eller super er følgende omfattet: 
@@ -259,6 +255,10 @@ Verdi som nytt
 justert for alder 
 Verdi som nytt 
 justert for alder 
+Sikkerhetsutstyr Ubegrenset Ubegrenset Ubegrenset 
+Fastmontert tilleggsutstyr, dekor og 
+spesiell lakk 
+20.000 20.000 50.000 
 
  
  6 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
@@ -286,18 +286,18 @@ Tilleggsutstyr, dekor og spesiell lakk:
 • Software kjøpt som tilleggspakke etter kjøretøyet ble levert som nytt. 
 • Annet lovlig fast montert tilleggsutstyr. Fast montert utstyr som nevnt i dette punkt, erstattes ikke med mer enn 
 50 % av kjøretøyets gjenanskaffelsesverdi umiddelbart før skaden inntraff. 
-Ladekabel til elbil/hybrid når denne oppbevares i bilen, er forsvarlig låst inn i bod eller skap eller benyttes ved lading. 
-Fastmontert ladestasjon i bygning er ikke omfattet. 
+• Ladekabel til elbil/hybrid når denne oppbevares i bilen, er forsvarlig låst inn i bod eller skap eller benyttes ved 
+lading. Fastmontert ladestasjon i bygning er ikke omfattet. 
+Bagasje: 
+Med bagasje menes personlige eiendeler som en person har med seg under reise eller transport, og som befinner seg 
+i eller på kjøretøyet. Fast montert utstyr eller løst utstyr som naturlig tilhører bilen regnes ikke som bagasje. 
+Penger, verdipapirer og forbruksgjenstander som mat og dagligvarer dekkes ikke. 
 Bagasje i bobil / campingbil erstattes inntil 30.000 kroner på delkasko/kasko og inntil 100.000 kroner på Super. 
 Forsikringsverdi: 
 Forsikringsverdien beregnes etter hva det på skadedagen vil koste Storebrand å anskaffe og omregistrere tilsvarende, 
 eller i det alt vesentlige tilsvarende, utstyrt kjøretøy/del av samme merke, modell, type, årgang, utførelse og stand 
 (gjenanskaffelsesverdien). 
 Hva forsikringen omfatter Delkasko Kasko Super 
-Sikkerhetsutstyr Ubegrenset Ubegrenset Ubegrenset 
-Fastmontert tilleggsutstyr, dekor og 
-spesiell lakk 
-20.000 20.000 50.000 
 Ladekabel til elbil/hybrid Ubegrenset Ubegrenset Ubegrenset 
 Bagasje 10.000 10.000 20.000 
 Bagasje i bobil/campingbil 30.000 30.000 100.000 
@@ -328,7 +328,9 @@ i % per år
 Maks fradrag 
 Klær og skotøy 1 år 10 % 80 % 
 Elektrisk innretning, maskin eller apparat 5 år 10 % 80 % 
-Mobiltelefon og datautstyr 1 år 20 % 80 % 
+Mobiltelefon, pc, nettbrett, smartklokker, 
+lydutstyr og annet datautstyr 
+1 år 20 % 80 % 
 Andre gjenstander enn nevnt over 5 år 5 % 80 % 
  
 Gjenstandens alder beregnes fra og med året etter det første bruksåret 
@@ -338,7 +340,7 @@ premiefastsettelsen. Som forsikringssum for veterankjøretøy og traktor benytte
 forsikringstakers ansvar å sørge for regulering av forsikringssummen. 
 Egenandeler: 
 I erstatningsoppgjøret fratrekkes den egenandel som framgår pr skadeårsak. Skal erstatningen avkortes/settes ned, 
-gjøres dette før egenandelen er fratrukket. 
+gjøres dette etter at egenandelen er fratrukket. 
 Hvis samme skadetilfelle fører til fradrag av flere egenandeler, anvendes kun den høyeste egenandelen. 
 6. Hvilke skader som dekkes 
 Forsikringsbeviset viser hvilken forsikring kjøretøyet har. 
@@ -392,7 +394,7 @@ av brann
 Egenandeler 
 Hvis ikke annet framgår av forsikringsbeviset er egenandelen for brann 8.000 kroner. 
 For moped er egenandelen 4.000 kroner. 
-For skade på ladekabel til elbil eller hybridbil alene er egenandelen 2000 kroner. 
+For skade på ladekabel til elbil eller hybridbil alene er egenandelen 1.000 kroner. 
 6.2.2 Tyveri 
  
 Tyveri eller forsøk på tyveri. 
@@ -404,7 +406,7 @@ annonsemedier. Andre former for underslag er ikke dekket.
 Egenandeler 
 Hvis ikke annet framgår av forsikringsbeviset er egenandelen for tyveri 8.000 kroner. 
 For moped er egenandelen 4.000 kroner. 
-For skade på ladekabel til elbil eller hybridbil alene er egenandelen 2.000 kroner. 
+For skade på ladekabel til elbil eller hybridbil alene er egenandelen 1.000 kroner. 
 Ved innbruddstyveri og det kan dokumenteres at FG*-godkjent alarm var i drift på skadetidspunktet, reduseres 
 egenandelen med 4.000 kroner 
  
@@ -443,14 +445,15 @@ Nærmere presisering av hva veihjelp dekker:
 • tom drivstofftank eller feilfylling 
 • utelåsing eller brukket nøkkel 
 • problemer ved punktering 
-2. Merutgifter til hjemtransport av kjøretøy på rimeligste måte: 
+2. Merutgifter til hjemtransport av kjøretøy inkludert bagasje på rimeligste måte: 
 • hvis kjøretøyet ikke kan repareres innen rimelig tid 
 • hvis fører eller passasjer pga. plutselig sykdom, ulykke eller død ikke kan fortsette reisen 
 Utgifter til slik hjemtransport er begrenset til 50 % av kjøretøyets verdi i den stand det er på 
 hjemsendelsestidspunktet. 
 3. Merutgifter til hjemtransport på rimeligste måte av kjøretøy som kommer til rette etter tyveri, når kunden har reist 
 hjem. 
-4. Hjemreise og opphold for fører og passasjerer på rimeligste måte på grunn av forhold som nevnt over 
+4. Hjemreise og opphold for fører og passasjerer inkludert bagasje på rimeligste måte på grunn av forhold som 
+nevnt over 
 Begrensninger for veihjelp: 
 1. Veihjelp dekker ikke ytelser som er dekket gjennom abonnement, garanti / mobilitetsgaranti, trygd, lov/forskrift 
 eller medlemskap. 
@@ -462,7 +465,6 @@ taues til.
 sykdom eller ulykke må forevise legeerklæring. 
 5. For snøscooter og 3-4-hjuls terrengmotorsykkel, erstattes transportomkostninger med 50 %, begrenset til 
 halvparten av erstatningsbeløpet når skaden er større enn egenandelen. Andre utgifter til transport dekkes ikke. 
-6. Veihjelpforsikringen gjelder ikke kjøretøy registrert som eksportvogn («tollskilt»). 
 Hvilke skader som dekkes Delkasko Kasko Super 
 Transport av kjøretøy til nærmeste 
 verksted eller reparasjon på stedet 
@@ -477,20 +479,23 @@ Ubegrenset I Norden Ubegrenset i Europa Ubegrenset i Europa
  
  11 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
+6. Veihjelpforsikringen gjelder ikke kjøretøy registrert som eksportvogn («tollskilt»). 
 Egenandeler 
 Egenandelen for veihjelp er 750 kroner. 
 6.2.4 Glass skader 
  
-Forsikringen dekker reparasjon eller skifting av alle kjøretøyets ruter ved bruddskade som skyldes tilfeldig, plutselig 
+Forsikringen dekker reparasjon eller skifting av alle kjøretøyets ruter ved skade som skyldes tilfeldig, plutselig, ytre 
 hendelse. 
 Ved skifte av glassruter erstattes ikke mer enn 50 % av gjenanskaffelsesverdien av kjøretøyet umiddelbart før skaden 
 inntraff. 
+Slitasje og riper dekkes ikke. 
 Egenandeler 
 For glass skader er egenandelen 3.000 kroner for skifte av rute. Det er ingen egenandel ved reparasjon av rute. 
 6.2.5 Skader som skyldes naturskade 
  
-Forsikringen dekker skade som direkte skyldes naturskade ved skred, storm, flom, stormflo, jordskjelv eller 
-vulkanutbrudd i Norden. 
+Forsikringen dekker skade på kjøretøyet som direkte skyldes skred, storm, flom, stormflo, jordskjelv eller 
+vulkanutbrudd i Norden. Skade som oppstår fordi kjøretøyet kjører på eller kolliderer med stasjonære gjenstander 
+som er veltet, flyttet eller ført med av naturhendelsen, dekkes ikke som naturskade. 
 Egenandeler 
 Hvis ikke annet framgår av forsikringsbeviset er egenandelen for skade som skyldes naturskade 8000 kroner. 
 6.3 Kaskoforsikring 
@@ -514,12 +519,6 @@ Gjenanskaffelses-
 verdi 
 Gjenanskaffelses-
 verdi 
-Hvilke skader som dekkes Delkasko Kasko Super 
-Skade på eget kjøretøy Gjenanskaffelses-
-verdi 
-Gjenanskaffelses-
-verdi 
-I tillegg skade på bagasje 10.000 20.000 
 
  
  12 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
@@ -527,21 +526,19 @@ I tillegg skade på bagasje 10.000 20.000
 Egenandeler 
 Egenandelen for kaskoskader framgår av forsikringsbeviset. 
 For moped er egenandelen 4.000 kroner. 
-For skade på ladekabel til elbil eller hybridbil alene er egenandelen 2.000 kroner. 
+For skade på ladekabel til elbil eller hybridbil alene er egenandelen 1.000 kroner. 
 Egenandelen reduseres med 6.000 kroner ved skade som skyldes påkjørsel av dyr som går løse på vei, når forholdet 
 omgående har blitt rapportert til politimyndighet eller viltnemnd på stedet. 
 6.4 Superforsikring 
 Når det er spesifisert i forsikringsbeviset at Super er avtalt, er også disse dekningene omfattet i tillegg til punkt 6.2 
-Delkaskoforsikring og punkt 3.3 Kaskoforsikring. 
+Delkaskoforsikring og punkt 6.3 Kaskoforsikring. 
  
-6.4.1 Totalskadegaranti inntil 3 år eller inntil 60.000 km. 
-Forsikringstakeren har rett til nytt kjøretøy av samme merke, modell, type inkludert fabrikkmontert utstyr 
-dersom: 
-• kjøretøyet er tapt eller utgiftene til reparasjon overstiger listepris for tilsvarende nytt kjøretøy, inkludert 
-fabrikkmontert tilleggsutstyr fra importør på skadetidspunktet 
-• kjøretøyet ikke har vært kjørt over 60.000 km, og 
-• skaden inntreffer innen tre år etter at kjøretøyet var registrert som fabrikkny på forsikringstakeren og 
-• kjøretøyet ikke tidligere har vært utsatt for skade som overstiger 10 % av kjøretøyets nyanskaffelsesverdi 
+Hvilke skader som dekkes Delkasko Kasko Super 
+Skade på eget kjøretøy Gjenanskaffelses-
+verdi 
+Gjenanskaffelses-
+verdi 
+I tillegg skade på bagasje 10.000 20.000 
 Hvilke skader som dekkes Delkasko Kasko Super 
 Totalskadegaranti ny bil – rett på ny bil 
 dersom totalskade 
@@ -552,13 +549,11 @@ gjenstående tid
 Skadet motor-/gir og kraftoverføring Gjenanskaffelses-
 verdi 
 Bilnøkkelforsikring 20.000 
-Parkeringsskade uten bonustap 25.000 
+Parkeringsskade uten bonustap Ubegrenset 
 Utvidet bagasjedekning 20.000 
 Utvidet dekning for tilleggsutstyr 50.000 
 For bobil/campingbil: 
-Fukt-vannskader som følge av lekkasje fra 
-røranlegg 
- 8 år ved årlig 
+Fukt-vannskader 12 år ved årlig 
 fuktkontroll 
 Feriegaranti 1.500 pr dag / 15 
 dager 
@@ -567,6 +562,14 @@ Utvidet bagasjedekning 100.000
  
  13 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
+6.4.1 Totalskadegaranti inntil 3 år eller inntil 60.000 km. 
+Forsikringstakeren har rett til nytt kjøretøy av samme merke, modell, type inkludert fabrikkmontert utstyr 
+dersom: 
+• kjøretøyet er tapt eller utgiftene til reparasjon overstiger listepris for tilsvarende nytt kjøretøy, inkludert 
+fabrikkmontert tilleggsutstyr fra importør på skadetidspunktet 
+• kjøretøyet ikke har vært kjørt over 60.000 km, og 
+• skaden inntreffer innen tre år etter at kjøretøyet var registrert som fabrikkny på forsikringstakeren og 
+• kjøretøyet ikke tidligere har vært utsatt for skade som overstiger 10 % av kjøretøyets nyanskaffelsesverdi 
 • kjøretøyet ikke er leaset 
 Samtlige punkter må være oppfylt. 
 Bergings-/transportomkostninger ansees ikke som reparasjonskostnader. 
@@ -574,9 +577,9 @@ Hvis ikke tilsvarende kjøretøy gjenkjøpes eller dokumentasjon etter punktet o
 etter punkt 5 Hva er forsikret og punkt 10 Skadeoppgjørsregler. 
 Ved erstatning etter dette punktet tilfaller det skadede kjøretøyet Storebrand. 
 Egenandeler: 
-Egenandel er avhengig av skadeårsak. Ved brann, tyveri og kaskoskader er egenandelen 8000 kroner hvis ikke annet 
+Egenandel er avhengig av skadeårsa k. Ved brann, tyveri og kaskoskader er egenandelen 8000 kroner hvis ikke annet 
 framgår av forsikringsbeviset. Skyldes totalskaden motor, gir eller kraftoverføring som beskrevet i punkt 6.4.3 er 
-egenandelen 8.000, 15.000 eller 20.000 kroner avhengig av kjørte km. 
+egenandelen det samme som for kasko punkt 6.3. 
 6.4.2 Leaset bil (Startleieforsikring) 
 Dersom – kjøretøyet totalskades i henhold til punkt 6.4.1 eller at kjøretøyet ikke har kommet til rette etter tyveri innen 
 30 dager (totalforsvunnet) betaler Storebrand startleie forholdsmessig nedskrevet ut fra hvor mange måneder som 
@@ -592,6 +595,10 @@ førstegangsregistrert. Ved passert 200.000 km eller 12 år ytes ingen erstatnin
 Forsikringen omfatter: 
 Mekanisk eller elektronisk skade i motor, girkasse, motorstyreenhet og kraftoverføring (bilens drivlinje) som hindrer 
 bilens fremdrift. Skaden må være skjedd plutselig og uforutsett. 
+
+ 
+ 14 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
 Alle serviceintervaller må være fulgt, og bilen må være vedlikeholdt i henhold til fabrikantens/ leverandørens 
 anbefalinger. 
 For biler med diesel- og bensinmotor, dekkes skade på: 
@@ -601,10 +608,6 @@ For biler med diesel- og bensinmotor, dekkes skade på:
 • Innsug- og eksosmanifoil 
 • Turbo, EGR og ladeluftkjøler. 
 • AdBlue system 
-
- 
- 14 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 • Drivstoffets innsprøytningssystems pumpe, dyser og sensorer 
 For gir og kraftoverføring, dekkes skade på: 
 • Innvendige bevegelige deler i girkasse 
@@ -612,7 +615,7 @@ For gir og kraftoverføring, dekkes skade på:
 • Bakaksler, mellomaksler og drivaksler 
 • inntil bilen er kjørt 100 000 km dekkes clutch, dobbeltmasse svinghjul, hovedsylinder, slavesylinder og vaier 
 For elbil og hybridbil, dekkes skade på: 
-• Høyvoltbatteri og høyspentkabel til batteriet inkludert ladekontakt i bilen 
+• Høyvoltbatteri og høyspentkabler til batteri og elmotor inkludert ladekontakt i bilen 
 • Kjølesystem for høyvoltbatteri, inkludert givere 
 • System for høyvoltovervåking 
 • Spenningsomformer 
@@ -624,17 +627,28 @@ For elektroniske komponenter til motor, gir og kraftoverføring, dekkes skade p�
 • Dynamo 
 • Koblingsenhet mellom forbrenningsmotor og girkasse 
 • Motorstyreenhet og sensorer i motorstyring 
+• Styringsenhet til Start/Stop-funksjon 
 • Styringsenheter til girkasse, fordelingskasse og vinkeldrev 
 For styring, dekkes skade på: 
 • Hydraulisk styreservo 
 • Elektromekanisk styreservo 
+• Funksjonsfeil på multifunksjonsratt (feil på belysning i rattet er ikke dekket) 
  For varme- og kjøleapparat, dekkes skade på: 
 • Termostat 
 • Vannpumpe 
 • Radiator 
 • AC pumpe 
+• Fabrikkmontert parkeringsvarmer 
+
+ 
+ 15 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
+For sikkerhet- og komfortsystemer, dekkes skade på: 
+• Styreenhet til airbagsystem 
+• Styreenhet for ABS og TCS 
+• Hovedenhet til infotainmentsystem 
 Følgende komponenter er ikke dekket av forsikringen 
-Forsikringen dekker ikke skade på disse komponentene eller følgeskade forårsaket av disse komponentene: 
+Forsikringen dekker ikke skade på disse komponentene eller Zfølgeskade forårsaket av disse komponentene: 
 • Slanger, filtre og tank til drivstoff 
 • Clutchlamell 
 • Understell, fjæring og bremser, med tilhørende komponenter. 
@@ -644,18 +658,14 @@ Forsikringen dekker ikke skade på disse komponentene eller følgeskade forårsa
 • Kabler og ledningsnett alene 
 • Startbatterier og batterier basert på bly, nikkelkadmium, nikkel-metallhydrid og salt nikkelbatteri 
 • Styrestag 
-
- 
- 15 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 • Drivakselmansjetter 
 • Andre komponenter som ikke direkte er del av bilens drivlinje, selv om disse kan påvirke motor eller fremdrift 
+• Luftbelger og kompressor til luftfjæring 
 Forsikringen omfatter ikke skade: 
-• i form av, eller som skyldes, varmgang, korrosjon/irr, tæring, gradvis forringelse eller slitasje 
-som fabrikant/importør/leverandør/reparatør er ansvarlig for i henhold til avgitt garanti eller på annet 
+• i form av, eller som skyldes, varmgang, korrosjon/irr, tæring, koks, sot, gradvis forringelse eller slitasje 
+• som fabrikant/importør/leverandør/reparatør er ansvarlig for i henhold til avgitt garanti eller på annet 
 rettsgrunnlag. Fører garantikravet ikke frem dekkes skaden etter disse forsikringsvilkår hvis betingelsene ellers er 
 til stede. Storebrand overtar i så fall sikredes krav mot fabrikant/importør/leverandør/reparatør 
-• som følge av kortslutning, oppheting eller annen årsak som ikke fører til åpen ild ref. punkt 6.2.1 Brann 
 • som er dekket under bilens ordinære kaskoforsikring. 
 • som skyldes unormal bruk og belastning av bilen 
 • som skyldes bruk av deler som avviker fra fabrikantens utførelse 
@@ -670,9 +680,13 @@ endres i forhold til hvordan det var da det ble registrert for bruk i Norge.
 • på leasede batterier til elbil der forsikring inngår i leasingkontrakten 
 Unntakene i motorvognvilkårets punkt 8 gjelder fortsatt, så lenge de er relevante. 
 Skadeoppgjør 
-Reparasjon må ikke påbegynnes før Storebrand er varslet om skaden. Er de utskiftede delene vesentlig mer slitt eller 
-forringet enn hva som regnes som normalt, kan Storebrand gjøre skjønnsmessig fradrag for dette. Servicehistorikk må 
-kunne dokumenteres overfor Storebrand. Mangler denne kan det medføre avslag/avkortning på utbetalingen 
+Reparasjon må ikke påbegynnes uten Storebrands samtykke. Er de utskiftede delene vesentlig mer slitt eller forringet 
+enn hva som regnes som normalt, kan Storebrand gjøre skjønnsmessig fradrag for dette. Servicehistorikk må kunne 
+dokumenteres overfor Storebrand. Mangler denne kan det medføre avslag/avkortning på utbetalingen 
+
+ 
+ 16 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
 Egenandeler 
 Egenandelen er avhengig av bilens kilometerstand på skadetidspunktet - se tabell: 
 Bilens kilometerstand på skadetidspunktet Egenandel 
@@ -685,10 +699,6 @@ Skade etter dette punktet medfører ikke bonustap.
 6.4.4 Bilnøkkelforsikring 
 Forsikringen dekker inntil 20.000 kroner for ny nøkkel, programmering og omkoding hos autorisert 
 verksted/låsesmed, dersom nøkkelen er mistet, stjålet eller skadet som følge av ytre påvirkning. 
-
- 
- 16 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 Følgende dekkes ikke av forsikringen: 
 • Nøkler som er gjenglemt 
 • Teknisk feil på nøkkelen alene 
@@ -697,19 +707,20 @@ Følgende dekkes ikke av forsikringen:
 Egenandeler: 
 Egenandel 1.000 kroner. 
 6.4.5 Parkeringsskade uten bonustap 
-Forsikringen dekker erstatningsmessig kaskoskade på parkert kjøretøy med inntil kr. 25 000, uten tap av 
-bonus, når: 
-• skadevolder er annet ukjent kjøretøy og tidspunkt/sted er kjent 
+Forsikringen dekker erstatningsmessig kaskoskade på parkert kjøretøy uten tap av bonus, når: 
+• skadevolder er ukjent og tidspunkt/sted er kjent 
 • reparasjon utføres ved verksted Storebrand har reparasjonsavtale med 
-Ved parkeringsskader over 25.000 kroner er det ordinært bonustap. 
 Egenandeler: 
 Valgt egenandel under kaskoforsikringen gjelder. 
 6.4.6 Utvidet bagasjedekning 
-(Gjelder ikke moped, motorsykkel, snøscooter eller traktor/arbeidsmaskin.) 
 Forsikringen omfatter tyveri av bagasje eller bagasje som skades når bilen har vært utsatt for en skade som avsluttes 
 med utbetaling etter brann, tyveri eller kaskoskade. 
 Penger, verdipapirer o.l dekkes ikke. 
 Erstatningen er begrenset til 20 000 kroner. 
+
+ 
+ 17 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
 6.4.7 Utvidet dekning for fastmontert tilleggsutstyr 
 Forsikringen omfatter fastmontert tilleggsutstyr som beskrevet i punkt 5 – begrenset til 50.000 kroner: 
 • folie og lakk utover originalt 
@@ -720,19 +731,14 @@ Forsikringen omfatter fastmontert tilleggsutstyr som beskrevet i punkt 5 – beg
 • annet lovlig fast montert tilleggsutstyr. 
 Fast montert utstyr som nevnt i dette punkt, erstattes ikke med mer enn 50 % av kjøretøyet gjenanskaffelsesverdi 
 umiddelbart før skaden inntraff. 
- 
-
- 
- 17 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 6.4.8 Bobil/campingbil superdekning 
 1. Fukt- og vannskader. 
-Gjelder for bobil/campingbil som er nyere enn 8 år fra produksjonsår. 
-Dekker skader som følge av lekkasje fra bobilens røranlegg for ferskvann/avløp og varmesystem. 
-Etter godkjent, og bestått, fuktkontroll foretatt av autorisert caravanforhandler dekkes fuktskader i inntil 1 år etter 
-godkjent kontroll. For å opprettholde dekningen kreves ny kontroll. Dekningen bortfaller om forsikringen opphører. 
+Gjelder for bobil/campingbil som er nyere enn 12 år fra produksjonsår. 
+Dekker fuktskader i vegger, tak og gulv. Fuktkontroll uten anmerkninger skal være utført av forhandler eller godkjent 
+verksted mindre enn 1 år før skaden oppdages, og det skal være utført årlige fuktkontroller siden bobilen var ny. 
+For å opprettholde dekningen kreves ny årlig kontroll. Dekningen bortfaller om forsikringen opphører. 
 Fukt/vannskader som ikke dekkes: 
-Skader som skyldes frost eller hvor frost er en medvirkende skadeårsak 
+Skader som skyldes frost eller hvor frost og/eller snøtyngde er en medvirkende skadeårsak 
 Egenandeler: 
 Egenandelen for fukt-/vannskader er 8.000 kroner. 
 2. Feriegaranti 
@@ -743,6 +749,12 @@ Krav må dokumenteres ovenfor Storebrand.
 Forsikringen utvides til å omfatte 100.000 kroner i dekning på løsøre og personlige eiendeler i bobilen. 
 7. Leiebilkostnader 
 Når det fremgår av Forsikringsbeviset at det er avtalt dekning av leiebilkostnader, gjelder dette punktet. 
+Hvilke skader som dekkes Delkasko Kasko Super 
+Leiebil i inntil 60 dager Inntil klasse C (liten) Inntil klasse C (liten) 
+
+ 
+ 18 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
  
 Forutsetning for dekning av leiebilkostnader er at skaden på kjøretøyet avsluttes med utbetaling under 
 kaskoforsikringen, at kjøretøyet har vært utsatt for brann eller tyveri eller at skaden dekkes av ansvarsforsikringen til 
@@ -750,18 +762,7 @@ skadevolder. Ved superdekning gis det også rett på leiebil ved skader under pu
 kraftoverføring. 
 Bruk av leiebil og valg av leiebilfirma skal godkjennes av Storebrand på forhånd. 
 Erstatning for leiebilkostnader gis ikke ved glassruteskade alene. 
-Hvilke skader som dekkes Delkasko Kasko Super 
-Leiebil i inntil 60 dager Inntil klasse C (liten) Inntil klasse C (liten) 
-Utvidet leiebil i inntil 60 dager Inntil klasse I 
-(mellomstor / 
-stasjonsvogn) 
-Inntil klasse I 
-(mellomstor / 
-stasjonsvogn) 
-
- 
- 18 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
+Forsikringen gir ikke rett til leiebil dersom skaden er dekket av garanti eller reklamasjonsrett. 
 7.1 Erstatningsberegning. 
 Ved leiebilkostnader fra leiebilfirma som Storebrand har avtale med, dekkes leiebil inntil maksimalt klasse C / 
 Compact, men ikke større bilgruppe enn den skadde bilen. Hvis det framgår av forsikringsbeviset at utvidet leiebil er 
@@ -783,20 +784,28 @@ beregnes et ventetillegg for det antall dager det virkelig er ventet, men ikke m
 Ved kondemnasjon av kjøretøyet har sikrede krav på leiebil fra skaden ble meldt og i 15 dager etter at Storebrand har 
 tatt stilling til erstatningsspørsmålet og meddelelse om dette er sendt sikrede. Benyttes ikke leiebil betales 
 erstatningen med 250 kroner pr. dag i 15 dager. 
+Hvilke skader som dekkes Delkasko Kasko Super 
+Utvidet leiebil i inntil 60 dager Inntil klasse I 
+(mellomstor / 
+stasjonsvogn) 
+Inntil klasse I 
+(mellomstor / 
+stasjonsvogn) 
+
+ 
+ 19 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
 Ved tyveri betales leiebil for den faktiske tid sikrede har vært uten bil. Kommer bilen ikke til rette, gis leiebilerstatning 
 for den faktiske tid sikrede har vært uten bil og i 15 dager etter at Storebrand har tilbudt erstatning eller tatt stilling til 
 erstatningsspørsmålet. Benyttes ikke leiebil gis kontant erstatning med 250 kroner pr. dag i 15 dager. Hvis kjøretøyet 
 kommer til rette og må repareres som følge av tyveriet, har forsikringstaker også krav på leiebil mens kjøretøyet 
 repareres. 
 Ved superdekning og skader under punkt 6.4.3 Skadet motor, gir og kraftoverføring, dekkes leiebil i 15 dager uten 
-særskilt egenandel inntil Storebrand har tatt stilling til skaden, og dette er meddelt sikrede. Er skaden 
-erstatningsmessig, betales det for leiebil i inntil 60 dager. 
+særskilt egenandel inntil Storebrand har tatt stilling til skaden, og dette er meddelt sikrede. Det samme gjelder 
+dersom reparasjonskostnadene er mindre enn egenandelen. 
+Er skaden erstatningsmessig og reparasjonskostnadene overstiger egenandelen, betales det for leiebil i inntil 60 
+dager. 
 Dersom kjøretøyet er utilgjengelig fordi veiforbindelsen er brutt etter naturulykke, dekkes leiebil i inntil 10 dager. 
- 
-
- 
- 19 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 8. Hva forsikringen ikke dekker 
 Forsikringen omfatter ikke erstatning for: 
 1. Skade som oppstår når kjøretøyet er rekvirert av offentlig myndighet 
@@ -828,70 +837,79 @@ slik kjøring.
 15. Skade på kjøretøy som er trimmet/tunet/ombygget eller hvor software er endret, og hvor dette ikke er godkjent 
 av Statens Vegvesen. Med ombygging menes alt som gjør at kjøretøyets tekniske spesifikasjoner og utseende 
 endres i forhold til hvordan det var da det ble registrert for bruk i Norge. 
-16. Gjenstander som er kjøpt, eller mottatt som gave, utenfor Norge og som ikke er deklarert ved innførsel i henhold 
-til gjeldende regelverk. 
-17. Skader som inntreffer når kjøretøyet er utleid privat mot betaling eller er utleid via selskap/aktør som formidler 
-utleie dersom ikke annet er avtalt med Storebrand 
-18. Skader som inntreffer når kjøretøyet benyttes til næringsvirksomhet dersom ikke annet er avtalt med Storebrand. 
-Næringsvirksomhet omfatter også håndverker biler som benyttes til og fra arbeidssted, samt til og fra kunder og 
-leverandører. 
- 
-9. Endring av risiko og sikkerhetsforskrifter 
-Bestemmelsene i dette punkt gjelder også for andre som er ansvarlig for kjøretøyet jf. FAL § 4-11 (handlinger og 
-unnlatelser fra sikredes slektninger, hjelpere og liknende personer) 
 
  
  20 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
-9.1 Forbehold om å redusere erstatningen ved endring av risikoen 
-Endres Storebrands risiko for skader i forhold til det som er beskrevet i Forsikringsbeviset, plikter forsikringstakeren 
+16. Gjenstander som er kjøpt, eller mottatt som gave, utenfor Norge og som ikke er deklarert ved innførsel i henhold 
+til gjeldende regelverk. 
+17. Skade på eller forårsaket av kjøretøy med bruksforbud 
+8.1 Spesielt for utleie og næringsbruk 
+Hvis ikke annet er avtalt med Storebrand omfatter ikke forsikringen erstatning for: 
+1. Skader som inntreffer når kjøretøyet er utleid 
+2. Skader som inntreffer når kjøretøyet benyttes til næringsvirksomhet 
+Hva som inngår i utleie og næringsvirksomhet er beskrevet i punkt 9.4.4. 
+9. Endring av risiko og sikkerhetsforskrifter 
+Bestemmelsene i dette punkt gjelder også for andre som er ansvarlig for kjøretøyet jf. FAL § 4-11 (handlinger og 
+unnlatelser fra sikredes slektninger, hjelpere og liknende personer) 
+9.1 Forbehold om ansvarsfrihet ved endring av bestemte, vesentlige 
+risikoforhold (fal. § 4-6) 
+Storebrand kan være helt eller delvis uten ansvar dersom følgende bestemt angitte forhold, som har vesentlig 
+betydning for risikoen, blir endret i forsikringstiden: 
+• Bruk av kjøretøyet i strid med forutsetninger gitt i forsikringsbeviset, herunder utleie, næringsvirksomhet 
+(9.2.4), eller begrensninger som gjelder for avregistrerte kjøretøy eller kjøretøy med bruksforbud 
+• Endring av motorytelse/ombygging der endringen/ombyggingen ikke er godkjent av Statens Vegvesen 
+9.2 Forbehold om forholdsmessig nedsettelse ved premierelevant 
+bruksendring (fal. § 4-7) 
+Endres et av de følgende forhold, som premieberegningen uttrykkelig er gjort avhengig av, plikter forsikringstakeren 
 straks å informere Storebrand. 
-Følgene av å unnlate å gi Storebrand beskjed om endringer av risikoen som betinger høyere premie enn den som er 
-betalt er: 
-• Ved delkasko-, kasko- eller superskader begrenses Storebrands ansvar til forholdet mellom den premie som er 
-betalt og den som skulle ha vært betalt 
-• Ved ansvarsskade har Storebrand tilsvarende regressrett overfor forsikringstakeren 
-• Dersom Storebrand ikke ville inngått en forsikringsavtale ved de endrede forhold, vil Storebrand være fri for 
-ansvar 
-Forhold som regnes som endring av risikoen: 
+Følgene av å unnlate å gi Storebrand beskjed om en slik endring som betinger høyere premie enn den som er betalt, 
+er at Storebrands ansvar ved delkasko-, kasko- eller superskader begrenses til forholdet mellom den premie som er 
+betalt og den som skulle ha vært betalt. Ved ansvarsskade har Storebrand tilsvarende regressrett overfor 
+forsikringstakeren. 
+Forhold som regnes som endring av risikoen etter dette punktet: 
 • Endring av motorytelse/ombygging der endringen/ombyggingen er godkjent av Statens Vegvesen, men 
 Storebrand ikke har mottatt melding om endringen/ombyggingen. 
-• Bruk av kjøretøyet som strider mot forutsetninger gitt i Forsikringsbeviset. 
-• Overskridelse av den avtalte kjørelengde. Ved skade blir kilometerstand på skadetidspunktet sammenholdt med 
-de kilometerbegrensninger som framgår av Forsikringsbeviset og tidspunkt for disse avlesninger, uavhengig av 
-forsikringsavtalens gyldighetsperiode. Konstateres overskridelse, anses denne i sin helhet å ha funnet sted i 
-inneværende forsikringsår. Forsikringstaker har plikt til å betale premie for korrekt årlig kjørelengdeintervall for 
-hele inneværende forsikringsår selv om meddelelse om overskridelse og påfølgende korreksjon skjer etter at den 
-avtalte kjørelengde faktisk er overskredet. 
-• Hvis det er gitt rabatt for og avtalt at kjøretøyet ikke skal brukes av fører under 23 år, og fører i skadeøyeblikket er 
-under denne alderen, økes egenandelen med 15 000 kroner. 
-• Endring av andre avtalte forutsetninger for reduksjon av forsikringspremien. Hvilke forutsetninger som er avtalt, 
-vil framgå av Forsikringsbeviset. 
-9.2 Sikkerhetsforskrifter. 
+• Overskridelse av den avtalte kjørelengde. Ved skade blir kilometerstand på skadetidspunktet sammenholdt 
+med de kilometerbegrensninger som framgår av Forsikringsbeviset og tidspunkt for disse avlesninger, 
+uavhengig av forsikringsavtalens gyldighetsperiode. Konstateres overskridelse, anses denne i sin helhet å ha 
+funnet sted i inneværende forsikringsår. Forsikringstaker har plikt til å betale premie for korrekt årlig 
+kjørelengdeintervall for hele inneværende forsikringsår selv om meddelelse om overskridelse og påfølgende 
+korreksjon skjer etter at den avtalte kjørelengde faktisk er overskredet. 
+• Hvis det er gitt rabatt for og avtalt at kjøretøyet ikke skal brukes av fører under 23 år, og fører i 
+skadeøyeblikket er under denne alderen, økes egenandelen med 15 000 kroner. 
+
+ 
+ 21 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
+• Endring av andre avtalte forutsetninger for reduksjon av forsikringspremien. Hvilke forutsetninger som er 
+avtalt, vil framgå av Forsikringsbeviset. 
+9.3 Meldeplikt 
+Forsikringstakeren plikter straks å informere Storebrand dersom det skjer en endring som nevnt i punkt 9.1 eller 9.2. 
+9.4 Sikkerhetsforskrifter. 
 Sikkerhetsforskrifter er aktsomhetsregler som er fastsatt for å forebygge og begrense skade. Har sikrede ikke 
 overholdt sikkerhetsforskriftene, eller påsett at de blir overholdt, kan retten til erstatning bli redusert eller falle bort (jf. 
 FAL § 4-8 overtredelse av sikkerhetsforskrifter). 
-9.2.1 Bruk og vedlikehold. 
-• Kjøretøyet skal tilfredsstille kravene gitt i forskrift om bruk av kjøretøy, både med hensyn til utførelse og 
-vedlikehold. Fabrikantens foreskrevne serviceintervaller må overholdes og kunne dokumenteres. Kjøretøyets 
-væskekjølesystem skal være påfylt frosthindrende middel tilpasset de klimatiske forhold 
+9.4.1 Bruk og vedlikehold. 
+• Kjøretøyet skal tilfredsstille kravene gitt i forskrift om bruk av kjøretøy («Forskrift om tekniske krav og godkjenning 
+av kjøretøy, deler og utstyr»), både med hensyn til utførelse og vedlikehold. På forespørsel vil Storebrand gi et 
+eksemplar av forskriften. 
+• Fabrikantens foreskrevne serviceintervaller må overholdes og kunne dokumenteres. Service skal utføres av 
+bilverksted godkjent av Statens vegvesen og må kunne dokumenteres. Motoreffekten (hk) må ikke endres. 
+• Kjøretøyets væskekjølesystem skal være påfylt frosthindrende middel tilpasset de klimatiske forhold 
 • Kjøretøyets fører skal ha de førerkort, kjøresedler, bevis og sertifikater myndighetene krever for den klasse og 
 brukstype kjøretøyet tilhører 
 • Under øvelseskjøring skal de krav som Vegtrafikkloven og stedlige politimyndigheter stiller, være oppfylt. 
 • Kjøretøyet skal ikke belastes utover hva som er angitt i vognkortet 
 • Produsentens og importørens veiledning for bruk av kjøretøyet, bl.a. valg av drivstoff, slep av bil, starthjelp og 
 andre bestemmelser og anbefalinger skal følges 
-
- 
- 21 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 • Elektrisk kurs som benyttes til lading av elbil/hybridbil ved sikredes bopel/hovedladested, skal være sikret med 
 overspenningsvern 
 • Veterankjøretøy skal være i god original stand. Forsikringstaker skal ha en fotodokumentasjon av 
 veterankjøretøyet på minst 10 bilder, som kan vises ved en eventuell skade 
 • Veterankjøretøy skal ikke være i daglig bruk eller benyttes til og fra arbeidsstedet. Årlig kjørelengde er begrenset 
 til 5000 km. 
-9.2.2 Skjermbruk under kjøring 
+9.4.2 Skjermbruk under kjøring 
 • Fører av et kjøretøy må ikke bruke mobiltelefon under kjøring 
 • Fører kan likevel bruke mobiltelefonen til å starte opp, gjennomføre og avslutte en samtale når mobiltelefonen 
 under kjøringen er håndfri eller er plassert i en holder 
@@ -900,7 +918,11 @@ under kjøring som praktisk mulig, med mindre holderen er en integrert del av kj
 • Når mobiltelefonen brukes håndfritt, kan den også benyttes til å styre og avspille lydfiler 
 • Ved bruk av kjøretøyets integrerte skjermer skal oppmerksomheten fortsatt være rettet mot trafikken for å unngå 
 ulykker 
-9.2.3 Tyveri/hærverk/underslag. 
+
+ 
+ 22 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 
+9.4.3 Tyveri/hærverk/underslag. 
 • Bil skal holdes lukket og låst når det ikke er personer i den. Andre kjøretøy og tilhenger skal minst være låst med 
 original(e) lås(er) når ikke i bruk. Nøkkel skal oppbevares betryggende, utilgjengelig for uvedkommende og 
 borte fra kjøretøyet og tenningen skal være slått av. 
@@ -920,15 +942,29 @@ vegg/tak/gulv
 kamera, smykker, klokker og pels skal, når kjøretøyet forlates, befinne seg i separat, lukket bagasjerom uten 
 vinduer. Det samme gjelder håndvesker og bager. 
 • Veterankjøretøy skal oppbevares i låst bygning når det ikke er i bruk. 
-9.2.4 For superforsikring gjelder: 
+9.4.4 Utleie og næringsvirksomhet 
+Kjøretøyet skal ikke benyttes til utleie eller næringsvirksomhet hvis ikke annet er avtalt med Storebrand. 
+Med dette menes: 
+a. at kjøretøyet benyttes til transport av personer mot vederlag, herunder som taxi, i samkjøringsordning mot 
+betaling eller annen persontransportvirksomhet; 
+b. at kjøretøyet benyttes til transport av gods, varer eller post mot vederlag for sikrede eller andre enn sikrede 
+selv, herunder budkjøring, budbilvirksomhet og distribusjonsoppdrag for plattformer, virksomheter eller 
+privatpersoner; 
+c. at kjøretøyet leies ut til andre mot vederlag, herunder gjennom bilutleieselskap eller formidlingstjeneste for 
+privat billeie; 
+d. at kjøretøyet for øvrig benyttes som ledd i en virksomhet, et enkeltpersonforetak, et selskap eller annen 
+ervervsmessig aktivitet som drives med sikte på å oppnå et økonomisk resultat, og hvor bruken av kjøretøyet 
+inngår som et driftsmiddel i denne aktiviteten. 
+9.4.5 For superforsikring gjelder: 
 Sikkerhetsforskrifter motor, gir og kraftoverføring 
-• Bilens vedlikehold skal tilfredsstille fabrikantens krav (service) 
+• Bilens vedlikehold skal tilfredsstille fabrikantens krav (service). Service skal utføres av bilverksted godkjent av 
+Statens vegvesen og må kunne dokumenteres. Motoreffekten (hk) må ikke endres. 
 • Motorolje skal peiles for å kontrollere korrekt nivå og skiftes i henhold til intervall gitt av fabrikanten 
 • Har motor registerreim, skal denne skiftes etter intervaller satt av fabrikanten 
 • Ved høyt oljeforbruk skal sikrede sørge for å få klarlagt årsak 
 
  
- 22 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 23 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 Sikkerhetsforskrift fukt/vannskader for bobil/campingbil 
 • Fabrikantens anbefalinger for vedlikehold skal følges 
@@ -966,11 +1002,11 @@ alternativ til reparasjon, kan Storebrand i slike tilfeller erstatte skaden med 
 Reparasjon kan bare startes med Storebrands samtykke. 
 
  
- 23 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 24 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 Ved skade på bilglass i henhold til punkt 6.2.4, er det ikke nødvendig å innhente samtykke dersom et av Storebrands 
 samarbeidende glassverksteder anvendes. 
-Storebrand kan avgjøre om og hvor reparasjonen skal foretas. 
+Storebrand avgjør om og hvor reparasjonen skal foretas. Det gis ikke kontantoppgjør dersom skaden kan repareres. 
 Dersom en skadet del ikke lar seg gjenanskaffe fordi den er gått ut av produksjon eller ikke kan leveres, kan 
 Storebrand velge å utbetale en kontantsum basert på siste kjente pris på delen. 
 En eventuell verdiforringelse, eller tap av garantiavtale etter fullført reparasjon, erstattes ikke dersom det ikke 
@@ -1002,7 +1038,7 @@ verdien av fast montert utstyr på skadetidspunktet, og
 • kjøretøyet ikke tidligere har vært utsatt for skade som overstiger 10 % av kjøretøyets nyanskaffelsesverdi, og 
 
  
- 24 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 25 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 • kjøretøyet ikke er leaset eller anvendes som drosje, trafikkskolebil, utleiebil, ambulanse, utrykningsbil eller er 
 skadet under kjøring med prøvekjennemerke, og 
@@ -1036,7 +1072,7 @@ hvis premien ikke var betalt, plikter sikrede eller den ansvarlige å betale bel
 gjelder i den utstrekning sikrede har gitt uriktige opplysninger om kjøretøyets tilstand i forbindelse med skade. 
 
  
- 25 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 26 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 10.7 Handlinger eller unnlatelser fra andre en sikrede (Identifikasjon) 
 Hvis sikredes rett til erstatning helt eller delvis bortfaller som følge av sikredes handlinger eller unnlatelser, gjelder 
@@ -1057,6 +1093,8 @@ eller viltnemnd på stedet
 • Skader som følge av feilfylling av drivstoff 
 • Skader som dekkes av superdekningens bilnøkkelforsikring og parkeringsskade uten bonustap 
 • Skader som oppstår under øvelseskjøring 
+• Skader forårsaket av mus 
+• Punktering der det kun er skade på dekk 
 11.3 Opparbeiding av bonus. 
 Det gis 10 % bonus etter hvert skadefrie år opp til 70 %. Etter 3 skadefrie år med 70 % bonus, gis 75 % bonus. 
 11.4 Bonustap. 
@@ -1071,7 +1109,7 @@ til 70 % bonus
 Regulering av premie foretas ved første hovedforfall etter at skaden har skjedd. 
 
  
- 26 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 27 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 Storebrand har rett til å foreta kontroll av opplysningene om bonus og/eller tidligere forsikringsforhold som 
 forsikringstakeren, eller noen på hans/hennes vegne, gir ved inngåelse av forsikringsavtalen. 
@@ -1102,7 +1140,7 @@ erstatningen 500 000 kroner. Erstatningen utbetales som en prosentvis andel av f
 den medisinske invaliditetsgraden 
 
  
- 27 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 28 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 12.4 Hvilke begrensinger som gjelder 
 Storebrand svarer ikke for: 
@@ -1145,7 +1183,7 @@ Storebrand kan ikke påberope seg reglene i første ledd dersom den forsikrede p
 sinnstilstand ikke kunne forstå rekkevidden av sin handling. 
 
  
- 28 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 29 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 12.5 Skadeoppgjør. 
 12.5.1 Plikter ved skade. 
@@ -1185,7 +1223,7 @@ vurdering på samme måte som for yrkesskade (kalt reduksjonsmetoden). Dersom ul
 funksjonsnedsettelse, gjøres fradrag i medisinsk invaliditet tilsvarende tidligere funksjonsnedsettelse. Når andre 
 
  
- 29 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 30 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 forhold medvirker til at den medisinske invaliditetsgraden blir høyrere enn det skaden alene tilsier, ytes 
 forholdsmessig erstatning. Se også pkt. 12.4) 
@@ -1220,7 +1258,7 @@ Utgifter til rettsmegling, inkludert forberedelser til slik megling. Utgifter ti
 sakkyndige som ikke er oppnevnt av retten, dekkes bare når utgiftene på forhånd er godkjent av Storebrand. Utgifter 
 
  
- 30 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 31 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 til vitner dekkes bare ved hovedforhandling og bevisopptak. Tilkjente saksomkostninger går til fradrag. Likevel dekkes 
 slike saksomkostninger når sikrede kan godtgjøre at motparten ikke er søkegod. 
@@ -1263,7 +1301,7 @@ menes de forhold som danner grunnlaget for tvisten.
 • Tvist mellom eiere av samme bil. 
 
  
- 31 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
+ 32 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
  
 • Rettsgebyr i ankeinstans. 
 • Idømte saksomkostninger. 
@@ -1272,15 +1310,14 @@ menes de forhold som danner grunnlaget for tvisten.
 • Tvist som åpenbart ikke kan vinne frem. 
 • Tvist som gjelder Storebrands avslag på dekning av rettshjelpsforsikring. 
 13.5 Forsikringssum. 
-Den samlede erstatning ved hver tvist er inntil 100 000 kroner. Den samlede erstatning ved hver tvist er begrenset til 
-forsikringssummen selv om det er flere parter på samme side. Dette gjelder også om partene har tegnet forsikring i 
-ulike forsikringsselskaper. 
-Dersom det er flere parter 3 eller flere parter på sikredes side i tvisten, er den samlede erstatningen ved hver tvist 
-begrenset til: 
-3-10 parter – forsikringssum pr tvist kr. 250.000 kroner 
-11-25 parter – forsikringssum pr tvist kr. 500.000 kroner 
-26-49 parter – forsikringssum pr tvist kr. 750.000 kroner 
-50 eller flere parter – forsikringssum pr tvist kr. 1.000.000 kroner 
+Den samlede erstatning ved hver tvist er begrenset til forsikringssummen selv om det er flere parter på samme side. 
+Alle som er sikret under forsikringen regnes som én part 
+Erstatningen er under enhver omstendighet begrenset til den økonomiske verdi av sikredes interesse i saken. 
+Selskapets ansvar er under enhver omstendighet begrenset til den antatte økonomiske verdi av sikredes interesse i 
+saken, dersom utgiftene ikke er godkjent av Selskapet på forhånd. 
+I de tilfeller det er tre eller flere parter på sikredes side og de faktiske og juridiske problemstillinger i det alt vesentlige 
+er de samme er den samlede forsikringssummen begrenset til 250 000 kroner. Dette gjelder også om partene har 
+tegnet forsikring i ulike forsikringsselskaper. 
 13.6 Egenandel. 
 Sikredes egenandel under rettshjelpsforsikringen er 4.000 kroner med tillegg av 20 % av det resterende 
 erstatningsbeløp. 
@@ -1299,9 +1336,5 @@ Sikrede skal informere Storebrand om hvilke utgifter som er påløpt under event
 på offentlig forvaltningsvedtak. Ved krav om oppgjør har Storebrand den samme rett som sikrede til å få dokumentert 
 hvordan advokaten har beregnet sitt salær. Medgått tid skal spesifiseres. Før endelig oppgjør foretas, skal Storebrand 
 ha dokumentasjon for at egenandel er betalt. Salær avregnes maksimalt 2 ganger i året overfor advokaten. Spørsmål 
-
- 
- 32 Storebrand Forsikring AS Professor Kohts vei 9, Postboks 500, N-1327 Lysaker, Telefon 915 08 880, storebrand.no 
- 
 om utgiftenes rimelighet kan forelegges Den Norske Advokatforening. Storebrand kan kreve at sikrede begjærer 
 salæret fastsatt av retten i henhold til tvisteloven § 3-8.

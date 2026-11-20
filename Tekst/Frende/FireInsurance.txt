@@ -1,6 +1,6 @@
 Vilkår brannforsikring — Frende
 Kilde: https://api.frende.no/documents/terms/public/pnc/FireInsurance
-Sist endret: 2026-08-26T14:44:10Z
+Sist endret: 2026-11-20T06:00:08Z
 ============================================================
 
 Vilkår for brannforsikring
@@ -22,7 +22,7 @@ Innhold
 3.4 Innbo 3
 3.5 Andre ting 3
 Hoveddekning som gjelder for alle forsikringer
-4. Brann og naturskade 4
+4. Brann og naturskade 3
 5. Slik regner vi ut erstatningen 4
 6. Erstatningsansvar som eier av bygning eller ting 9
 Dekninger som bare gjelder når en privatperson er forsikret
@@ -31,8 +31,8 @@ Disse kravene stiller vi til deg
 8. Vi må få riktige opplysninger 12
 9. Dette kan du ikke bruke bygningen til 12
 10. Dette må du gjøre for å unngå skade – sikkerhetsforskrifter 12
-11. Frist for å melde krav 16
-Vilkår av 01. januar 2026
+11. Frist for å melde krav 17
+Vilkår av 20. november 2026
 
 1. Hvem som er forsikret - sikrede
 Reglene om hvem som er forsikret i
@@ -112,7 +112,7 @@ eller kjøle- og fryseanlegg
 3. utvendige ledninger som benyttes til transport av
 varer
 4. brønn, borehull, infiltrasjonsledning, spredeledning
-Side 2 av 16Vilkår for brannforsikring
+Side 2 av 17Vilkår for brannforsikring
 
 og spredegrøft
 5. grunn eller tomtens verdi
@@ -193,9 +193,9 @@ skyldes
 fenomen
 2. eksplosjon eller sprengning
 3. naturskade. Med naturskade mener vi skader som
-direkte skyldes naturulykke i form av skred, storm,
-Side 3 av 16Vilkår for brannforsikring
+Side 3 av 17Vilkår for brannforsikring
 
+direkte skyldes naturulykke i form av skred, storm,
 stormflo, flodbølge, meteorittnedslag, jordskjelv
 eller vulkanutbrudd, som er omfattet av loven om
 naturskadeforsikring.
@@ -274,9 +274,9 @@ firma normalt ville brukt på jobben.
 Vi erstatter ikke merkostnader som skyldes at bygning
 eller bygningsdeler er revet uten godkjenning fra Frende.
 Vi erstatter heller ikke merkostnader som skyldes
-urasjonell byggemåte eller utstyr.
-Side 4 av 16Vilkår for brannforsikring
+Side 4 av 17Vilkår for brannforsikring
 
+urasjonell byggemåte eller utstyr.
 Vi fastsetter skadens økonomiske omfang ved skjønn
 hvis du eller Frende krever det. Skjønnet fastsetter det
 maksimale erstatningsansvaret Frende har. Du finner
@@ -354,9 +354,9 @@ erstatter vi bare den delen av skaden som tilsvarer
 verdien før endringen.
 5.8 Tap ved at du ikke kan bruke bygningen
 Hvis du ikke kan bo i eller leie ut eget hus eller hytte på
-grunn av skaden, erstatter vi tapet ditt. Vi regner tapet
-Side 5 av 16Vilkår for brannforsikring
+Side 5 av 17Vilkår for brannforsikring
 
+grunn av skaden, erstatter vi tapet ditt. Vi regner tapet
 fra dagen skaden skjedde til reparasjon eller
 gjenoppbygging har skjedd, eller normalt kunne ha
 skjedd.
@@ -434,7 +434,7 @@ andre forhold som reduserer verdien. For varer som har
 redusert verdi på grunn av ukurans eller som skal selges
 til redusert pris, skal verdien reduseres i samme forhold
 som reduksjon i ukurans/salgspris.
-Side 6 av 16Vilkår for brannforsikring
+Side 6 av 17Vilkår for brannforsikring
 
 Erstatningen er begrenset til forsikringssummen som er
 spesifisert i forsikringsbeviset.
@@ -452,7 +452,8 @@ skadede gjenstand og av kostnader som er nødvendige
 for å få utført reparasjon av den skadede gjenstand.
 Ved ulik alder på skadde deler legges den eldste delens
 alder til grunn for hele erstatningsberegningen.
-For plasthall, banedekke og solcellepanel gjelder:
+For plasthall, banedekke, solcellepanel og flytebrygge
+gjelder:
 Plasthall Ti prosent for hvert år
 plasthallen er eldre enn ti
 år
@@ -462,8 +463,10 @@ ti år
 Solcellepanel Ti prosent for hvert år
 anlegget er eldre enn
 fem år
-For trebrygger og flytebrygger regnes ikke
-aldersfradrag.
+Flytebrygge Ti prosent for hvert år
+anlegget er eldre enn ti
+år. Maks 50 prosent.
+For trebrygger regnes ikke aldersfradrag.
 5.15 Aldersfradrag
 Hvis en skade skyldes kortslutning, elektrisk fenomen
 eller brudd på ledninger eller utstyr gjør vi fradrag i
@@ -525,12 +528,12 @@ tapet som panthaver får på grunn av skaden når pantet
 selges.
 Er Frende ansvarlig overfor panthaveren, men ikke
 overfor eieren, trer Frende inn i panthaverens rett. Dette
+Side 7 av 17Vilkår for brannforsikring
+
 skjer hvis det betales erstatning til panthaveren. Når
 Frende trer inn i panthaverens rett, gjelder dette likevel
 ikke til fortrengsel for panterettigheter som gjaldt da
 forsikringstilfellet inntraff og som omfattes av
-Side 7 av 16Vilkår for brannforsikring
-
 dekningen.
 5.17 Konkursbo og dødsbo
 Overfor konkursbo er Frendes ansvar begrenset til det
@@ -606,10 +609,10 @@ eiendomsrett, panterett eller annen tinglyst
 sikkerhetsrett før vi betaler.
 Vi erstatter merverdiavgift du har betalt med mindre du
 kan fradragsføre den i merverdiregnskapet ditt.
+Side 8 av 17Vilkår for brannforsikring
+
 5.22 Særregler når bygningen blir gjenoppbygget
 eller reparert av ny eier
-Side 8 av 16Vilkår for brannforsikring
-
 Hvis bygningen ikke blir gjenoppført eller reparert av den
 som var bygningens eier på skadetidspunktet, eller
 ektefelle, samboer eller livsarving, er erstatningen
@@ -691,12 +694,12 @@ Du må ikke påta deg erstatningsplikt eller forhandle om
 erstatningskravet uten godkjennelse fra Frende. Vi har
 rett til å betale erstatningen direkte til skadelidte.
 Alle skader som skyldes samme hendelse, eller som
+Side 9 av 17Vilkår for brannforsikring
+
 skyldes en sammenhengende kjede av hendelser,
 regnes som ett og samme skadetilfelle. Skaden skal
 behandles etter vilkårene som gjaldt da første skade ble
 konstatert. Hvis ektefellen eller samboeren din er
-Side 9 av 16Vilkår for brannforsikring
-
 omfattet av forsikringen og har medvirket til skaden,
 regnes også dette som ett skadetilfelle.
 Du plikter for egen regning å
@@ -771,11 +774,11 @@ Saksomkostninger du får tilkjent, trekker vi fra i
 erstatningen. Vi erstatter likevel tilkjente
 saksomkostninger hvis du kan dokumentere at
 motparten ikke kan betale.
+Side 10 av 17Vilkår for brannforsikring
+
 Hvis du i en dom blir tilkjent saksomkostninger, må du
 på forhånd ha godkjennelse fra Frende hvis du etter
 dommen vil inngå forlik som innebærer at du må bære
-Side 10 av 16Vilkår for brannforsikring
-
 dine egne omkostninger. Hvis vi ikke har godkjent
 forliket, trekker vi fra saksomkostningene du ble tilkjent i
 dommen.
@@ -852,11 +855,11 @@ Frende kan kreve at du ber domstolen vurdere
 salærkravet fra advokaten din etter reglene i tvisteloven
 § 3-8. Både du og Frende kan be Den Norske
 Advokatforening vurdere om salærkravet er rimelig.
+Side 11 av 17Vilkår for brannforsikring
+
 Disse kravene stiller vi til deg
 Kravene vi stiller til deg, stiller vi også til ektefellen eller
 samboeren din. Det betyr at om kravene vi stiller til deg
-Side 11 av 16Vilkår for brannforsikring
-
 for å unngå skader, blir brutt av ektefellen eller
 samboeren din, så kan både din og
 ektefellen/samboerens rett til erstatning falle bort.
@@ -866,14 +869,14 @@ næringsdrivende, stiller vi disse kravene også til
 bestemte ansatte i bedriften. Retten til erstatning kan
 derfor falle bort hvis forsikringstilfellet skyldes
 handlinger eller unnlatelser fra:
--          Sikredes øverste ledelse.
--          Ansvarshavende for det skadeforebyggende
+• Sikredes øverste ledelse.
+• Ansvarshavende for det skadeforebyggende
 arbeid.
--          Person i overordnet stilling som har ansvar for
+• Person i overordnet stilling som har ansvar for
 produksjon, vedlikehold, drift, HMS eller økonomi. 
--          Formann, bas eller andre som skal påse at arbeid
+• Formann, bas eller andre som skal påse at arbeid
 utføres i samsvar med sikkerhetsforskriftene.
--          Andre som med sikredes eller forsikringstakers
+• Andre som med sikredes eller forsikringstakers
 samtykke er ansvarlig for forsikringsgjenstanden.
 8. Vi må få riktige opplysninger
 I forsikringsbeviset for hus- og hytteforsikringen din står
@@ -936,12 +939,12 @@ sikkerhetsforskrifter
 10.1 Brann og eksplosjonsfarlig stoff
 Behandling og oppbevaring av brann og
 eksplosjonsfarlig stoff skal være i samsvar med
+Side 12 av 17Vilkår for brannforsikring
+
 1. kapittel 2 og 3 i forskrift om håndtering av
 brannfarlig stoff av 8. juni 2009 og
 2. kapittel 7 i forskrift om håndtering av
 eksplosjonsfarlig stoff av 26. juni 2002
-Side 12 av 16Vilkår for brannforsikring
-
 Forsyningsanlegg og fordelingsanlegg med tanker, rør,
 armatur og andre gasstekniske komponenter for
 energigasser, skal prosjekteres, installeres, kontrolleres
@@ -1014,12 +1017,12 @@ varmt arbeid utføres skal være tettet
 4. egnet slokkeutstyr i forskriftsmessig stand,
 minimum 2 stk 6 kg/liter håndslokkeapparat skal
 være lett tilgjengelig. Ett håndslokkeapparat kan
+Side 13 av 17Vilkår for brannforsikring
+
 erstattes med brannslange påsatt vann frem til
 strålerøret
 5. navngitt brannvakt skal kontinuerlig overvåke
 brannrisiko under arbeidet, i pauser og nødvendig
-Side 13 av 16Vilkår for brannforsikring
-
 tid etter at arbeidet er avsluttet, minimum en time.
 Utførende kan være brannvakt der brannrisikoen
 vurderes som lav
@@ -1088,10 +1091,10 @@ oppfylt i internkontrollsystemet.
 Avfall som kan selvantenne, skal straks legges i egnede
 beholdere av metall med selvlukkende lokk eller fjernes
 til betryggende sted.
+Side 14 av 17Vilkår for brannforsikring
+
 10.8 Utendørs oppbevaring av avfall
 Brennbart avfall som uten permanent tilsyn ligger i eller
-Side 14 av 16Vilkår for brannforsikring
-
 utenfor container/oppbevaringsenhet, skal plasseres
 slik at brann ikke kan smitte til byggverk (bygning,
 konstruksjon, anlegg).
@@ -1135,16 +1138,17 @@ Systemet skal prosjekteres og installeres i henhold til en
 relevant standard.
 Minimumskrav er gitt i NFPA 17A og det skal
 dokumenteres at system og funksjonalitet oppfyller krav
-i standarden. Slokkeanlegget skal kunne løse ut
-automatisk og manuelt. Strøm og gasstilførsel skal
-frakobles automatisk ved aktivisering av anlegget.
+i standarden.
+Slokkeanlegget skal kunne løse ut automatisk og
+manuelt. Strøm og gasstilførsel skal frakobles
+automatisk ved aktivisering av anlegget.
 Slokkemediet skal være godkjent for matfett og hindre
 re-antenning etter slokking. Slokkeanlegget skal i tillegg
 til å dekke frityr, koke- og stekeinnretninger også
 minimum dekke ventilasjonshette med fettfilter og
-ventilasjonskanal i henhold til systemkrav. Ytelsen til
-slokkeanlegget skal være testet i henhold til UL 300 av
-et akkreditert sertifiseringsorgan.
+ventilasjonskanal i henhold til systemkrav.
+Ytelsen til slokkeanlegget skal være testet i henhold til
+UL 300 av et akkreditert sertifiseringsorgan.
 10.11.3 Kontroll, ettersyn og vedlikehold
 Produsentens bestemmelser om kontroll, vedlikehold og
 ettersyn av anlegget skal følges, det skal verifiseres at
@@ -1162,12 +1166,12 @@ minimum rengjøres minst hver uke, hyppigere ved
 behov og kanal med avtrekksvifter må rengjøres hvert
 år, helt ut til det fri.
 10.11.5 Strøm- og gasstilførsel
+Side 15 av 17Vilkår for brannforsikring
+
 Strøm og eventuell gasstilførsel for frityr, andre koke- og
 steke innretninger skal frakobles ved arbeidstidens
 slutt.
 10.11.6 Håndslokkere
-Side 15 av 16Vilkår for brannforsikring
-
 I tillegg til automatisk slokkeanlegg er det krav til
 manuelt håndslokkeapparat, minimum 6 liter,
 brannklasse 75F, testet og godkjent etter gjeldende
@@ -1230,6 +1234,41 @@ uvedkommende.
 2. EDB-utstyr må brukes og lagres på egnet sted
 med hensyn til temperatur, luftfuktighet og gass-
 og støvinnhold i luften.
+10.17 Flytebrygge
+Dersom flytebrygge er forsikret så gjelder i tillegg til
+sikkerhetsforskriftene over:
+10.17.1 Fortøyning og sikring
+Flytebryggeanlegget skal til enhver tid være forsvarlig
+fortøyd og forankret i henhold til produsentens
+anvisninger og dimensjonert for de vær- og bølgeforhold
+som normalt kan forventes på den aktuelle lokaliteten.
+Side 16 av 17Vilkår for brannforsikring
+
+10.17.2 Ekstremvær
+Ved varsel om storm, flom, stormflo eller andre
+ekstraordinære værforhold skal sikrede kontrollere at
+flytebrygge, fortøyninger, kjettinger, fester og øvrige
+sikringsanordninger er forsvarlig dimensjonert, intakte
+og tilstrekkelig strammet. Løse gjenstander skal fjernes
+eller sikres, og nødvendig tilsyn skal gjennomføres.
+10.17.3 Inspeksjon og kontroll
+Flytebryggeanlegget skal inspiseres regelmessig.
+Forankringer, moringer, kjettinger, sjakler,
+strekkavlastere og øvrige bærende komponenter skal
+kontrolleres minst én gang årlig og det skal fylles ut
+sjekkliste. Sjekklisten skal kunne fremvises til
+forsikringsselskapet ved skade.
+Minimum hvert tredje år skal det gjøres dykkerkontroll
+av forankringsfester i bunn.
+10.17.4 Vedlikehold
+Anlegget skal vedlikeholdes i samsvar med
+leverandørens anbefalinger. Oppdagede feil, skader
+eller svakheter skal utbedres uten ugrunnet opphold.
+10.17.5 Sleping og flytting
+Flytting eller sleping av flytebryggeanlegget skal
+planlegges og gjennomføres av kvalifisert personell.
+Selskapet skal varsles på forhånd dersom flyttingen
+innebærer særskilt risiko.
 11. Frist for å melde krav
 Du må snarest, og senest innen ett år, melde krav til
 Frende. Vi regner fristen fra tidspunktet du fikk
@@ -1237,4 +1276,4 @@ kunnskap om forholdene som begrunner kravet ditt.
 Hvis du ikke har meldt kravet ditt innen fristen, mister
 du retten til å kreve erstatning etter reglene i § 8-5 i
 forsikringsavtaleloven.
-Side 16 av 16Vilkår for brannforsikring
+Side 17 av 17Vilkår for brannforsikring
